@@ -152,4 +152,8 @@ translated-partial-note:
 	$(PDFLATEX) -interaction=nonstopmode -halt-on-error -output-directory=artifacts notes/translated-partial-note.tex
 	cp artifacts/translated-partial-note.pdf artifacts/translated-partial-18-note.pdf
 
-verify: translated-partial-certificate
+verify: translated-partial-certificate translated-refinement-patch
+
+.PHONY: translated-refinement-patch
+translated-refinement-patch:
+	python3 research/translated-partial/make_refinement_patch.py

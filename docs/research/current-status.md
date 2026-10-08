@@ -1,5 +1,5 @@
 # Current construction on this branch
 
-The translated partial-swap and phase-frame extension certifies **κ=5499/10^9 > 2^-18**. It retains PR18's physical scalar producers and prescribed common basis, changes dedicated middle auxiliary endpoints, and uses a separately verified complex source-phase interface with a new precision guard.
+The conditional saving is **κ=5711491/10^12=5.711491×10^-6 > 2^-18**, about 3.864% above Zhihao Chen's PR21. This revision by Rohan Arun with OpenAI Codex assistance tightens only exact numerical parameters. PR21's translated partial-swap and complex phase constructions, physical producers, common basis and precision guard remain unchanged.
 
-See [the proof and exact reproduction package](../../research/translated-partial/README.md). This is a final conditional multiplication saving, not only a bit-component saving. It does not exceed 2^-17.
+See [the proof and exact reproduction package](../../research/translated-partial/README.md). This is a conditional multiplication saving. It does not exceed 2^-17 and is not a formal verification of the inherited proofs.

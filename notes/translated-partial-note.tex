@@ -9,8 +9,8 @@
 \newtheorem{lemma}[theorem]{Lemma}
 \newtheorem{proposition}[theorem]{Proposition}
 \title{Translated partial-swap and phase frames\\
-\large A conditional $5499/10^9>2^{-18}$ multiplication saving}
-\author{Zhihao Chen (jacklightChen)\\\small With substantial OpenAI Codex assistance}
+\large A conditional $5711491/10^{12}>2^{-18}$ multiplication saving}
+\author{Construction: Zhihao Chen (jacklightChen)\\Parameter refinement: Rohan Arun\\\small With substantial OpenAI Codex assistance}
 \date{8 October 2026}
 \begin{document}
 \maketitle
@@ -19,7 +19,7 @@ We combine the partial-swap network of icekylinx's PR18 with a new
 auxiliary source-frame translation and its compatible contiguous corner.
 An operator-correct phase-frame translation strengthens the independent
 complex interface. Under the retained analytic and fixed-tape hypotheses,
-the exact witness is $\kappa=5499/10^9=5.499\times10^{-6}>2^{-18}$ in
+a parameter refinement of the unchanged PR21 construction gives $\kappa=5711491/10^{12}=5.711491\times10^{-6}>2^{-18}$ in
 $T(n)=O(n(\log n)^{1-\kappa})$. All original scalar maps and physical
 allocations are retained. New finite controls and exact certificates
 support the written construction; they are not formal verification of
@@ -27,6 +27,14 @@ the complete multiplication theorem.
 \end{abstract}
 
 \section{Scope and attribution}
+This revision changes only the exact parameters and their arithmetic
+certificate. The translated source-frame construction, physical producer,
+common-basis profiles, complex phase proof, and precision guard are the
+work of Zhihao Chen in PR21 \cite{pr21}. Rohan Arun contributed this
+parameter refinement with OpenAI Codex assistance; no new geometric
+construction is claimed. The conditional saving is about $3.864\%$ larger
+than PR21's $5499/10^9$.
+
 The computational model is a fixed finite-alphabet multitape Turing machine.
 Every finite network, basis, prime, and tape count is fixed independently of
 the input length. The bit payload field is $\mathbb F_2$; its address
@@ -125,5 +133,7 @@ multiplication}. Main commit
 \url{https://github.com/CrocSwap/integer-mult-bounds/pull/16}.
 \bibitem{pr18} icekylinx. Partial-swap networks.
 \url{https://github.com/CrocSwap/integer-mult-bounds/pull/18}.
+\bibitem{pr21} Zhihao Chen (jacklightChen). Translated partial-swap and phase frames.
+\url{https://github.com/CrocSwap/integer-mult-bounds/pull/21}.
 \end{thebibliography}
 \end{document}

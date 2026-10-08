@@ -35,6 +35,20 @@ class TranslatedPartialIntegration(unittest.TestCase):
         with self.assertRaises(AssertionError):v.assembly(replace(v.parameters(),sigma=1-Q(417,10**8)))
         with self.assertRaises(ValueError):v.bit_certificate(Q(12,10**6))
 
+    def test_tighter_moment_and_next_grid_boundary(self):
+        b=v.bit_certificate()
+        self.assertGreater(b['strict_gap'],Q(3,10**14))
+        self.assertGreater(v.BIT_SAVING,Q(11,10**6))
+        with self.assertRaisesRegex(ValueError,'Characteristic moment'):
+            v.bit_certificate(v.BIT_SAVING+Q(1,10**12))
+        # Failure of an upper enclosure is not a lower bound on the true moment.
+        a=v.assembly();p=v.parameters()
+        expected=v.BIT_SAVING/(2+v.BIT_SAVING)-p.delta
+        self.assertEqual(a['minimum_margin'],expected)
+        self.assertGreater(a['absorption_gap'],Q(3,10**13))
+        with self.assertRaises(AssertionError):
+            v.assembly(replace(p,kappa=expected))
+
     def test_pinned_dependency_and_active_theorem_have_separate_sources(self):
         v.validate_retained_sources()
         note=(ROOT/'notes/translated-partial-note.tex').read_text()
@@ -42,6 +56,6 @@ class TranslatedPartialIntegration(unittest.TestCase):
         self.assertIn('notes/translated-partial-complex.tex',note)
         self.assertIn('notes/translated-partial-assembly.tex',note)
         self.assertNotIn(r'\input{notes/partial-swap-assembly.tex}',note)
-        self.assertIn(r'\frac{5499}{10^9}',(ROOT/'notes/translated-partial-assembly.tex').read_text())
+        self.assertIn(r'\frac{5711491}{10^{12}}',(ROOT/'notes/translated-partial-assembly.tex').read_text())
 
 if __name__=='__main__':unittest.main()

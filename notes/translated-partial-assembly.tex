@@ -8,10 +8,14 @@ specified in the opening section. The translated partial-swap bit interface
 and translated complex phase interface proved here give
 \[
  T(n)=O\!\left(n(\log n)^{1-\kappa}\right),\qquad
- \boxed{\kappa=\frac{5499}{10^9}=5.499\times10^{-6}>2^{-18}}.
+ \boxed{\kappa=\frac{5711491}{10^{12}}=5.711491\times10^{-6}>2^{-18}}.
 \]
 \end{theorem}
 \begin{proof}
+This parameter refinement retains the complete construction of Zhihao
+Chen's PR21, pinned at
+\texttt{5ba6cf0bfb68f2be8d15610e7972207c50254d6a}.
+Only the numerical bit saving and final assembly parameters are tightened.
 The bit construction keeps all three PR18 scalar producers and their exact
 physical histograms. Only the dedicated middle auxiliary bank endpoints
 change. If $c_t$ is the prior complete child list and $B_2=2609547248000$,
@@ -27,10 +31,13 @@ establishes actual contiguous blocks in the one inherited rational basis.
 With the rational logarithm and exponential enclosures of the retained
 bit certificate, exact arithmetic gives
 \[
- a_b=\frac{11}{10^6},\qquad
+ a_b=\frac{1427881}{125000000000},\qquad
  \frac{\sum_t c_t t^{1-a_b}}{W_bm_b^{1-a_b}}
- <1-\frac{159}{10^{10}}.
+ <1-\frac{3}{10^{14}}.
 \]
+The next point $a_b+10^{-12}$ does not pass this rational upper-enclosure
+certificate. This does not assert failure of the actual moment or optimality
+over other enclosures, parameter choices, or constructions.
 The retained arbitrary integer-width row construction therefore applies,
 including padding, arbitrary spectator gaps and workspace cleanup.
 
@@ -45,8 +52,8 @@ allowed to differ by the retained arbitrary-width interface.
 Take
 \[
 \begin{aligned}
- \tau&=1-\frac{11}{10^6},&\sigma&=1-\frac{18}{10^6},\\
- \epsilon&=\frac1{2+a_b}=\frac{1000000}{2000011},&c&=1,\\
+ \tau&=1-\frac{1427881}{125000000000},&\sigma&=1-\frac{18}{10^6},\\
+ \epsilon&=\frac1{2+a_b}=\frac{125000000000}{250001427881},&c&=1,\\
  \beta&=\frac1{1000},&\delta&=\frac1{10^{16}},\\
  \lambda&=\tau+\frac1{10^{20}},&\lambda'&=\tau+\frac2{10^{20}},\\
  \zeta&=\frac1{10000},&C_1&=2-\beta+\zeta=\frac{19991}{10000}.
@@ -70,8 +77,8 @@ For the seven retained assembly margins,
 the minimum is $g_5=a_b/(2+a_b)-\delta$. Exact subtraction yields
 \[
  \min_i g_i-\kappa
- =\frac{11}{2000011}-\frac1{10^{16}}-\frac{5499}{10^9}
- >\frac9{10^{10}}>0.
+ =\frac{1427881}{250001427881}-\frac1{10^{16}}-\frac{5711491}{10^{12}}
+ >\frac3{10^{13}}>0.
 \]
 All 29 strict interface constraints are evaluated exactly by the same
 certificate. The positive $1-2\epsilon$ and $1-\epsilon(1+c)$ supply

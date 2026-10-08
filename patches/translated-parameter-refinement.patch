@@ -1,0 +1,349 @@
+--- a/README.md
++++ b/README.md
+@@ -1,8 +1,8 @@
+ # Conditional multiplication saving beyond 2^-18
+ 
+-The latest construction on this branch gives **κ=5499/10^9=5.499×10^-6 > 2^-18** in `O(n (log n)^(1−κ))`, under the retained analytic and fixed-tape hypotheses. It translates the middle auxiliary source frames of PR18 and strengthens the independent complex phase interface.
++The latest construction on this branch gives **κ=5711491/10^12=5.711491×10^-6 > 2^-18** in `O(n (log n)^(1−κ))`, under the retained analytic and fixed-tape hypotheses. This is a parameter-only refinement of [Zhihao Chen's PR21](https://github.com/CrocSwap/integer-mult-bounds/pull/21), about 3.864% above its 5.499×10^-6 witness. Its translated middle auxiliary frames, complex phase interface, geometry and physical producers are unchanged.
+ 
+-See [the construction, exact parameters and reproduction commands](research/translated-partial/README.md), [the complete proof](notes/translated-partial-note.tex), and [the compiled PDF](artifacts/translated-partial-18-note.pdf). Zhihao Chen (jacklightChen), with substantial OpenAI Codex assistance; preceding attribution is retained in NOTICE.
++See [the construction, exact parameters and reproduction commands](research/translated-partial/README.md), [the complete proof](notes/translated-partial-note.tex), and [the compiled PDF](artifacts/translated-partial-18-note.pdf). Construction by Zhihao Chen (jacklightChen); parameter refinement by Rohan Arun, with substantial OpenAI Codex assistance. Preceding attribution is retained in NOTICE.
+ 
+ The PR18 sources and their prior result are retained below as dependencies.
+ 
+--- a/NOTICE
++++ b/NOTICE
+@@ -84,3 +84,15 @@
+ Chen (jacklightChen), cite it, and retain all relevant preceding attribution.
+ This provenance request adds no license condition; Apache-2.0 is unchanged.
+ No worldwide first or exclusive-priority claim is made.
++
++Parameter refinement of translated partial swaps, 8 October 2026
++Copyright 2026 Rohan Arun
++
++Rohan Arun, with substantial OpenAI Codex assistance, tightened only the exact
++bit moment and final assembly parameters of Zhihao Chen's PR21, pinned at
++5ba6cf0bfb68f2be8d15610e7972207c50254d6a. The conditional final saving becomes
++kappa=5711491/10^12. The translated endpoint construction, common basis,
++physical producers, complex phase interface and precision guard remain
++Zhihao Chen's contribution and their inherited dependencies. All preceding
++attribution, license conditions and mathematical hypotheses are retained.
++No new geometric construction or unrestricted optimality is claimed.
+--- a/Makefile
++++ b/Makefile
+@@ -152,4 +152,8 @@
+ 	$(PDFLATEX) -interaction=nonstopmode -halt-on-error -output-directory=artifacts notes/translated-partial-note.tex
+ 	cp artifacts/translated-partial-note.pdf artifacts/translated-partial-18-note.pdf
+ 
+-verify: translated-partial-certificate
++verify: translated-partial-certificate translated-refinement-patch
++
++.PHONY: translated-refinement-patch
++translated-refinement-patch:
++	python3 research/translated-partial/make_refinement_patch.py
+--- a/docs/research/current-status.md
++++ b/docs/research/current-status.md
+@@ -1,5 +1,5 @@
+ # Current construction on this branch
+ 
+-The translated partial-swap and phase-frame extension certifies **κ=5499/10^9 > 2^-18**. It retains PR18's physical scalar producers and prescribed common basis, changes dedicated middle auxiliary endpoints, and uses a separately verified complex source-phase interface with a new precision guard.
++The conditional saving is **κ=5711491/10^12=5.711491×10^-6 > 2^-18**, about 3.864% above Zhihao Chen's PR21. This revision by Rohan Arun with OpenAI Codex assistance tightens only exact numerical parameters. PR21's translated partial-swap and complex phase constructions, physical producers, common basis and precision guard remain unchanged.
+ 
+-See [the proof and exact reproduction package](../../research/translated-partial/README.md). This is a final conditional multiplication saving, not only a bit-component saving. It does not exceed 2^-17.
++See [the proof and exact reproduction package](../../research/translated-partial/README.md). This is a conditional multiplication saving. It does not exceed 2^-17 and is not a formal verification of the inherited proofs.
+--- a/research/translated-partial/README.md
++++ b/research/translated-partial/README.md
+@@ -2,15 +2,21 @@
+ 
+ The conditional final multiplication saving is
+ 
+-**κ = 5499/10^9 = 5.499 × 10^-6 > 2^-18**, in
++**κ = 5711491/10^12 = 5.711491 × 10^-6 > 2^-18**, in
+ `T(n) = O(n (log n)^(1−κ))` on the retained fixed finite-alphabet multitape model.
+ This exceeds both 2^-19 and 2^-18, but not 2^-17. It is an asymptotic exponent result.
+ 
+ The branch starts from upstream main `6e564879f51ae16f23d392e9e196c605f36d90df`, retaining PR10 and the complete text sources of [icekylinx's PR18](https://github.com/CrocSwap/integer-mult-bounds/pull/18), pinned at `f2ab41aebad47861caf6316282c1793e5513845e`. Every source hash recorded by PR18 matches. The new result is in this directory and `notes/translated-partial-*.tex`; the PR18 construction files remain unchanged.
+ 
+-## What changes
++## Parameter refinement
+ 
+-For every dedicated stage-two auxiliary in PR18's bit network, choose source frame `D_P0` and sink frame `D_(I−P0)`. Arbitrary dirty scratch is restored logically and the physical endpoint remains `D_I`. Nested projections give terminal residual `D_(I−P1+P0)`, of rank 32752, while the entrance becomes identity. The existing prescribed common basis supplies contiguous widths **23 and 32729**, replacing **575, 31625, 23 and 529**. Rank sum, role count, scalar circuit and all other edges are unchanged. The new bit moment supports **a_b=11/10^6**, with strict gap greater than 1.59e-8.
++This revision starts from [Zhihao Chen's PR21](https://github.com/CrocSwap/integer-mult-bounds/pull/21), pinned at `5ba6cf0bfb68f2be8d15610e7972207c50254d6a`. Rohan Arun with OpenAI Codex assistance changed only the exact bit saving and final numerical assembly, improving the conditional κ by about 3.864%. All physical networks, geometry, corner blocks, complex parameters and mathematical dependencies remain those of PR21. The next 10^-12 bit-saving grid point fails the retained rational upper-enclosure certificate; that does not establish that the actual moment fails or that this construction is globally optimal.
++
++The focused [source patch](../../patches/translated-parameter-refinement.patch) is against this pinned PR21 source, not the original OpenAI upstream manuscript. Generate and check it with `python3 research/translated-partial/make_refinement_patch.py`. Previously inherited upstream patches are unchanged.
++
++## Retained PR21 construction
++
++For every dedicated stage-two auxiliary in PR18's bit network, choose source frame `D_P0` and sink frame `D_(I−P0)`. Arbitrary dirty scratch is restored logically and the physical endpoint remains `D_I`. Nested projections give terminal residual `D_(I−P1+P0)`, of rank 32752, while the entrance becomes identity. The existing prescribed common basis supplies contiguous widths **23 and 32729**, replacing **575, 31625, 23 and 529**. Rank sum, role count, scalar circuit and all other edges are unchanged. The new bit moment supports **a_b=1427881/125000000000**, with strict gap greater than 3e-14.
+ 
+ The independent complex network uses the **PR7/PR16 physical schedule**, without adding PR18's separate complex data-entrance movement. Source operator `C_D0` and sink operator `C_I C_D0` cancel the old entrance and give the exact terminal operator `C_(E-perp)`. Its explicit orthonormal basis includes all sign corrections; a zero-polarization argument and all 21952 coordinate checks prove the phase identity on the full binary address space. All actual physical edges and stage boundaries are counted directly. The complex saving is **a_c=18/10^6**, with strict moment gap greater than 6.66e-9.
+ 
+@@ -18,8 +24,8 @@
+ 
+ ## Exact assembly
+ 
+-Take epsilon=1000000/2000011, c=1, beta=1/1000, delta=10^-16,
+-λ=1−a_b+10^-20 and λ′=1−a_b+2×10^-20. All 29 strict constraints and seven final margins pass exact rational arithmetic. The final absorption margin exceeds **9×10^-10**.
++Take epsilon=125000000000/250001427881, c=1, beta=1/1000, delta=10^-16,
++λ=1−a_b+10^-20 and λ′=1−a_b+2×10^-20. All 29 strict constraints and seven final margins pass exact rational arithmetic. The final absorption margin exceeds **3×10^-13**.
+ 
+ The complete written proof is [translated-partial-note.tex](../../notes/translated-partial-note.tex), with a [compiled PDF](../../artifacts/translated-partial-18-note.pdf). It includes the retained PR18 scalar construction and common-basis proof, the new endpoint and complex phase proofs, and the final assembly. The retained generic basis and analytic/tape arguments are written mathematical dependencies; this is not formal verification or external review.
+ 
+@@ -40,6 +46,9 @@
+ 
+ ## Attribution
+ 
++**Rohan Arun**, with substantial **OpenAI Codex assistance**, contributed this parameter-only refinement. No new geometric construction is claimed.
++
++
+ **Zhihao Chen (jacklightChen)** contributed the new translated partial-swap endpoint and compatible corner, the operator-correct complex source translation, complete physical accounting and revised precision guard, and the assembled witness, with substantial **OpenAI Codex assistance**. The earlier **GPT-6 Astra** attribution is preserved as recorded; it does not identify the runtime model of this continuation.
+ 
+ This builds on **icekylinx's PR18** partial-swap network, selected binary producers and prescribed basis; **eumemic's PR13** source-frame idea (with Claude assistance); **Zhihao Chen's PR7 and PR16** finite network and nested-basis work; **icekylinx's PR10** batching and tape interfaces; and the preceding authors in NOTICE. Rohan Arun's PR14 independently supplies overlapping data-corner refinements. Their constructions are not claimed as new here.
+--- a/research/translated-partial/verify.py
++++ b/research/translated-partial/verify.py
+@@ -2,6 +2,7 @@
+ """Exact translated partial-swap bit moment and conditional final assembly.
+ 
+ Zhihao Chen (jacklightChen), with OpenAI Codex assistance. Apache-2.0.
++Parameter refinement by Rohan Arun with OpenAI Codex assistance.
+ The preserved PR18 source, complex source-frame extension, and their written
+ finite-tape/analytic hypotheses are explicit dependencies, not inferred here.
+ """
+@@ -20,9 +21,10 @@
+ from fast_gaussian import fast_constraints,fast_margins
+ from prepare_layers import serializable
+ 
+-BIT_SAVING=Q(11,10**6)
++BIT_SAVING=Q(1427881,125000000000)
+ COMPLEX_SAVING=Q(18,10**6)
+-KAPPA=Q(5499,10**9)
++KAPPA=Q(5711491,10**12)
++PR21='5ba6cf0bfb68f2be8d15610e7972207c50254d6a'
+ PR18='f2ab41aebad47861caf6316282c1793e5513845e'
+ MAIN='6e564879f51ae16f23d392e9e196c605f36d90df'
+ 
+@@ -108,13 +110,15 @@
+     if producer:controls['regenerated_producer']=validate_producer(producer)
+     else:raise ValueError('A complete once-regenerated producer certificate is required')
+     rejected=[]
+-    for name,check in [('unsupported_bit_saving',lambda:bit_certificate(Q(12,10**6))),
++    for name,check in [('next_bit_grid_not_certified',lambda:bit_certificate(BIT_SAVING+Q(1,10**12))),
++                        ('unsupported_bit_saving',lambda:bit_certificate(Q(12,10**6))),
+                         ('unsupported_2_minus17',lambda:assembly(replace(parameters(),kappa=Q(1,2**17))))]:
+         try:check()
+         except (AssertionError,ValueError):rejected.append(name)
+         else:raise AssertionError('Negative control failed: '+name)
+     paths=sorted(p for p in HERE.glob('*.py'))+sorted((ROOT/'notes').glob('translated-partial-*.tex'))
+-    return dict(status='CONDITIONAL FINAL MULTIPLICATION SAVING 5499/10^9 > 2^-18; NOT FORMAL VERIFICATION',
++    return dict(status='CONDITIONAL PARAMETER REFINEMENT 5711491/10^12 > 2^-18; NOT FORMAL VERIFICATION',
++        refinement_base=PR21,refinement_scope='Only exact numerical parameters change; PR21 geometry, physical producers, source frames, block profiles, complex saving and guard are unchanged.',
+         baseline_main=MAIN,retained_pr18=retained_sources,source_frame_PR13='3ef246fa4f69c87ebfed78376418afa9ffcad145',
+         nested_PR16='a80f5e676c84b59def9791495df0655efe89a04f',
+         bit=b,complex=c,assembly=a,controls=controls,negative_controls=rejected,
+--- /dev/null
++++ b/research/translated-partial/make_refinement_patch.py
+@@ -0,0 +1,52 @@
++#!/usr/bin/env python3
++"""Reproduce the parameter-only source patch against pinned PR21, not upstream.
++
++Rohan Arun, with OpenAI Codex assistance; inherited attribution is retained.
++"""
++from difflib import unified_diff
++from hashlib import sha256
++from pathlib import Path
++import json
++import subprocess
++
++ROOT=Path(__file__).resolve().parents[2]
++BASE='5ba6cf0bfb68f2be8d15610e7972207c50254d6a'
++FILES=['README.md','NOTICE','Makefile','docs/research/current-status.md',
++       'research/translated-partial/README.md','research/translated-partial/verify.py',
++       'research/translated-partial/make_refinement_patch.py',
++       'research/translated-partial/refinement-source.json',
++       'notes/translated-partial-note.tex','notes/translated-partial-assembly.tex',
++       'tests/test_translated_partial.py']
++
++
++def main():
++    manifest=json.loads((ROOT/'research/translated-partial/refinement-source.json').read_text())
++    assert manifest['base_commit']==BASE
++    for path,digest in manifest['baseline_source_sha256'].items():
++        original=subprocess.check_output(['git','show',BASE+':'+path],cwd=ROOT)
++        assert sha256(original).hexdigest()==digest,path
++    check=ROOT/'build/translated-refinement/pinned-patch-check'
++    check.mkdir(parents=True,exist_ok=True)
++    pieces=[]
++    for path in FILES:
++        result=subprocess.run(['git','show',BASE+':'+path],cwd=ROOT,capture_output=True)
++        original=result.stdout.decode() if result.returncode==0 else ''
++        current=(ROOT/path).read_text()
++        dest=check/path
++        dest.parent.mkdir(parents=True,exist_ok=True)
++        if result.returncode==0:
++            dest.write_text(original)
++        elif dest.exists():
++            dest.unlink()
++        pieces.extend(unified_diff(original.splitlines(keepends=True),current.splitlines(keepends=True),
++                                   fromfile='a/'+path if original else '/dev/null',tofile='b/'+path))
++    patch=ROOT/'patches/translated-parameter-refinement.patch'
++    patch.write_text(''.join(pieces))
++    args=['git','apply','--directory='+str(check.relative_to(ROOT))]
++    subprocess.run(args+['--check',str(patch)],cwd=ROOT,check=True)
++    subprocess.run(args+[str(patch)],cwd=ROOT,check=True)
++    assert all((check/p).read_bytes()==(ROOT/p).read_bytes() for p in FILES)
++    print('PASS focused parameter patch against pinned PR21 '+BASE+'; '+str(len(FILES))+' source files')
++
++
++if __name__=='__main__':main()
+--- /dev/null
++++ b/research/translated-partial/refinement-source.json
+@@ -0,0 +1,17 @@
++{
++  "base_commit": "5ba6cf0bfb68f2be8d15610e7972207c50254d6a",
++  "base_pr": "https://github.com/CrocSwap/integer-mult-bounds/pull/21",
++  "scope": "Pinned PR21 source for the parameter-only review patch; not a patch against original upstream.",
++  "baseline_source_sha256": {
++    "notes/translated-partial-assembly.tex": "0ac082d7d7d1637ac2767cb9e1f48d0876b6543c971ecf187f4d823cd4e81fdc",
++    "notes/translated-partial-bit.tex": "be97098011eef9ee76ec381494f8ab37905fa057efe556893c04af3ea4517cea",
++    "notes/translated-partial-complex.tex": "5b1f666769309fc1e674d59a1d23a1612fa7d82e7451643d073ae30e861995d1",
++    "notes/translated-partial-note.tex": "e1c1a12add57ccfc36439eadac3ad2c325d0153154713f6a5d7e83456517bbc8",
++    "research/translated-partial/bit_controls.py": "285cb0f92535b0b7fa602b259dbcb3b1e1829919a780b9140c08534aa9f4cda4",
++    "research/translated-partial/complex_controls.py": "7d0686d4ea2f7eec22a364bfadcd4635abbac82c824bda19276842a58c9800f0",
++    "research/translated-partial/complex_physical.py": "aac67b37f7509b824a763ebd8ebbfc6275700dacf2116785aa8125cc73b79831",
++    "research/translated-partial/complex_source.py": "c729c3ca52e6e89ae3a857eb18086015ef580a9122d8aca2b9cfbcd5567908d8",
++    "research/translated-partial/matrix_helpers.py": "629f072fc5c003f27c181a4209f93caa0ab88b2b52c50255e8201774849c6595",
++    "research/translated-partial/verify.py": "a66a04e540e21c12974c893bdb92c28b42ceb7f4a44d71e1b7c43674347952c3"
++  }
++}
+--- a/notes/translated-partial-note.tex
++++ b/notes/translated-partial-note.tex
+@@ -9,8 +9,8 @@
+ \newtheorem{lemma}[theorem]{Lemma}
+ \newtheorem{proposition}[theorem]{Proposition}
+ \title{Translated partial-swap and phase frames\\
+-\large A conditional $5499/10^9>2^{-18}$ multiplication saving}
+-\author{Zhihao Chen (jacklightChen)\\\small With substantial OpenAI Codex assistance}
++\large A conditional $5711491/10^{12}>2^{-18}$ multiplication saving}
++\author{Construction: Zhihao Chen (jacklightChen)\\Parameter refinement: Rohan Arun\\\small With substantial OpenAI Codex assistance}
+ \date{8 October 2026}
+ \begin{document}
+ \maketitle
+@@ -19,7 +19,7 @@
+ auxiliary source-frame translation and its compatible contiguous corner.
+ An operator-correct phase-frame translation strengthens the independent
+ complex interface. Under the retained analytic and fixed-tape hypotheses,
+-the exact witness is $\kappa=5499/10^9=5.499\times10^{-6}>2^{-18}$ in
++a parameter refinement of the unchanged PR21 construction gives $\kappa=5711491/10^{12}=5.711491\times10^{-6}>2^{-18}$ in
+ $T(n)=O(n(\log n)^{1-\kappa})$. All original scalar maps and physical
+ allocations are retained. New finite controls and exact certificates
+ support the written construction; they are not formal verification of
+@@ -27,6 +27,14 @@
+ \end{abstract}
+ 
+ \section{Scope and attribution}
++This revision changes only the exact parameters and their arithmetic
++certificate. The translated source-frame construction, physical producer,
++common-basis profiles, complex phase proof, and precision guard are the
++work of Zhihao Chen in PR21 \cite{pr21}. Rohan Arun contributed this
++parameter refinement with OpenAI Codex assistance; no new geometric
++construction is claimed. The conditional saving is about $3.864\%$ larger
++than PR21's $5499/10^9$.
++
+ The computational model is a fixed finite-alphabet multitape Turing machine.
+ Every finite network, basis, prime, and tape count is fixed independently of
+ the input length. The bit payload field is $\mathbb F_2$; its address
+@@ -125,5 +133,7 @@
+ \url{https://github.com/CrocSwap/integer-mult-bounds/pull/16}.
+ \bibitem{pr18} icekylinx. Partial-swap networks.
+ \url{https://github.com/CrocSwap/integer-mult-bounds/pull/18}.
++\bibitem{pr21} Zhihao Chen (jacklightChen). Translated partial-swap and phase frames.
++\url{https://github.com/CrocSwap/integer-mult-bounds/pull/21}.
+ \end{thebibliography}
+ \end{document}
+--- a/notes/translated-partial-assembly.tex
++++ b/notes/translated-partial-assembly.tex
+@@ -8,10 +8,14 @@
+ and translated complex phase interface proved here give
+ \[
+  T(n)=O\!\left(n(\log n)^{1-\kappa}\right),\qquad
+- \boxed{\kappa=\frac{5499}{10^9}=5.499\times10^{-6}>2^{-18}}.
++ \boxed{\kappa=\frac{5711491}{10^{12}}=5.711491\times10^{-6}>2^{-18}}.
+ \]
+ \end{theorem}
+ \begin{proof}
++This parameter refinement retains the complete construction of Zhihao
++Chen's PR21, pinned at
++\texttt{5ba6cf0bfb68f2be8d15610e7972207c50254d6a}.
++Only the numerical bit saving and final assembly parameters are tightened.
+ The bit construction keeps all three PR18 scalar producers and their exact
+ physical histograms. Only the dedicated middle auxiliary bank endpoints
+ change. If $c_t$ is the prior complete child list and $B_2=2609547248000$,
+@@ -27,10 +31,13 @@
+ With the rational logarithm and exponential enclosures of the retained
+ bit certificate, exact arithmetic gives
+ \[
+- a_b=\frac{11}{10^6},\qquad
++ a_b=\frac{1427881}{125000000000},\qquad
+  \frac{\sum_t c_t t^{1-a_b}}{W_bm_b^{1-a_b}}
+- <1-\frac{159}{10^{10}}.
++ <1-\frac{3}{10^{14}}.
+ \]
++The next point $a_b+10^{-12}$ does not pass this rational upper-enclosure
++certificate. This does not assert failure of the actual moment or optimality
++over other enclosures, parameter choices, or constructions.
+ The retained arbitrary integer-width row construction therefore applies,
+ including padding, arbitrary spectator gaps and workspace cleanup.
+ 
+@@ -45,8 +52,8 @@
+ Take
+ \[
+ \begin{aligned}
+- \tau&=1-\frac{11}{10^6},&\sigma&=1-\frac{18}{10^6},\\
+- \epsilon&=\frac1{2+a_b}=\frac{1000000}{2000011},&c&=1,\\
++ \tau&=1-\frac{1427881}{125000000000},&\sigma&=1-\frac{18}{10^6},\\
++ \epsilon&=\frac1{2+a_b}=\frac{125000000000}{250001427881},&c&=1,\\
+  \beta&=\frac1{1000},&\delta&=\frac1{10^{16}},\\
+  \lambda&=\tau+\frac1{10^{20}},&\lambda'&=\tau+\frac2{10^{20}},\\
+  \zeta&=\frac1{10000},&C_1&=2-\beta+\zeta=\frac{19991}{10000}.
+@@ -70,8 +77,8 @@
+ the minimum is $g_5=a_b/(2+a_b)-\delta$. Exact subtraction yields
+ \[
+  \min_i g_i-\kappa
+- =\frac{11}{2000011}-\frac1{10^{16}}-\frac{5499}{10^9}
+- >\frac9{10^{10}}>0.
++ =\frac{1427881}{250001427881}-\frac1{10^{16}}-\frac{5711491}{10^{12}}
++ >\frac3{10^{13}}>0.
+ \]
+ All 29 strict interface constraints are evaluated exactly by the same
+ certificate. The positive $1-2\epsilon$ and $1-\epsilon(1+c)$ supply
+--- a/tests/test_translated_partial.py
++++ b/tests/test_translated_partial.py
+@@ -35,6 +35,20 @@
+         with self.assertRaises(AssertionError):v.assembly(replace(v.parameters(),sigma=1-Q(417,10**8)))
+         with self.assertRaises(ValueError):v.bit_certificate(Q(12,10**6))
+ 
++    def test_tighter_moment_and_next_grid_boundary(self):
++        b=v.bit_certificate()
++        self.assertGreater(b['strict_gap'],Q(3,10**14))
++        self.assertGreater(v.BIT_SAVING,Q(11,10**6))
++        with self.assertRaisesRegex(ValueError,'Characteristic moment'):
++            v.bit_certificate(v.BIT_SAVING+Q(1,10**12))
++        # Failure of an upper enclosure is not a lower bound on the true moment.
++        a=v.assembly();p=v.parameters()
++        expected=v.BIT_SAVING/(2+v.BIT_SAVING)-p.delta
++        self.assertEqual(a['minimum_margin'],expected)
++        self.assertGreater(a['absorption_gap'],Q(3,10**13))
++        with self.assertRaises(AssertionError):
++            v.assembly(replace(p,kappa=expected))
++
+     def test_pinned_dependency_and_active_theorem_have_separate_sources(self):
+         v.validate_retained_sources()
+         note=(ROOT/'notes/translated-partial-note.tex').read_text()
+@@ -42,6 +56,6 @@
+         self.assertIn('notes/translated-partial-complex.tex',note)
+         self.assertIn('notes/translated-partial-assembly.tex',note)
+         self.assertNotIn(r'\input{notes/partial-swap-assembly.tex}',note)
+-        self.assertIn(r'\frac{5499}{10^9}',(ROOT/'notes/translated-partial-assembly.tex').read_text())
++        self.assertIn(r'\frac{5711491}{10^{12}}',(ROOT/'notes/translated-partial-assembly.tex').read_text())
+ 
+ if __name__=='__main__':unittest.main()

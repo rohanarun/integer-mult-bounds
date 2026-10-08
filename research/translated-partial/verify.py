@@ -2,6 +2,7 @@
 """Exact translated partial-swap bit moment and conditional final assembly.
 
 Zhihao Chen (jacklightChen), with OpenAI Codex assistance. Apache-2.0.
+Parameter refinement by Rohan Arun with OpenAI Codex assistance.
 The preserved PR18 source, complex source-frame extension, and their written
 finite-tape/analytic hypotheses are explicit dependencies, not inferred here.
 """
@@ -20,9 +21,10 @@ from compact_control_layer import layer_exponents
 from fast_gaussian import fast_constraints,fast_margins
 from prepare_layers import serializable
 
-BIT_SAVING=Q(11,10**6)
+BIT_SAVING=Q(1427881,125000000000)
 COMPLEX_SAVING=Q(18,10**6)
-KAPPA=Q(5499,10**9)
+KAPPA=Q(5711491,10**12)
+PR21='5ba6cf0bfb68f2be8d15610e7972207c50254d6a'
 PR18='f2ab41aebad47861caf6316282c1793e5513845e'
 MAIN='6e564879f51ae16f23d392e9e196c605f36d90df'
 
@@ -108,13 +110,15 @@ def certificate(producer=None):
     if producer:controls['regenerated_producer']=validate_producer(producer)
     else:raise ValueError('A complete once-regenerated producer certificate is required')
     rejected=[]
-    for name,check in [('unsupported_bit_saving',lambda:bit_certificate(Q(12,10**6))),
+    for name,check in [('next_bit_grid_not_certified',lambda:bit_certificate(BIT_SAVING+Q(1,10**12))),
+                        ('unsupported_bit_saving',lambda:bit_certificate(Q(12,10**6))),
                         ('unsupported_2_minus17',lambda:assembly(replace(parameters(),kappa=Q(1,2**17))))]:
         try:check()
         except (AssertionError,ValueError):rejected.append(name)
         else:raise AssertionError('Negative control failed: '+name)
     paths=sorted(p for p in HERE.glob('*.py'))+sorted((ROOT/'notes').glob('translated-partial-*.tex'))
-    return dict(status='CONDITIONAL FINAL MULTIPLICATION SAVING 5499/10^9 > 2^-18; NOT FORMAL VERIFICATION',
+    return dict(status='CONDITIONAL PARAMETER REFINEMENT 5711491/10^12 > 2^-18; NOT FORMAL VERIFICATION',
+        refinement_base=PR21,refinement_scope='Only exact numerical parameters change; PR21 geometry, physical producers, source frames, block profiles, complex saving and guard are unchanged.',
         baseline_main=MAIN,retained_pr18=retained_sources,source_frame_PR13='3ef246fa4f69c87ebfed78376418afa9ffcad145',
         nested_PR16='a80f5e676c84b59def9791495df0655efe89a04f',
         bit=b,complex=c,assembly=a,controls=controls,negative_controls=rejected,

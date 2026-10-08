@@ -1,30 +1,40 @@
 {
-  "result": "kappa=5499/10^9 > 2^-18, conditional on retained analytic and tape interfaces",
-  "regression": {
-    "command": "python3 -m unittest discover -s tests",
-    "tests": 172,
+  "result": "kappa=5711491/10^12 > 2^-18, conditional parameter-only refinement of PR21",
+  "base_commit": "5ba6cf0bfb68f2be8d15610e7972207c50254d6a",
+  "targeted_regression": {
+    "command": "python3 -m unittest discover -s tests -p test_translated_partial.py -v",
+    "tests": 5,
     "result": "PASS"
   },
-  "retained_patch_checks": {
-    "count": 18,
-    "result": "PASS"
+  "full_regression": {
+    "command": "make verify",
+    "result": "RUNNING",
+    "log": "build/translated-refinement/full-verify.log"
   },
   "arithmetic": {
     "strict_constraints": 29,
     "strict_final_margins": 7,
+    "next_bit_grid_upper_enclosure": "REJECTED; not a claim about the true moment",
     "result": "PASS"
   },
-  "producer": "Complete dimensions 25,23,57 producer regenerated once from source and retained h28 complex histogram reconstructed; see producer-certificate.json.",
-  "new_interfaces": "Dirty auxiliary endpoints, compatible common-basis corners, physical edges in both orientations, phases, stage boundaries, and circuit-specific path guard passed; see bit-controls.json and complex-*.json.",
+  "producer": "The unchanged PR21 once-regenerated report is source-checked. The current complete make verify rerun is regenerating retained producers; no completion is claimed yet.",
+  "focused_patch": {
+    "path": "patches/translated-parameter-refinement.patch",
+    "base": "PR21 standalone source at pinned commit, not original OpenAI upstream",
+    "files": 11,
+    "forward_application_and_exact_source_reconstruction": "PASS"
+  },
   "manuscript": {
     "path": "artifacts/translated-partial-18-note.pdf",
-    "pages": 19,
-    "status": "Compiled with resolved cross-references; no overfull boxes in final build."
+    "pages": 20,
+    "status": "Compiled with Tectonic; cross-references resolved; no overfull boxes.",
+    "log": "build/translated-refinement/manuscript-compile.log"
   },
-  "scope": "Executable certificates and written proofs; not formal verification or completed external peer review.",
+  "scope": "Written inherited proofs and executable checks, not formal verification or completed external review. Historical predecessor validation is preserved in validation-pr21.json.",
   "evidence_sha256": {
-    "research/translated-partial/certificate.json": "81258321ce47798aa699ce8cf80311db741b6ab140cf83b01324f24b20c62fca",
+    "research/translated-partial/certificate.json": "9611f34f03c5d6c476dd97812a9107baa42953628a6a5ecb07cb51ae63e9a000",
     "research/translated-partial/producer-certificate.json": "c93e1a39d48017a21ca4aa7aa3d054b847f02e377700d87aa2d0adc571ad6f58",
-    "artifacts/translated-partial-18-note.pdf": "a16d4cc9175ecca8a4e476bafe327d61f82f766cc3293cc2cf8b9c8ad30ad815"
+    "artifacts/translated-partial-18-note.pdf": "fa8ab4d2dd033d5df4411648e3890e7ad013b3611947f1711061651d493aca44",
+    "patches/translated-parameter-refinement.patch": "70c799c566eb2a3298ce24a80cc9790ca517891bed70fb738fb288fc8dbb19fc"
   }
 }

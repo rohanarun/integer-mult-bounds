@@ -1,8 +1,8 @@
 # Conditional multiplication saving beyond 2^-18
 
-The latest construction on this branch gives **κ=5499/10^9=5.499×10^-6 > 2^-18** in `O(n (log n)^(1−κ))`, under the retained analytic and fixed-tape hypotheses. It translates the middle auxiliary source frames of PR18 and strengthens the independent complex phase interface.
+The latest construction on this branch gives **κ=5711491/10^12=5.711491×10^-6 > 2^-18** in `O(n (log n)^(1−κ))`, under the retained analytic and fixed-tape hypotheses. This is a parameter-only refinement of [Zhihao Chen's PR21](https://github.com/CrocSwap/integer-mult-bounds/pull/21), about 3.864% above its 5.499×10^-6 witness. Its translated middle auxiliary frames, complex phase interface, geometry and physical producers are unchanged.
 
-See [the construction, exact parameters and reproduction commands](research/translated-partial/README.md), [the complete proof](notes/translated-partial-note.tex), and [the compiled PDF](artifacts/translated-partial-18-note.pdf). Zhihao Chen (jacklightChen), with substantial OpenAI Codex assistance; preceding attribution is retained in NOTICE.
+See [the construction, exact parameters and reproduction commands](research/translated-partial/README.md), [the complete proof](notes/translated-partial-note.tex), and [the compiled PDF](artifacts/translated-partial-18-note.pdf). Construction by Zhihao Chen (jacklightChen); parameter refinement by Rohan Arun, with substantial OpenAI Codex assistance. Preceding attribution is retained in NOTICE.
 
 The PR18 sources and their prior result are retained below as dependencies.
 

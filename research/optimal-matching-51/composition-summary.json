@@ -1,0 +1,8 @@
+{
+  "kappa": "4171627317/100000000000000",
+  "a_bit": "83436027/2000000000000",
+  "W": 175503731,
+  "constraints": 47,
+  "margins": 7,
+  "note": "Output of PR #51 code/explicit_profile_composition.py with axes-optimal-matching.json, both-negative data profile and geometry receipt."
+}

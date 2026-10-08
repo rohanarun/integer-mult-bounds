@@ -7,9 +7,16 @@
     "result": "PASS"
   },
   "full_regression": {
+    "status": "PASS",
+    "exit_code": 0,
     "command": "make verify",
-    "result": "RUNNING",
-    "log": "build/translated-refinement/full-verify.log"
+    "tests": 173,
+    "test_seconds": "56.609",
+    "retained_patch_checks": 18,
+    "focused_PR21_patch_check": "PASS",
+    "retained_producer_regeneration": "PASS: h25,h23,h57 and retained complex certificate_equal true",
+    "log": "build/translated-refinement/full-verify.log",
+    "log_sha256": "253f7a285dcbc4eb763b6355cab0e3f2637e07f042ff0f807aecba4c9d9ad23d"
   },
   "arithmetic": {
     "strict_constraints": 29,
@@ -17,7 +24,7 @@
     "next_bit_grid_upper_enclosure": "REJECTED; not a claim about the true moment",
     "result": "PASS"
   },
-  "producer": "The unchanged PR21 once-regenerated report is source-checked. The current complete make verify rerun is regenerating retained producers; no completion is claimed yet.",
+  "producer": "Complete make verify freshly regenerated the retained h25,h23,h57 producers and retained complex histogram; every certificate_equal check passed. The unchanged PR21 translated-producer report remains hash-checked.",
   "focused_patch": {
     "path": "patches/translated-parameter-refinement.patch",
     "base": "PR21 standalone source at pinned commit, not original OpenAI upstream",

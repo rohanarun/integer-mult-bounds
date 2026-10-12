@@ -1,0 +1,47 @@
+{
+ "id": "claude-1012-10",
+ "category": "factory-perturbation",
+ "date_utc": "2026-10-12",
+ "baseline": {
+  "name": "PR522 rank-sector word (99 pivots, 80 gauges)",
+  "value_proxy": 0.0013733444508838308,
+  "scope": "proxy b: nine-stage one-owner hosting IP with banks, 120 ports; same proxy for every candidate"
+ },
+ "hypothesis": "Random perturbations of the PR522 factory (pair matching per block and parity; Hamming packet-orientation seed) with exact kernel/gauge rescan beat the published factory.",
+ "command_or_script": "fleet_sweep.py 120 40 1 (Daytona, 120 sandboxes) running sweep.py",
+ "parameters": {
+  "sandboxes": 120,
+  "candidates_per_sandbox": 40,
+  "flips_per_candidate": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "orientation_seed_probability": 0.4
+ },
+ "status": "completed_no_gain",
+ "result": {
+  "candidates": 4812,
+  "ok": 4812,
+  "distinct_profile_width_classes": 171,
+  "beating_baseline": 0,
+  "best_non_baseline_unseeded": 0.0013723654718369475,
+  "best_seeded": 0.0013613241656563588,
+  "modes": {
+   "retimed/frozen": 762,
+   "raw/rescan": 1430,
+   "retimed/rescan": 2145,
+   "raw/frozen": 475
+  },
+  "entering_max": 179
+ },
+ "verification_scope": "Each candidate: factory rebuilt by PR522 construct_ranksector.py; retimed frames transferred by sequence matching (raw-frame fallback); gauge/kernel frozen selection or exact rational rescan (rescan reproduces 99 pivots on the baseline); profile and widths by gk_word; proxy price only. No full replay of any candidate.",
+ "do_not_repeat_scope": "1-4 random flips of the 14x2 pair-matching table around the PR522 spec; orientation-seed changes WITHOUT re-retiming (they lose the PR514 retimed frames and price ~1.2e-5 lower).",
+ "retry_when": "Orientation-seed candidates are re-retimed (new frame descent) or the kernel rescan gains gauge re-selection; or a wider (non-local) matching search is used.",
+ "evidence": [
+  "ALL-CANDIDATES.json.gz",
+  "sweep.py",
+  "fleet_sweep.py"
+ ]
+}

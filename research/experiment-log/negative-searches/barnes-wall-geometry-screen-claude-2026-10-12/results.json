@@ -1,0 +1,60 @@
+[
+ {
+  "id": "claude-1012-bw-01",
+  "category": "new-port-geometry-barnes-wall",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR579 joint-prefix kernel packing (chafreaky)",
+   "value": "0.001601260169988325",
+   "scope": "complex-bound"
+  },
+  "hypothesis": "BW16 / RM(1,4) is a better port geometry than E8 / [8,4,4], and block climbs carry a large prize.",
+  "command_or_script": "bw16.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "analysis_only",
+  "result": {
+   "bw16": {
+    "dim": 16,
+    "min_vectors": 4320,
+    "lines": 2160,
+    "lines_per_dim": 135.0,
+    "coherence": 0.5,
+    "welch": 0.24913002868053843,
+    "nonzero_neighbour_fraction": 0.60398332561371,
+    "nonzero_fraction_type2": 0.60398332561371
+   },
+   "e8": {
+    "dim": 8,
+    "min_vectors": 240,
+    "lines": 120,
+    "lines_per_dim": 15,
+    "coherence": 0.5,
+    "welch": 0.343,
+    "nonzero_neighbour_fraction": 0.47058823529411764
+   },
+   "flats": {
+    "1": 16,
+    "2": 120,
+    "4": 140,
+    "8": 30,
+    "16": 1
+   },
+   "prize_rank4_10pct": "+1.52% b",
+   "prize_rank2_100pct": "+8.10% b"
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Explicit Construction D enumeration of all 4,320 BW16 minimal vectors; full inner-product census vs one line of each orbit; flats enumerated exactly; prize priced with the PR361 moment engine at m=73, W=7168.",
+  "evidence": [
+   "bw16.py",
+   "BW16-STATS.json",
+   "BLOCK-CLIMB-PRIZE.txt"
+  ],
+  "do_not_repeat_scope": "BW16 as a drop-in port set (same coherence as E8, 0.60 correlated-neighbour share, 18x the ports).",
+  "retry_when": "A factory that uses RM(1,4) hyperplane blocks for joint two-call delivery is specified.",
+  "supersedes": null
+ }
+]

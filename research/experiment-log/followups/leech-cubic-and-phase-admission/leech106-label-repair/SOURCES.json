@@ -1,0 +1,33 @@
+{
+  "sources": [
+    {
+      "path": "leech-full-minimal-screen/PUNCTURED-WITNESSES.json.gz",
+      "sha256": "3e656174577c40c0b6933e7095473796fe8daea6130cd42c1112ca853ca26210"
+    },
+    {
+      "path": "leech-full-minimal-screen/VERIFIED.json",
+      "sha256": "54d670f5f47b079b981ed0f2cb7aa4c6ac96a64ab021615eb2b27b2b8f64575c"
+    },
+    {
+      "path": "leech-full-minimal-screen/README.md",
+      "sha256": "c7076397d62ba1a6c3ed1660f59c46f13a49d6ffbea4e78ec82bd6650f80cf87"
+    },
+    {
+      "path": "leech-label-compression/color_labels.py",
+      "sha256": "be9a8c9c1630233f408c1ea65739b516f49117a57a8009b721d6621fb3df632a"
+    },
+    {
+      "path": "leech-label-compression/README.md",
+      "sha256": "68435fb222f22efece5fcb7099d6c84402822fa5cf0df1c97e731d4b9376e49b"
+    },
+    {
+      "path": "leech106-cost-screen/README.md",
+      "sha256": "8dfe64850cbcd7d3909850ac8551e684ab36f9256ceff6def687430415192742"
+    },
+    {
+      "path": "leech106-cost-screen/VERIFIED.json",
+      "sha256": "69168d4751cbd611c325de621e9c3adbc87e8e78d0b4b92bdaa8fd1248f32a5f"
+    }
+  ],
+  "attribution": "Reuses frozen full-Leech witnesses and the earlier33-port coloring/duplicated-isotropic-tag construction. New bounded coloring repairs,106-port labels, tag-order screens and independent exact witness audit prepared with OpenAI Codex assistance."
+}

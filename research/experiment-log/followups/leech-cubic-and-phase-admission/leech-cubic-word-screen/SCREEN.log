@@ -1,0 +1,27 @@
+{
+  "status": "PASS_EXACT_FACTORY_FEE_OBSTRUCTION_NOT_GEOMETRY_EXCLUSION",
+  "ports": 98280,
+  "ambient_dimension": 26,
+  "designated_centers": 2600,
+  "common_gather_dimension": 25,
+  "copy_rank": 65000,
+  "source_carrier_copies": 98280,
+  "helper_stock_lower_bound_this_factory": 100880,
+  "unavoidable_local_rank_mass_this_factory": 7601880,
+  "complex_exponent_strict_upper": "137/100000",
+  "complex_exponent_strict_upper_decimal": "0.00137",
+  "all_integer_stage_counts_covered": true,
+  "tail_starts_at": 64,
+  "tail_strict_margin": 9630.766087982038,
+  "tail_exact_numerator_positive": true,
+  "log_lower_bound": "128 positive rational atanh-series terms",
+  "floating_bound_diagnostic_only": {
+    "maximum": 0.0013606269989490682,
+    "L": 10
+  },
+  "negative_controls": [
+    "omitting_source_copies_does_not_prove_rejection",
+    "positive_L3_deficit_confirmed"
+  ],
+  "scope": "Zero-start, monotone, pure-source-carrier factory with 2600 dedicated centers and common 25D gathers, in uniform-stage accounting m=25L+1. Gives all B corrections for free. Does not exclude mixed/coded carriers, static-frame hosting, different label completions or covers."
+}

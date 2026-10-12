@@ -1,0 +1,23 @@
+{
+  "status": "PASS_INDEPENDENT_RATIONAL_FACTORY_BOUND_AND_REFERENCE_NORMALIZATION",
+  "strict_b_upper": "137/100000",
+  "L3_through63_checked": 61,
+  "tail_L_ge64_checked": true,
+  "reference_source": "leech-cubic-word-screen/references/OWNERS-AND-PROFILE.json",
+  "reference_local_calls": 72,
+  "reference_replica_multiplier": 8,
+  "reference_deficit": 2560,
+  "reference_idle_profile": {
+    "1": 128,
+    "2": 0,
+    "3": 2371,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 208,
+    "8": 0,
+    "39": 1,
+    "48": 1660
+  },
+  "important_scope": "h bounds LOCAL transition ranks only; nonlocal idle children can exceed h. The general h26 uniform-stage controller is a prospective accounting extension, not an emitted admitted controller."
+}

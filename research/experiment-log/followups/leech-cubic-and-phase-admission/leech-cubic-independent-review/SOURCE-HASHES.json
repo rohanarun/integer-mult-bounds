@@ -1,0 +1,12 @@
+{
+  "leech-full-shell-cubic/leech_vectors.py": "685654071c2550ce6d80a868bf6e2a8afd52326deb828df2c2f774c147759abf",
+  "leech-full-shell-cubic/FACTOR-SAMPLE.json.gz": "62d1b08737afe6233444a09d389e49dac1e80e4ac4ac16cedc5d2e740cbce48d",
+  "leech-full-shell-cubic/COMPRESSED-GATHER-BASES.json.gz": "426dcd2bd98608fd60d90dfc8025159d2f3dc6cdf825ffcedb2f802e14eba9d7",
+  "leech-full-shell-cubic/COMPRESSED-RESULT.json": "6f28a03ee5ad9608b4f6dd7b35f655ce207f877215361f966d5b4f04b193e348",
+  "leech-full-shell-cubic/compress_sphere.py": "d67f923a4c32d72e7fd54a19992c286e4d665abc2725153217905fe9d5210447",
+  "leech-full-minimal-screen/ALL-QUOTIENT-LABELS.json.gz": "d3db77963c19e2f379fedb9a00cd52eeea8b607d1427838c14b4a7ff79429a65",
+  "leech-full-minimal-screen/LATTICE-BASIS-AND-LABELS.json": "1cdca10298f6d1c85083c113a4a3512d87312983bcc1e5a0263cbc928afbf221",
+  "source548-review/complex-global/vendor531/vendor/clifford/clifford_exact.py": "2982ead07721e83358dc67c6f49c2b4c16a236a6bebdfd72f58221be1f5d0962",
+  "source548-review/complex-global/vendor531/code/audit_and_transport.py": "a4fc272266785e1fffd44775c6fa6df783c4352de4c3f1d925cf953a23b84e7f",
+  "source548-review/complex-global/vendor531/code/invoice_final.py": "96b6bed96ca8b60dfc064cd1c7962c45a5cb53c4e52cd90aaea6ccf8d109db97"
+}

@@ -1,0 +1,456 @@
+{
+  "status": "PASS_EXACT_FACTORY_FEE_OBSTRUCTION_NOT_GEOMETRY_EXCLUSION",
+  "ports": 98280,
+  "ambient_dimension": 26,
+  "designated_centers": 2600,
+  "common_gather_dimension": 25,
+  "copy_rank": 65000,
+  "source_carrier_copies": 98280,
+  "helper_stock_lower_bound_this_factory": 100880,
+  "unavoidable_local_rank_mass_this_factory": 7601880,
+  "complex_exponent_strict_upper": "137/100000",
+  "complex_exponent_strict_upper_decimal": "0.00137",
+  "all_integer_stage_counts_covered": true,
+  "finite_stage_checks": [
+    {
+      "L": 3,
+      "m": 76,
+      "deficit": 1560,
+      "strict_lower_fee_margin": 31953.171205588565,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 4,
+      "m": 101,
+      "deficit": 34840,
+      "strict_lower_fee_margin": 21691.315273725482,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 5,
+      "m": 126,
+      "deficit": 68120,
+      "strict_lower_fee_margin": 14060.65417767667,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 6,
+      "m": 151,
+      "deficit": 101400,
+      "strict_lower_fee_margin": 8526.88475725016,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 7,
+      "m": 176,
+      "deficit": 134680,
+      "strict_lower_fee_margin": 4736.926233143002,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 8,
+      "m": 201,
+      "deficit": 167960,
+      "strict_lower_fee_margin": 2439.817500074356,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 9,
+      "m": 226,
+      "deficit": 201240,
+      "strict_lower_fee_margin": 1447.9095153975036,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 10,
+      "m": 251,
+      "deficit": 234520,
+      "strict_lower_fee_margin": 1615.5465150716245,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 11,
+      "m": 276,
+      "deficit": 267800,
+      "strict_lower_fee_margin": 2826.367120930785,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 12,
+      "m": 301,
+      "deficit": 301080,
+      "strict_lower_fee_margin": 4985.263229282185,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 13,
+      "m": 326,
+      "deficit": 334360,
+      "strict_lower_fee_margin": 8013.038284713915,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 14,
+      "m": 351,
+      "deficit": 367640,
+      "strict_lower_fee_margin": 11842.71889361056,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 15,
+      "m": 376,
+      "deficit": 400920,
+      "strict_lower_fee_margin": 16416.925551754463,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 16,
+      "m": 401,
+      "deficit": 434200,
+      "strict_lower_fee_margin": 21685.947533522703,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 17,
+      "m": 426,
+      "deficit": 467480,
+      "strict_lower_fee_margin": 27606.300860236788,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 18,
+      "m": 451,
+      "deficit": 500760,
+      "strict_lower_fee_margin": 34139.6266834523,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 19,
+      "m": 476,
+      "deficit": 534040,
+      "strict_lower_fee_margin": 41251.83518203344,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 20,
+      "m": 501,
+      "deficit": 567320,
+      "strict_lower_fee_margin": 48912.430156910086,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 21,
+      "m": 526,
+      "deficit": 600600,
+      "strict_lower_fee_margin": 57093.969019533804,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 22,
+      "m": 551,
+      "deficit": 633880,
+      "strict_lower_fee_margin": 65771.62585424763,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 23,
+      "m": 576,
+      "deficit": 667160,
+      "strict_lower_fee_margin": 74922.83407397314,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 24,
+      "m": 601,
+      "deficit": 700440,
+      "strict_lower_fee_margin": 84526.99132954658,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 25,
+      "m": 626,
+      "deficit": 733720,
+      "strict_lower_fee_margin": 94565.21367795665,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 26,
+      "m": 651,
+      "deficit": 767000,
+      "strict_lower_fee_margin": 105020.1291400229,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 27,
+      "m": 676,
+      "deficit": 800280,
+      "strict_lower_fee_margin": 115875.70305996631,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 28,
+      "m": 701,
+      "deficit": 833560,
+      "strict_lower_fee_margin": 127117.08936835521,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 29,
+      "m": 726,
+      "deficit": 866840,
+      "strict_lower_fee_margin": 138730.5031158378,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 30,
+      "m": 751,
+      "deficit": 900120,
+      "strict_lower_fee_margin": 150703.1106048624,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 31,
+      "m": 776,
+      "deficit": 933400,
+      "strict_lower_fee_margin": 163022.93418203914,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 32,
+      "m": 801,
+      "deficit": 966680,
+      "strict_lower_fee_margin": 175678.76932292024,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 33,
+      "m": 826,
+      "deficit": 999960,
+      "strict_lower_fee_margin": 188660.11208542873,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 34,
+      "m": 851,
+      "deficit": 1033240,
+      "strict_lower_fee_margin": 201957.09535823253,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 35,
+      "m": 876,
+      "deficit": 1066520,
+      "strict_lower_fee_margin": 215560.43260828455,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 36,
+      "m": 901,
+      "deficit": 1099800,
+      "strict_lower_fee_margin": 229461.36805405648,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 37,
+      "m": 926,
+      "deficit": 1133080,
+      "strict_lower_fee_margin": 243651.63237005714,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 38,
+      "m": 951,
+      "deficit": 1166360,
+      "strict_lower_fee_margin": 258123.40317341473,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 39,
+      "m": 976,
+      "deficit": 1199640,
+      "strict_lower_fee_margin": 272869.26966175163,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 40,
+      "m": 1001,
+      "deficit": 1232920,
+      "strict_lower_fee_margin": 287882.2008687843,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 41,
+      "m": 1026,
+      "deficit": 1266200,
+      "strict_lower_fee_margin": 303155.5170842848,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 42,
+      "m": 1051,
+      "deficit": 1299480,
+      "strict_lower_fee_margin": 318682.8640515671,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 43,
+      "m": 1076,
+      "deficit": 1332760,
+      "strict_lower_fee_margin": 334458.18961110496,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 44,
+      "m": 1101,
+      "deficit": 1366040,
+      "strict_lower_fee_margin": 350475.7225053188,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 45,
+      "m": 1126,
+      "deficit": 1399320,
+      "strict_lower_fee_margin": 366729.95309861057,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 46,
+      "m": 1151,
+      "deficit": 1432600,
+      "strict_lower_fee_margin": 383215.6157996952,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 47,
+      "m": 1176,
+      "deficit": 1465880,
+      "strict_lower_fee_margin": 399927.6730012268,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 48,
+      "m": 1201,
+      "deficit": 1499160,
+      "strict_lower_fee_margin": 416861.3003754939,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 49,
+      "m": 1226,
+      "deficit": 1532440,
+      "strict_lower_fee_margin": 434011.87338525994,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 50,
+      "m": 1251,
+      "deficit": 1565720,
+      "strict_lower_fee_margin": 451374.95488621405,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 51,
+      "m": 1276,
+      "deficit": 1599000,
+      "strict_lower_fee_margin": 468946.2837124365,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 52,
+      "m": 1301,
+      "deficit": 1632280,
+      "strict_lower_fee_margin": 486721.7641491614,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 53,
+      "m": 1326,
+      "deficit": 1665560,
+      "strict_lower_fee_margin": 504697.45620824676,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 54,
+      "m": 1351,
+      "deficit": 1698840,
+      "strict_lower_fee_margin": 522869.5666314049,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 55,
+      "m": 1376,
+      "deficit": 1732120,
+      "strict_lower_fee_margin": 541234.440554628,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 56,
+      "m": 1401,
+      "deficit": 1765400,
+      "strict_lower_fee_margin": 559788.5537745416,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 57,
+      "m": 1426,
+      "deficit": 1798680,
+      "strict_lower_fee_margin": 578528.5055637945,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 58,
+      "m": 1451,
+      "deficit": 1831960,
+      "strict_lower_fee_margin": 597451.0119881727,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 59,
+      "m": 1476,
+      "deficit": 1865240,
+      "strict_lower_fee_margin": 616552.8996830218,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 60,
+      "m": 1501,
+      "deficit": 1898520,
+      "strict_lower_fee_margin": 635831.100050869,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 61,
+      "m": 1526,
+      "deficit": 1931800,
+      "strict_lower_fee_margin": 655282.6438459267,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 62,
+      "m": 1551,
+      "deficit": 1965080,
+      "strict_lower_fee_margin": 674904.6561145192,
+      "positive_exact_numerator": true
+    },
+    {
+      "L": 63,
+      "m": 1576,
+      "deficit": 1998360,
+      "strict_lower_fee_margin": 694694.3514634358,
+      "positive_exact_numerator": true
+    }
+  ],
+  "tail_starts_at": 64,
+  "tail_strict_margin": 9630.766087982038,
+  "tail_exact_numerator_positive": true,
+  "log_lower_bound": "128 positive rational atanh-series terms",
+  "floating_bound_diagnostic_only": {
+    "maximum": 0.0013606269989490682,
+    "L": 10
+  },
+  "negative_controls": [
+    "omitting_source_copies_does_not_prove_rejection",
+    "positive_L3_deficit_confirmed"
+  ],
+  "scope": "Zero-start, monotone, pure-source-carrier factory with 2600 dedicated centers and common 25D gathers, in uniform-stage accounting m=25L+1. Gives all B corrections for free. Does not exclude mixed/coded carriers, static-frame hosting, different label completions or covers."
+}

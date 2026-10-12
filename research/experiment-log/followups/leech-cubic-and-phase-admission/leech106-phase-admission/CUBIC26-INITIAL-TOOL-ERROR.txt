@@ -1,0 +1,1 @@
+Initial assertion compared the compiler tuple (33554432,) against list [33554432], producing AssertionError. Actual rank=25 and nullspace=(33554432,). Corrected the test container type only. This is a harness error, not a mathematical failure.

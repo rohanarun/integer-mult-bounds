@@ -1,0 +1,19 @@
+{
+  "status": "PASS_2600_DYADIC_CENTER_SPHERE_COMPRESSION",
+  "identity": "w_i*w_j^2 = 31*w_i -3*((w_i^3-w_i)/3) -sum_{k != i,j} w_i*w_k^2; j=(i+1)mod24; sum(w_k^2)=32",
+  "removed_centers": 24,
+  "remaining_centers": 2600,
+  "sphere_identity_checks": 2358720,
+  "exact_factor_pair_checks": 16384,
+  "denominator": 8192,
+  "all_gather_ranks": 25,
+  "copied_rank_C": 65000,
+  "ports": 98280,
+  "optimistic_deficit_formula": "33280*L-98280",
+  "optimistic_first_positive_L": 3,
+  "deficit_at_L3": 1560,
+  "scope": "Exact dyadic scalar factorization and proper gather spans only. Positive optimistic copied-center deficit is a necessary screen, not a paid circuit, new kappa or performance claim.",
+  "negative_controls": [
+    "changed_target_linear_coefficient_rejected"
+  ]
+}

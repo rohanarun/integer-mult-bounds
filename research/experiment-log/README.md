@@ -94,3 +94,5 @@ PR550 followup: [joint retiming admitted in PR554, exact single-frame obstructio
 Latest completed tests: [PR552 circuit/frame searches, exact smaller-Leech cost obstruction, and independently replayed PR557 ceiling](followups/pr552-wave-cuts-and-leech-cost/README.md). No new kappa; failures and proof-scope limits retained.
 
 Latest completed batch: [native complex moment, full Leech quotient geometry, label compression and commutator failures](followups/native-complex-moment-and-leech-labels/README.md). PR559 reports conditional kappa 0.001592517892053334; Leech witnesses remain unadmitted.
+
+Latest Leech continuation: [exact phase admission, new 98,280-port cubic decoder, and scoped cost exclusions](followups/leech-cubic-and-phase-admission/README.md). No new kappa; reproducible positive and negative results retained.

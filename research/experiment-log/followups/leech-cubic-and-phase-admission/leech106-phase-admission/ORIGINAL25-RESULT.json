@@ -1,0 +1,28 @@
+{
+  "status": "PASS_EXACT_ORIGINAL_LEECH106_DEGENERATE_FRAME_PHASES",
+  "dimension": 25,
+  "ports": 106,
+  "source_seed": 55026,
+  "gather_rank": 24,
+  "normal_isotropic": true,
+  "general_frame_preimage_checks": 213,
+  "phase_lowered_children_and_adapters": 322,
+  "phase_rank_histogram": {
+    "0": 212,
+    "1": 2,
+    "23": 106,
+    "24": 2
+  },
+  "all_equalities_include_global_phase": true,
+  "width1_residual_wrappers_decoded": true,
+  "negative_controls": [
+    "global_phase_undetectable_by_tableau_alone",
+    "wrong_translation",
+    "wrong_residual_width"
+  ],
+  "hilbert_state_vectors_allocated": 0,
+  "phase_method": "Exact Z4 quadratic path sum with Gaussian-integer elimination and affine constraints; original tableau compiler retained.",
+  "recipe_uncompressed_sha256": "e0f079585c98de3ba2aa65670ea7d530d4feda95e88bcdfbdf9e5aad5341a5cf",
+  "seconds": 3.2767999172210693,
+  "scope": "Degenerate-frame feasibility demonstrated. This is not a complete dirty-helper scalar word, phase coverage of an unbuilt word, global invoice or kappa."
+}

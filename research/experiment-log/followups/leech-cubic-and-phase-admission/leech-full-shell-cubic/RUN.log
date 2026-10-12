@@ -1,0 +1,30 @@
+{
+  "status": "PASS_NEW_CUBIC_DYADIC_DECODER_FINITE_SCREEN",
+  "ports": 98280,
+  "binary_label_dimension": 26,
+  "active_label_span_dimension": 25,
+  "scalar_rank_upper_bound_over_Q": 2600,
+  "explicit_dyadic_centers": 2624,
+  "decoder": "T(v,w)=s*(s^2-256)/24576, s=v dot w in scaled integer coordinates",
+  "equivalent_lattice_formula": "t*(t^2-4)/48",
+  "factorization_denominator": 8192,
+  "factor_pair_checks": 16384,
+  "off_shell_integer_pair_checks": 100,
+  "full_rows_checked": 64,
+  "row_pair_checks": 6289920,
+  "removed_bad_natural_gram_edges_in_checked_rows": 294400,
+  "all_cubic_bad_edges_in_checked_rows": 0,
+  "gather_rank_histogram": {
+    "25": 2624
+  },
+  "copied_rank_C": 65600,
+  "ports_minus_copy_rank": 32680,
+  "optimistic_deficit_formula": "32680*L-98280",
+  "optimistic_first_positive_stage": 4,
+  "controls": [
+    "single_target_coefficient_mutation_rejected",
+    "natural_rank24_kernel_has_incompatible_edges"
+  ],
+  "scope": "Exact polynomial identity and full-line label reconstruction; bounded full-row checks, not all 9.66 billion pairs. General cap implication uses the known Leech minimal-shell inner-product classes. All gathers are proper after zero-coordinate extension. No native phase replay, dirty-helper word, paid profile, hosting invoice or kappa."
+}
+Seconds 12.351500988006592

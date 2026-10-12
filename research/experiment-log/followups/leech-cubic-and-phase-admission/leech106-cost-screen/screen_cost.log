@@ -1,0 +1,120 @@
+55025 basis 0 two_sparse_min 62
+55025 basis 1 two_sparse_min 63
+55025 basis 2 two_sparse_min 60
+55025 basis 3 two_sparse_min 67
+55026 basis 0 two_sparse_min 61
+55026 basis 1 two_sparse_min 55
+55026 basis 2 two_sparse_min 66
+55026 basis 3 two_sparse_min 59
+[
+  {
+    "seed": 55025,
+    "ports": 106,
+    "scalar_rank": 24,
+    "coordinate_gather_ranks": [
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "coordinate_copy_charge": 576,
+    "coordinate_deficit_upper_polynomial": {
+      "L": -470,
+      "constant": -106
+    },
+    "disjoint_real_bases": 4,
+    "disjoint_basis_rows": 96,
+    "two_coordinate_families_checked": 1104,
+    "per_basis_family_minimum_support": [
+      62,
+      63,
+      60,
+      67
+    ],
+    "proved_every_nonzero_functional_support_at_least": 12,
+    "proved_every_nonzero_gather_binary_rank_at_least": 5,
+    "all_rowspace_spanning_gather_collections_copy_charge_at_least": 120,
+    "all_rowspace_deficit_upper_polynomial": {
+      "L": -14,
+      "constant": -106
+    },
+    "status": "PASS_EXACT_ALL_ROWSPACE_COST_OBSTRUCTION",
+    "proof": "Suppose a nonzero real functional has at most11nonzero ports. Among4disjoint24-row bases it is nonzero in at most2basis positions for one basis. Its entire response therefore lies in one of276two-coordinate column spans for that basis. Exact projective-ratio counts show every nonzero response in every such family has more than11nonzero ports, contradiction. Every gather consequently supports at least12distinct odd labels. A binary subspace of dimensionr contains at most2^(r-1)odd vectors, so r>=5. Rank24 transfer requires at least24independent gather rows in any spanning collection within this transfer rowspace, costing at least120copied ranks.",
+    "scope": "Fixed106-port natural Gram transfer and gathers drawn from its24-dimensional rowspace, separately copied under conventional cover. Arbitrary coefficient recombinations included; outside-rowspace auxiliary gathers and new interfaces excluded."
+  },
+  {
+    "seed": 55026,
+    "ports": 106,
+    "scalar_rank": 24,
+    "coordinate_gather_ranks": [
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24,
+      24
+    ],
+    "coordinate_copy_charge": 576,
+    "coordinate_deficit_upper_polynomial": {
+      "L": -470,
+      "constant": -106
+    },
+    "disjoint_real_bases": 4,
+    "disjoint_basis_rows": 96,
+    "two_coordinate_families_checked": 1104,
+    "per_basis_family_minimum_support": [
+      61,
+      55,
+      66,
+      59
+    ],
+    "proved_every_nonzero_functional_support_at_least": 12,
+    "proved_every_nonzero_gather_binary_rank_at_least": 5,
+    "all_rowspace_spanning_gather_collections_copy_charge_at_least": 120,
+    "all_rowspace_deficit_upper_polynomial": {
+      "L": -14,
+      "constant": -106
+    },
+    "status": "PASS_EXACT_ALL_ROWSPACE_COST_OBSTRUCTION",
+    "proof": "Suppose a nonzero real functional has at most11nonzero ports. Among4disjoint24-row bases it is nonzero in at most2basis positions for one basis. Its entire response therefore lies in one of276two-coordinate column spans for that basis. Exact projective-ratio counts show every nonzero response in every such family has more than11nonzero ports, contradiction. Every gather consequently supports at least12distinct odd labels. A binary subspace of dimensionr contains at most2^(r-1)odd vectors, so r>=5. Rank24 transfer requires at least24independent gather rows in any spanning collection within this transfer rowspace, costing at least120copied ranks.",
+    "scope": "Fixed106-port natural Gram transfer and gathers drawn from its24-dimensional rowspace, separately copied under conventional cover. Arbitrary coefficient recombinations included; outside-rowspace auxiliary gathers and new interfaces excluded."
+  }
+]

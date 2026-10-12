@@ -1,0 +1,40 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT106PORT_COST_OBSTRUCTIONS",
+  "results": [
+    {
+      "seed": 55025,
+      "bases_verified": 4,
+      "families_verified": 1104,
+      "family_support_minima": [
+        62,
+        63,
+        60,
+        67
+      ],
+      "functional_support_lower_bound": 12,
+      "gather_rank_lower_bound": 5,
+      "all_rowspace_copy_lower_bound": 120,
+      "positive_stage_deficit_upper": "-14L-106",
+      "mutated_response_rejected": true,
+      "duplicate_basis_row_rejected": true
+    },
+    {
+      "seed": 55026,
+      "bases_verified": 4,
+      "families_verified": 1104,
+      "family_support_minima": [
+        61,
+        55,
+        66,
+        59
+      ],
+      "functional_support_lower_bound": 12,
+      "gather_rank_lower_bound": 5,
+      "all_rowspace_copy_lower_bound": 120,
+      "positive_stage_deficit_upper": "-14L-106",
+      "mutated_response_rejected": true,
+      "duplicate_basis_row_rejected": true
+    }
+  ],
+  "scope": "Fixed106port naturalGram transfers only, all gather collections within their rowspaces under ordinary copiedcenter cover. Does not apply to fullshell cubic transfer or arbitrary outside-rowspace auxiliaries."
+}

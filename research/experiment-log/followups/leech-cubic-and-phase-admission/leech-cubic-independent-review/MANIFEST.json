@@ -1,0 +1,25 @@
+{
+  "status": "FROZEN",
+  "files": {
+    "README.md": {
+      "sha256": "9946c251b8eb066868bb55f1ae05db21c51b5d1d543ac84374045fedf05d3979",
+      "bytes": 5310
+    },
+    "RESULT.json": {
+      "sha256": "9d0ff922c0b31c4c06be18af31e3f7ca973c63ef44f4d956d7ac5a9d23fd81ef",
+      "bytes": 1062
+    },
+    "RUN.log": {
+      "sha256": "9d0ff922c0b31c4c06be18af31e3f7ca973c63ef44f4d956d7ac5a9d23fd81ef",
+      "bytes": 1062
+    },
+    "SOURCE-HASHES.json": {
+      "sha256": "0811198fae4fef5fea4d59576bcd4281c9c6f17502a68307bb80972f7d83a9ed",
+      "bytes": 1281
+    },
+    "verify.py": {
+      "sha256": "f7f46f51764cf78540d88859dcd2da49d6eaea5b267bc8301662d0bb5109742e",
+      "bytes": 5902
+    }
+  }
+}

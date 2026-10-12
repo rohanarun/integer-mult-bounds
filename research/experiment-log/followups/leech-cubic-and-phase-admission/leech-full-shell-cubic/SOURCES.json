@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "path": "leech-full-minimal-screen/leech_vectors.py",
+      "sha256": "685654071c2550ce6d80a868bf6e2a8afd52326deb828df2c2f774c147759abf"
+    },
+    {
+      "path": "leech-full-minimal-screen/ALL-QUOTIENT-LABELS.json.gz",
+      "sha256": "d3db77963c19e2f379fedb9a00cd52eeea8b607d1427838c14b4a7ff79429a65"
+    },
+    {
+      "path": "leech-full-minimal-screen/LATTICE-BASIS-AND-LABELS.json",
+      "sha256": "1cdca10298f6d1c85083c113a4a3512d87312983bcc1e5a0263cbc928afbf221"
+    },
+    {
+      "path": "complex552-fallback-audit/general-clifford-frames.tex",
+      "sha256": "c9bb9655b594583c6b4bab8cb485233f1d1e588f83858cf1e4c3530cee8fed54"
+    }
+  ],
+  "reused": "Golay generator and previous exact lattice quotient/binary congruence. All new claims scoped in README."
+}

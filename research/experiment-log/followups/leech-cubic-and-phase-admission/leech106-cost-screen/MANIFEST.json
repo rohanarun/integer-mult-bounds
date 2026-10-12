@@ -1,0 +1,12 @@
+{
+  "INPUT.json.gz": "e6d96d55f625f5e1ce2dd88ca18ff6c5d57c150797c20b7b31952a20d788c8ce",
+  "README.md": "8dfe64850cbcd7d3909850ac8551e684ab36f9256ceff6def687430415192742",
+  "RESULT.json": "89cc80f297e0f139c071e912a563bc77880e4af4d088642ef2b6b311795e75ce",
+  "SOURCES.json": "75e511324b95e50afa352c7b387c4ad28e39f1a8f66aa01f43c741793d6ca34b",
+  "SPARSE-FUNCTIONAL-CERTIFICATES.json.gz": "45bdca9146196970fa65d05d49e80d4385e2dd4fe27405646719b469cd1fcb7e",
+  "VERIFIED.json": "69168d4751cbd611c325de621e9c3adbc87e8e78d0b4b92bdaa8fd1248f32a5f",
+  "screen_cost.log": "fe22b0b9fd7300440877e68360422635dc614bb4afc49f58c2e1ae6aefd50005",
+  "screen_cost.py": "78e149d47133e333eb01d4d4b2c1b1842ce7bba56460652fcd8bde2a7302ae33",
+  "verify_certificates.log": "69168d4751cbd611c325de621e9c3adbc87e8e78d0b4b92bdaa8fd1248f32a5f",
+  "verify_certificates.py": "4a6426ee15dfd3dad30ba20f94e16be642303cdb5bf850409254be4bcd638e61"
+}

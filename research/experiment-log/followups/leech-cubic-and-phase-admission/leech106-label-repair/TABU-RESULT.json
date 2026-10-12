@@ -1,0 +1,39 @@
+{
+  "status": "COMPLETE_BOUNDED_COLOR_REPAIR",
+  "runs": [
+    {
+      "source_seed": 55025,
+      "target_colors": 19,
+      "best_conflicts": 0,
+      "iterations": 52,
+      "restarts": 1,
+      "seconds": 0.08984700008295476
+    },
+    {
+      "source_seed": 55025,
+      "target_colors": 18,
+      "best_conflicts": 0,
+      "iterations": 1018,
+      "restarts": 1,
+      "seconds": 0.01559320802334696
+    },
+    {
+      "source_seed": 55026,
+      "target_colors": 19,
+      "best_conflicts": 0,
+      "iterations": 55,
+      "restarts": 1,
+      "seconds": 0.0011982909636572003
+    },
+    {
+      "source_seed": 55026,
+      "target_colors": 18,
+      "best_conflicts": 0,
+      "iterations": 1851,
+      "restarts": 1,
+      "seconds": 0.027786332997493446
+    }
+  ],
+  "seconds": 0.3824579999782145,
+  "scope": "Heuristic graph coloring with exact final edge checks; failed runs are not chromatic lower bounds."
+}

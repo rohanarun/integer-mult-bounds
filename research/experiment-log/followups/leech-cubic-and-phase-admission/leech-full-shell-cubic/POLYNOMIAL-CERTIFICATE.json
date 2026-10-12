@@ -1,0 +1,9 @@
+{
+  "status": "PASS_EXACT_POLYNOMIAL_COEFFICIENT_IDENTITY",
+  "nonzero_bivariate_monomials": 3176,
+  "identity": "compressed_numerator = ((v dot w)^3-256(v dot w))/3 +(32-||w||^2)*sum_i(v_{i+1}^2 v_i w_i)",
+  "denominator": 8192,
+  "on_sphere": "Every source vector has ||w||^2=32, so the second term vanishes identically.",
+  "center_count": 2600,
+  "control": "single_monomial_coefficient_mutation_rejected"
+}

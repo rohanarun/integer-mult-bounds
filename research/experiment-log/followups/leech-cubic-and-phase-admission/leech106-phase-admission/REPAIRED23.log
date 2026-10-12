@@ -1,0 +1,25 @@
+gather 1 recipes 248 seconds 1.158
+gather 2 recipes 286 seconds 1.44
+gather 3 recipes 319 seconds 1.677
+gather 4 recipes 359 seconds 1.983
+gather 5 recipes 395 seconds 2.248
+gather 6 recipes 432 seconds 2.535
+gather 7 recipes 469 seconds 2.821
+gather 8 recipes 509 seconds 3.13
+gather 9 recipes 550 seconds 3.445
+gather 10 recipes 590 seconds 3.751
+gather 11 recipes 626 seconds 4.037
+gather 12 recipes 666 seconds 4.371
+gather 13 recipes 704 seconds 4.669
+gather 14 recipes 741 seconds 4.953
+gather 15 recipes 777 seconds 5.249
+gather 16 recipes 816 seconds 5.551
+gather 17 recipes 854 seconds 5.834
+gather 18 recipes 894 seconds 6.146
+gather 19 recipes 929 seconds 6.447
+gather 20 recipes 968 seconds 6.744
+gather 21 recipes 1010 seconds 7.078
+gather 22 recipes 1051 seconds 7.401
+gather 23 recipes 1089 seconds 7.697
+gather 24 recipes 1126 seconds 7.977
+{"status": "PASS_EXACT_REPAIRED23_LEECH106_FRAME_PHASES", "dimension": 23, "source_seed": 55025, "ports": 106, "coordinate_gathers": 24, "gather_rank_sum": 453, "gather_rank_histogram": {"16": 1, "17": 2, "18": 3, "19": 11, "20": 7}, "unique_general_frame_preimage_checks": 226, "phase_lowered_children_and_adapters": 1126, "phase_rank_histogram": {"0": 212, "3": 7, "4": 11, "5": 3, "6": 2, "7": 1, "15": 30, "16": 70, "17": 109, "18": 395, "19": 272, "20": 14}, "all_equalities_include_global_phase": true, "hilbert_state_vectors_allocated": 0, "recipe_uncompressed_sha256": "8381fa7f447b2f6afb206d86d34b4a451387cfec6c3176a461b2bba8257de7e9", "seconds": 7.99375581741333, "scope": "Finite native23D frame/adapter feasibility for every nonzero coordinate gather incidence in the retained witness, not a full chronological scalar word or dirty-helper/global supplier admission."}

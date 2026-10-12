@@ -1,0 +1,386 @@
+[
+  {
+    "anchor": 0,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 132,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 602,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 2886,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 4243,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 6295,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 6417,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 8917,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 8929,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 9818,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 10506,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 11354,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 12427,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 14307,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 17041,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 23001,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 24441,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 24601,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 25146,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 25463,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 27957,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 28020,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 29089,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 30326,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 31530,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 32890,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 33393,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 35738,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 36541,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 36872,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 37132,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 41244,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 41655,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 41864,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 42417,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 42847,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 46622,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 48979,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 51294,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 52945,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 59474,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 59563,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 61259,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 62484,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 62797,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 63521,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 65563,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 66414,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 67584,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 68195,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 69146,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 69242,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 71500,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 71958,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 75179,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 78229,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 78677,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 81503,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 84924,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 85878,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 87315,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 89152,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 93214,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  },
+  {
+    "anchor": 96651,
+    "nonzero_off_diagonal": 47104,
+    "natural_gram_incompatible_edges": 4600,
+    "cubic_incompatible_edges": 0
+  }
+]

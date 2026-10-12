@@ -1,0 +1,8 @@
+{"source_seed": 55025, "target_colors": 19, "best_conflicts": 0, "iterations": 52, "restarts": 1, "seconds": 0.08984700008295476}
+COLOR_SOLUTION 55025 19
+{"source_seed": 55025, "target_colors": 18, "best_conflicts": 0, "iterations": 1018, "restarts": 1, "seconds": 0.01559320802334696}
+COLOR_SOLUTION 55025 18
+{"source_seed": 55026, "target_colors": 19, "best_conflicts": 0, "iterations": 55, "restarts": 1, "seconds": 0.0011982909636572003}
+COLOR_SOLUTION 55026 19
+{"source_seed": 55026, "target_colors": 18, "best_conflicts": 0, "iterations": 1851, "restarts": 1, "seconds": 0.027786332997493446}
+COLOR_SOLUTION 55026 18

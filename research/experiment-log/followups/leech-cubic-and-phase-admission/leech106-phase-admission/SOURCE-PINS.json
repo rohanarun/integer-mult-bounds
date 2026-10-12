@@ -1,0 +1,17 @@
+{
+  "source548-review/complex-global/vendor531/vendor/clifford/clifford_exact.py": "2982ead07721e83358dc67c6f49c2b4c16a236a6bebdfd72f58221be1f5d0962",
+  "source548-review/complex-global/vendor531/code/adapters_local.py": "4e89a5c517cd87ff6a5aa9b7334c0d74821179ae5777d31284da25b9d8abf113",
+  "source548-review/complex-global/vendor531/code/phases_delta.py": "15723107eff03013b2e797fd9fa3635b1b46c5d1c8112d19fada98c178d4acb6",
+  "complex552-fallback-audit/general-clifford-frames.tex": "c9bb9655b594583c6b4bab8cb485233f1d1e588f83858cf1e4c3530cee8fed54",
+  "leech-full-minimal-screen/PUNCTURED-WITNESSES.json.gz": "3e656174577c40c0b6933e7095473796fe8daea6130cd42c1112ca853ca26210",
+  "leech-full-minimal-screen/LATTICE-BASIS-AND-LABELS.json": "1cdca10298f6d1c85083c113a4a3512d87312983bcc1e5a0263cbc928afbf221",
+  "leech106-label-repair/REPAIRED-WITNESSES.json.gz": {
+    "source_sha256_at_freeze": "9efab39d656322776ec2548bec08f07c47ebebbd77ddc4e6a328b7b277dd35f5",
+    "selected_witness_uncompressed_sha256": "b9b72cf83ab8b83be29b6f9c8f62f971f573cec6d6a339158a8cbfef93fbc0ea",
+    "source_seed": 55025,
+    "dimension": 23
+  },
+  "leech-full-minimal-screen/ALL-QUOTIENT-LABELS.json.gz": "d3db77963c19e2f379fedb9a00cd52eeea8b607d1427838c14b4a7ff79429a65",
+  "leech-full-shell-cubic/COMPRESSED-RESULT.json": "6f28a03ee5ad9608b4f6dd7b35f655ce207f877215361f966d5b4f04b193e348",
+  "pr558-review/source/research/complex-rank5-pivots8/code/phases_full.py": "a273c325ffd6793d5b63b79a289a9d2bbc9292e6940fb5a926924f3708627af4"
+}

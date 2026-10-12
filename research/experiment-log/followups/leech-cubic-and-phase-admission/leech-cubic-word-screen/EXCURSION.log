@@ -1,0 +1,16 @@
+{
+  "status": "PASS_SCALAR_EXCURSION_IDENTITY_BUT_NEGATIVE_RANK_DEFICIT",
+  "arbitrary_columns_checked": 6,
+  "toy_scalar_operations": 18,
+  "negative_controls": [
+    "missing_dirty_precompensation_rejected",
+    "missing_cleanup_rejected",
+    "nonmonotone_U_to_p_rejected_by_inclusion"
+  ],
+  "source_roundtrip_cost_each": 48,
+  "extra_rank_per_local_invocation": 4717440,
+  "deficit_after_one_excursion_per_source": "-4684160*L-98280",
+  "second_inverse_excursion_extra_if_used": 4717440,
+  "minimal_local_rank_mass_with_one_excursion": 9764040,
+  "scope": "Scalar toy identity only. Current monotone local profiler cannot admit U->p. A generalized frame implementation must pay the extra distance; unchanged cover already has negative rank deficit for all positive L. No 26D phase replay or full scalar word generated."
+}

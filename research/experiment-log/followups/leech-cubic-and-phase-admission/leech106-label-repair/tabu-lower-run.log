@@ -1,0 +1,8 @@
+{"source_seed": 55025, "target_colors": 17, "best_conflicts": 0, "iterations": 11224, "restarts": 2, "seconds": 0.18331083294469863}
+COLOR_SOLUTION 55025 17
+{"source_seed": 55025, "target_colors": 16, "best_conflicts": 3, "iterations": 1369784, "restarts": 272, "seconds": 22.000039833947085}
+{"source_seed": 55025, "target_colors": 15, "best_conflicts": 9, "iterations": 1256179, "restarts": 251, "seconds": 22.001498957979493}
+{"source_seed": 55026, "target_colors": 17, "best_conflicts": 0, "iterations": 137331, "restarts": 27, "seconds": 2.2167830830439925}
+COLOR_SOLUTION 55026 17
+{"source_seed": 55026, "target_colors": 16, "best_conflicts": 4, "iterations": 1319341, "restarts": 264, "seconds": 22.00069695804268}
+{"source_seed": 55026, "target_colors": 15, "best_conflicts": 10, "iterations": 1235817, "restarts": 246, "seconds": 22.000941499951296}

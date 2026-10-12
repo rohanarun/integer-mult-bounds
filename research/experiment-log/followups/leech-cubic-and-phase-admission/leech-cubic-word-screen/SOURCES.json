@@ -1,0 +1,70 @@
+[
+  {
+    "path": "leech-full-shell-cubic/COMPRESSED-RESULT.json",
+    "sha256": "6f28a03ee5ad9608b4f6dd7b35f655ce207f877215361f966d5b4f04b193e348"
+  },
+  {
+    "path": "leech-full-shell-cubic/compress_sphere.py",
+    "sha256": "d67f923a4c32d72e7fd54a19992c286e4d665abc2725153217905fe9d5210447"
+  },
+  {
+    "path": "leech-full-shell-cubic/screen.py",
+    "sha256": "7c68d43843725850cc29f06a739ee41e2cfb4def6068548c0ad678955fa45024"
+  },
+  {
+    "path": "leech-full-shell-cubic/COMPRESSED-GATHER-BASES.json.gz",
+    "sha256": "426dcd2bd98608fd60d90dfc8025159d2f3dc6cdf825ffcedb2f802e14eba9d7"
+  },
+  {
+    "path": "leech-cubic-word-screen/references/build.py",
+    "sha256": "e41476372b307e6686d8e8b7897ae2c7fb4674277fd4f2146ba69c0cdc3a5a9d"
+  },
+  {
+    "path": "leech-cubic-word-screen/references/audit.py",
+    "sha256": "0b3087434f54a4b15810167457887273509fbb9ae20142dbc0cb514f0011cd91"
+  },
+  {
+    "path": "leech-cubic-word-screen/references/price_obstruction.py",
+    "sha256": "ff58cc1b81a4484c8d18a302b0e8dc088abbde84a92a679f7d43ce376461180b"
+  },
+  {
+    "path": "leech-cubic-word-screen/references/E7-README.md",
+    "sha256": "ccc2b5172cc38ad81f2199dd2ec25422bd95f1641b8ff43e5e210547a5853a66"
+  },
+  {
+    "retained_reference": "references/E7-README.md",
+    "sha256": "ccc2b5172cc38ad81f2199dd2ec25422bd95f1641b8ff43e5e210547a5853a66"
+  },
+  {
+    "retained_reference": "references/OWNERS-AND-PROFILE.json",
+    "sha256": "33bf86f3968796cb2f98214674846c9d51e4f6bb55c6d4dd7159b0a8cdf6a21b"
+  },
+  {
+    "retained_reference": "references/RESULT.json",
+    "sha256": "084f6e94f719dd0696f8c7fdb19ab2622e59b059a61b930b2e848f83f383ffdc"
+  },
+  {
+    "retained_reference": "references/audit.py",
+    "sha256": "0b3087434f54a4b15810167457887273509fbb9ae20142dbc0cb514f0011cd91"
+  },
+  {
+    "retained_reference": "references/build.py",
+    "sha256": "e41476372b307e6686d8e8b7897ae2c7fb4674277fd4f2146ba69c0cdc3a5a9d"
+  },
+  {
+    "retained_reference": "references/emit_supplier_hosted.py",
+    "sha256": "53c0b653b3a5100756d6a9473c90101b8c3ab72723d7047983906ab997bdf920"
+  },
+  {
+    "retained_reference": "references/prepare_supplier_base.py",
+    "sha256": "f5eae94aca965d0008bc07cff8245ccb7509042ccad457d3bcb7d51c1e9409f0"
+  },
+  {
+    "retained_reference": "references/price_obstruction.py",
+    "sha256": "ff58cc1b81a4484c8d18a302b0e8dc088abbde84a92a679f7d43ce376461180b"
+  },
+  {
+    "retained_reference": "references/three-stage-cover-complex.tex",
+    "sha256": "1c5b638aa9b75365b8addec9c8eeee6bc5e499722901079b94c65fce033fde8a"
+  }
+]

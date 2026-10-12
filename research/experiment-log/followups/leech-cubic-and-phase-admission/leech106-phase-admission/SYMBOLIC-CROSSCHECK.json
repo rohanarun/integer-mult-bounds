@@ -1,0 +1,8 @@
+{
+  "status": "PASS_LITERAL_CROSSCHECK_OF_SYMBOLIC_PHASE_COMPILER",
+  "quadratic_gauss_sums_exhaustively_compared": 180,
+  "literal_amplitudes_compared": 744,
+  "lowered_recipe_matches_original_compiler": 60,
+  "seed": 10625,
+  "seconds": 0.1007232666015625
+}

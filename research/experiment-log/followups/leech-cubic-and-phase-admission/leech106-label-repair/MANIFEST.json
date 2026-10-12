@@ -1,0 +1,117 @@
+{
+  "status": "FROZEN_FINITE_LABEL_IMPROVEMENT_NO_SUPPLIER_GAIN",
+  "file_count": 22,
+  "files": [
+    {
+      "path": "COLOR-RESULT.json",
+      "bytes": 518850,
+      "sha256": "634d305cdababe4c33f705d4b93435778280fa1b1dcee97467cbbd31f82fe30a"
+    },
+    {
+      "path": "COLOR-WITNESSES.json.gz",
+      "bytes": 12576,
+      "sha256": "0cf9ad5b00a59cbe1f773f3e30f9e82129daec013e902622df582889008df9a6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6073,
+      "sha256": "5e598042c0d4c9c09e75698c3c5186fd54daf74fbc9c9913b00aa8e6ea63fd77"
+    },
+    {
+      "path": "REPAIRED-RESULT.json",
+      "bytes": 219610,
+      "sha256": "ef115ddb436197c51dee12323528747f184aed360f93ac0570961620162a3b46"
+    },
+    {
+      "path": "REPAIRED-WITNESSES.json.gz",
+      "bytes": 31123,
+      "sha256": "9efab39d656322776ec2548bec08f07c47ebebbd77ddc4e6a328b7b277dd35f5"
+    },
+    {
+      "path": "SOURCES.json",
+      "bytes": 1348,
+      "sha256": "c4ca64be68d7158f1fa2f80a2d3edc765bf6b92011307f5a6dc6a462d37fe88e"
+    },
+    {
+      "path": "TABU-LOWER-RESULT.json",
+      "bytes": 1302,
+      "sha256": "66758e2f93b701534b505c8070340c12c8ddddd94f5f7a70f136f7593ef743ee"
+    },
+    {
+      "path": "TABU-LOWER-SOLUTIONS.json.gz",
+      "bytes": 12573,
+      "sha256": "ec5eeb04e5880ea599bf37909b806a58b47bcfe84cd45696516710f430469baf"
+    },
+    {
+      "path": "TABU-RESULT.json",
+      "bytes": 925,
+      "sha256": "fade0c45fdfa8d2b99280f63ad7fe00b679e6db6c10459181c1323c588c6b1de"
+    },
+    {
+      "path": "TABU-SOLUTIONS.json.gz",
+      "bytes": 24933,
+      "sha256": "494f7ad4532560d87456d1bdbfd8a8e44bd5ce414fd946dda527c2973ec02cb6"
+    },
+    {
+      "path": "VERIFIED.json",
+      "bytes": 4815,
+      "sha256": "8ab895cac8367758f8ac53f96af5d086652b5a04da66aa0619f7e6932bdd45d5"
+    },
+    {
+      "path": "build-labels-final.log",
+      "bytes": 428,
+      "sha256": "416e1ab0d1bff5ff1b12c269c057161410332e87a2215fba3f8bf6a46492cb3d"
+    },
+    {
+      "path": "build-labels.log",
+      "bytes": 428,
+      "sha256": "416e1ab0d1bff5ff1b12c269c057161410332e87a2215fba3f8bf6a46492cb3d"
+    },
+    {
+      "path": "build_labels.py",
+      "bytes": 2974,
+      "sha256": "86a566b02d6ee18a25b2088c7208670c98a97a1bbee63010a98a6e06a668d845"
+    },
+    {
+      "path": "color-search.log",
+      "bytes": 1294,
+      "sha256": "06b83d0c13e4654261c1ec645b63bfd6a445fb43f4f428f37e002b9e6e475f06"
+    },
+    {
+      "path": "color_search.py",
+      "bytes": 3534,
+      "sha256": "370a7b46002e452c1c059f1396ebf4bb76ead61d6b54a9a5b0036bb1333ad730"
+    },
+    {
+      "path": "tabu-lower-run.log",
+      "bytes": 859,
+      "sha256": "01a9e17c1bc6a035b81aebe01712a498137bfbc0dad1cabf5a51a58de9ea0535"
+    },
+    {
+      "path": "tabu-run.log",
+      "bytes": 623,
+      "sha256": "282caf2242d902ca6ecc9404b8dd49b714e9da8949820f2ab900bb3535496f4f"
+    },
+    {
+      "path": "tabu_colors.py",
+      "bytes": 2457,
+      "sha256": "5a5a266d63b7623b439022e5df946a3e8f42bbfbe329a2231a9f225c7dd38850"
+    },
+    {
+      "path": "tabu_lower.py",
+      "bytes": 2472,
+      "sha256": "0a5fe44726d360c649de0bb199a91a1205d9b29c2446543b2e847ad2deac59a1"
+    },
+    {
+      "path": "verify-labels.log",
+      "bytes": 4815,
+      "sha256": "8ab895cac8367758f8ac53f96af5d086652b5a04da66aa0619f7e6932bdd45d5"
+    },
+    {
+      "path": "verify_labels.py",
+      "bytes": 3331,
+      "sha256": "10ce49c9c58a1fe94c76e5a0072cd1cfaf2f9a21597c7eb481e25d419cff0979"
+    }
+  ],
+  "created_utc": "2026-10-12T05:54:22.013461+00:00"
+}

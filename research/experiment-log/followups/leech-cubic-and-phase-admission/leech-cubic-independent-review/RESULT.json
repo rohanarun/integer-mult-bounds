@@ -1,0 +1,30 @@
+{
+  "status": "PASS_INDEPENDENT_FINITE_REVIEW",
+  "ports": 98280,
+  "factor_pair_checks": 16384,
+  "off_shell_identity_checks": 100,
+  "label_reconstructions": 98280,
+  "basis_pairing_checks": 625,
+  "gather_rank_witnesses": 2600,
+  "gather_witness_vectors": 65000,
+  "universal_off_diagonal_cap_proof": "integer t, Cauchy |t|<4 for distinct canonical lines; even t gives zero and odd t gives orthogonal labels",
+  "ambient_dimension": 26,
+  "active_span_dimension": 25,
+  "centers": 2600,
+  "C": 65000,
+  "optimistic_deficit": "33280L-98280",
+  "optimistic_deficit_L3": 1560,
+  "negative_controls": [
+    "target coefficient",
+    "dependent shortened gather basis",
+    "changed affine label embedding"
+  ],
+  "remaining": [
+    "chronological dirty word",
+    "full exact phase replay",
+    "paid rank profile",
+    "all-size hosting invoice",
+    "conditional global kappa"
+  ],
+  "scope": "Finite scalar geometry only. Zero-extension preserves required elementary bilinear conditions; specialized current supplier is not an admission certificate for it."
+}

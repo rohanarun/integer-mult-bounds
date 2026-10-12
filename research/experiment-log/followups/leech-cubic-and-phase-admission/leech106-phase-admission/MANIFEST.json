@@ -1,0 +1,167 @@
+{
+  "scope": "Frozen Leech106 original25D/repaired23D and full-shell cubic26D finite phase-interface certificates; no complete supplier admission or kappa.",
+  "files": [
+    {
+      "path": "CUBIC26-ALL-QUOTIENT-LABELS.json.gz",
+      "bytes": 734137,
+      "sha256": "d3db77963c19e2f379fedb9a00cd52eeea8b607d1427838c14b4a7ff79429a65"
+    },
+    {
+      "path": "CUBIC26-INITIAL-TOOL-ERROR.txt",
+      "bytes": 244,
+      "sha256": "82b50fe0aa020fe5f3904c561d6e22c5d8082b3f3f96dccfe7eafce91b1a08a2"
+    },
+    {
+      "path": "CUBIC26-PHASE-RECIPES.json.gz",
+      "bytes": 8062,
+      "sha256": "cb44bfe25213645de4e5ae25b3039bc473c8d41f8a029a57e800e4978f656251"
+    },
+    {
+      "path": "CUBIC26-RESULT.json",
+      "bytes": 1838,
+      "sha256": "edd025e7703eda7ea97b7db9a259254a1af2cbe2021fad6bbf7edf6420ee5498"
+    },
+    {
+      "path": "CUBIC26-SCALAR-SOURCE.json",
+      "bytes": 776,
+      "sha256": "6f28a03ee5ad9608b4f6dd7b35f655ce207f877215361f966d5b4f04b193e348"
+    },
+    {
+      "path": "CUBIC26-SERIALIZED-AUDIT.json",
+      "bytes": 316,
+      "sha256": "3b73eed43b88ff314152a3e8f172d9ab2be1ae7c4a4fda153fe0b0812720bdc1"
+    },
+    {
+      "path": "CUBIC26-SERIALIZED-AUDIT.log",
+      "bytes": 298,
+      "sha256": "fa3adb4bc7837cd396dc3908aa7ea695504fc6d5b550620abfb272597f8604bd"
+    },
+    {
+      "path": "CUBIC26.log",
+      "bytes": 1620,
+      "sha256": "b3fd36de8f1ee3db999a93cc1ed9ad2f3e6d9cef333610ea7971d50d2dbd4dce"
+    },
+    {
+      "path": "ORIGINAL25-PHASE-RECIPES.json.gz",
+      "bytes": 26536,
+      "sha256": "90edab35d395ba3b4c737f6a7c1cf5c09f3f9edb7c5c3e435bb0b7b6283af266"
+    },
+    {
+      "path": "ORIGINAL25-RESULT.json",
+      "bytes": 1056,
+      "sha256": "87e2fca08203319b1e9e66e080bae3c43df7d6f3cfc9d5cc58c96eb505ce9b7e"
+    },
+    {
+      "path": "ORIGINAL25.log",
+      "bytes": 1171,
+      "sha256": "5bc3ec651f501d63e11a8309e3605e8ff0ed2cd4b82f074a30604bb172b21a05"
+    },
+    {
+      "path": "PUNCTURED-WITNESSES.json.gz",
+      "bytes": 5449,
+      "sha256": "3e656174577c40c0b6933e7095473796fe8daea6130cd42c1112ca853ca26210"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10022,
+      "sha256": "d7384ed51036203216fb5c4974290141d6745a01f36061328281507f7cb2eb6f"
+    },
+    {
+      "path": "REPAIRED23-PHASE-RECIPES.json.gz",
+      "bytes": 39251,
+      "sha256": "642c1103f365194c9bdd1b30af3dc2659677f0080f5b7373a0afd5e624052cb4"
+    },
+    {
+      "path": "REPAIRED23-RESULT.json",
+      "bytes": 988,
+      "sha256": "4588b4e9dbab9900e7ab1c77d646ac811e698d97ee66c4351d59ece419140cce"
+    },
+    {
+      "path": "REPAIRED23-WITNESS.json.gz",
+      "bytes": 5395,
+      "sha256": "4182c331132294df4e52e6fd0e933cb5bfe2affcbbf053415307a94e43087c40"
+    },
+    {
+      "path": "REPAIRED23.log",
+      "bytes": 1737,
+      "sha256": "dddf4184a1ef6bf67ffd00b7433d0f1d450f578c0d5633d0266ab7739ebba479"
+    },
+    {
+      "path": "SERIALIZED-AUDIT.json",
+      "bytes": 471,
+      "sha256": "f4c30e944cc5659b9319b32a43deb26dde112ad8b49dd8b7d6f44757c699edf2"
+    },
+    {
+      "path": "SERIALIZED-AUDIT.log",
+      "bytes": 612,
+      "sha256": "e4c521dbb28f9ea6cf1dbe09ea1e42251c95ed40f300cc8733a85d6c5b191a5e"
+    },
+    {
+      "path": "SOURCE-PINS.json",
+      "bytes": 1517,
+      "sha256": "d568cc46fb557db1f78014c8d479a0fcb8869c9312f357874bce8b2f6f743b92"
+    },
+    {
+      "path": "SYMBOLIC-CROSSCHECK.json",
+      "bytes": 260,
+      "sha256": "45e79f7a32231966fae8e388e311aa014ac2478d08d84358e53d93cce49d2780"
+    },
+    {
+      "path": "SYMBOLIC-CROSSCHECK.log",
+      "bytes": 246,
+      "sha256": "499bbaee6d3650550107bafbbdc3404310b74745f5c5c4ad35308028fd74f66b"
+    },
+    {
+      "path": "admit_cubic26_frames.initial.py",
+      "bytes": 4115,
+      "sha256": "6700d32951ea5c1d8dc3f28797b48b1ce3b8f125c8d53235b04e271e87488cd1"
+    },
+    {
+      "path": "admit_cubic26_frames.py",
+      "bytes": 4116,
+      "sha256": "e129e806c93ee60776fa15fb2faf38ac2ce191a198801b8d63f752ded7600df4"
+    },
+    {
+      "path": "admit_original_frames.py",
+      "bytes": 4305,
+      "sha256": "f64c72fa98f87e69afbcd69d7baa3a23ae1894ed46c9e97b596a28123eefda86"
+    },
+    {
+      "path": "admit_repaired_frames.py",
+      "bytes": 3020,
+      "sha256": "7159b128aafdc6c64e690191bd8c8660947d053f39f227e52b80972702975827"
+    },
+    {
+      "path": "audit_cubic26_recipes.py",
+      "bytes": 2348,
+      "sha256": "87e668d14c16ffd22a7a4c5ab7906740a0e8beb4d827a748f20fe2b7bc2150b4"
+    },
+    {
+      "path": "audit_serialized_recipes.py",
+      "bytes": 2918,
+      "sha256": "a9868196e16f982fe8dcf86dceef3fa6980f5b9d3df0b7f825b4e11df491c761"
+    },
+    {
+      "path": "clifford_exact.py",
+      "bytes": 6824,
+      "sha256": "2982ead07721e83358dc67c6f49c2b4c16a236a6bebdfd72f58221be1f5d0962"
+    },
+    {
+      "path": "general-clifford-frames.tex",
+      "bytes": 4464,
+      "sha256": "c9bb9655b594583c6b4bab8cb485233f1d1e588f83858cf1e4c3530cee8fed54"
+    },
+    {
+      "path": "symbolic_phase.py",
+      "bytes": 6434,
+      "sha256": "c32d35650c0181e6d6bdbfe22e896972e13b6846ab4dd5ea077fd9c4e0c13120"
+    },
+    {
+      "path": "test_symbolic_phase.py",
+      "bytes": 1837,
+      "sha256": "61be2c6ee26ba570655235bb1db4277a2bf3e0ac77774cf1ca2c1b1da4f6080d"
+    }
+  ],
+  "file_count_excluding_manifest": 32,
+  "bytes_excluding_manifest": 882383
+}

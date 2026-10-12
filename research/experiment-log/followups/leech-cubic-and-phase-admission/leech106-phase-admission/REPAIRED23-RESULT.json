@@ -1,0 +1,36 @@
+{
+  "status": "PASS_EXACT_REPAIRED23_LEECH106_FRAME_PHASES",
+  "dimension": 23,
+  "source_seed": 55025,
+  "ports": 106,
+  "coordinate_gathers": 24,
+  "gather_rank_sum": 453,
+  "gather_rank_histogram": {
+    "16": 1,
+    "17": 2,
+    "18": 3,
+    "19": 11,
+    "20": 7
+  },
+  "unique_general_frame_preimage_checks": 226,
+  "phase_lowered_children_and_adapters": 1126,
+  "phase_rank_histogram": {
+    "0": 212,
+    "3": 7,
+    "4": 11,
+    "5": 3,
+    "6": 2,
+    "7": 1,
+    "15": 30,
+    "16": 70,
+    "17": 109,
+    "18": 395,
+    "19": 272,
+    "20": 14
+  },
+  "all_equalities_include_global_phase": true,
+  "hilbert_state_vectors_allocated": 0,
+  "recipe_uncompressed_sha256": "8381fa7f447b2f6afb206d86d34b4a451387cfec6c3176a461b2bba8257de7e9",
+  "seconds": 7.99375581741333,
+  "scope": "Finite native23D frame/adapter feasibility for every nonzero coordinate gather incidence in the retained witness, not a full chronological scalar word or dirty-helper/global supplier admission."
+}

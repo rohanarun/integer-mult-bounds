@@ -48,3 +48,7 @@ The first candidate-preparation attempt raised `NameError: name 'not112' is not 
 The original research scripts retain their workspace-relative source paths. This category is a frozen research archive, not a standalone substitute for the complete PR554 verification package. The Leech subcategory also retains its exact source lines for inspection. Reproduce mathematical checks using each subcategory's documented inputs and pinned repository package; do not treat missing workspace dependencies as a mathematical failure.
 
 Only completed Python3.11 receipts were added after the initial freeze. Publication state here is a snapshot; final PR heads, CI and packaged-runtime receipts are the publishing worker's responsibility.
+
+## Stronger551/552 composition tests completed
+
+[Exact source comparison and retained experiments](source551-comparison/README.md) includes137 hashed files plus its manifest. PR550 expansion is paid-neutral on the new wave;120-retime transplant encounters55 overlapping frames. Direct versions fail legality or lose cost; the A-only intersection is neutral, whereas the A-only override loses. All37component tests,48frame mixtures and two60-second anneals found no further gain. Constructors and independent saved-word/profile recounts pass; full551/552 physical admission has not been independently replayed here.

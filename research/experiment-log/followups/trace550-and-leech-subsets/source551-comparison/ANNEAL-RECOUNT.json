@@ -1,0 +1,32 @@
+[
+  {
+    "seed": 55201,
+    "status": "PASS_FULL_PROFILE_RECOUNT_NO_GAIN",
+    "exact_word_structure_unchanged": true,
+    "local_profile": {
+      "1": 2300,
+      "4": 184,
+      "8": 8,
+      "3": 472,
+      "2": 440,
+      "6": 56,
+      "5": 56
+    },
+    "raw_output_sha256": "a30810b755cf80e1128c0b932728bd51ca8e0bb31225fc415675afb42a766c8f"
+  },
+  {
+    "seed": 55202,
+    "status": "PASS_FULL_PROFILE_RECOUNT_NO_GAIN",
+    "exact_word_structure_unchanged": true,
+    "local_profile": {
+      "1": 2300,
+      "4": 184,
+      "8": 8,
+      "3": 472,
+      "2": 440,
+      "6": 56,
+      "5": 56
+    },
+    "raw_output_sha256": "a30810b755cf80e1128c0b932728bd51ca8e0bb31225fc415675afb42a766c8f"
+  }
+]

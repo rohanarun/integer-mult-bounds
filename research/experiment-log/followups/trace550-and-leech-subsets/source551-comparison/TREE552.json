@@ -1,0 +1,842 @@
+[
+  {
+    "path": "research/filtration-wavefront/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7ee2fb720abcda30ac4350baef853cfff1dc0015",
+    "size": 959,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/7ee2fb720abcda30ac4350baef853cfff1dc0015"
+  },
+  {
+    "path": "research/filtration-wavefront/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/filtration-wavefront/MANIFEST.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e7acc72ad74c0f298cdad83109bc5627f800c3e7",
+    "size": 16833,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/e7acc72ad74c0f298cdad83109bc5627f800c3e7"
+  },
+  {
+    "path": "research/filtration-wavefront/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f4c470edd1e39bdf82b548626990ceb6322605bd",
+    "size": 7636,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/f4c470edd1e39bdf82b548626990ceb6322605bd"
+  },
+  {
+    "path": "research/filtration-wavefront/code/alien-avalanche80.cpp",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "568feafc639274a101404233c1ab03557b8bbed8",
+    "size": 2380,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/568feafc639274a101404233c1ab03557b8bbed8"
+  },
+  {
+    "path": "research/filtration-wavefront/code/alien-flags.cpp",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2212fd6273f86523d90d49a1966d8206f1381429",
+    "size": 2969,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/2212fd6273f86523d90d49a1966d8206f1381429"
+  },
+  {
+    "path": "research/filtration-wavefront/code/assemble.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7a98b1d20c34743d226d9aa1ad615428cbf6dffd",
+    "size": 4897,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/7a98b1d20c34743d226d9aa1ad615428cbf6dffd"
+  },
+  {
+    "path": "research/filtration-wavefront/code/build_wave.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "82ba7e793877f94f14605c94447432e92bc34968",
+    "size": 3072,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/82ba7e793877f94f14605c94447432e92bc34968"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "647cb956b47ebbff534d0e0a5d990e60dfa2883c",
+    "size": 1547,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/647cb956b47ebbff534d0e0a5d990e60dfa2883c"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/RESOURCE-TRANSFERS.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bb6e0adba222dbf9a333d2520970d28727a713e0",
+    "size": 7326,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/bb6e0adba222dbf9a333d2520970d28727a713e0"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/SAT-OWNERS.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "243bc54840492c8fe613f00dc5fcda4577d4b09c",
+    "size": 409252,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/243bc54840492c8fe613f00dc5fcda4577d4b09c"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/SAT534-PLAN.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bfa9e846a061e7668d9b3f07ee47f0a736684bae",
+    "size": 109405,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/bfa9e846a061e7668d9b3f07ee47f0a736684bae"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/SCREEN-RECEIPT.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5509841f559a57de64fa391ebefa17f489c5a1a9",
+    "size": 464,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/5509841f559a57de64fa391ebefa17f489c5a1a9"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/SOURCE-TRANSFERS.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "571c31eb3f0455702e69f0a8466a68adc11d98d7",
+    "size": 653,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/571c31eb3f0455702e69f0a8466a68adc11d98d7"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bfc6fabd0aad2a4e4bb8ed8dbb137ddeb9644838",
+    "size": 601,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/bfc6fabd0aad2a4e4bb8ed8dbb137ddeb9644838"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/TWO-RESOURCE-TECHNIQUES.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6c9da1f090a6cba210c5bbcd4d6240822cc9d88e",
+    "size": 8203,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/6c9da1f090a6cba210c5bbcd4d6240822cc9d88e"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/WAVE-MAJORISATION.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b3b738d77d9054e364c000f1841c3c3f1692abbe",
+    "size": 628,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/b3b738d77d9054e364c000f1841c3c3f1692abbe"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/replay.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "081cce98e0b9ee0ed35f29c58aa9d4e42bbdbfed",
+    "size": 570,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/081cce98e0b9ee0ed35f29c58aa9d4e42bbdbfed"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/run_complex44.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "325eca7d4f82a3a5a02fb30be942e03b95a444bb",
+    "size": 3153,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/325eca7d4f82a3a5a02fb30be942e03b95a444bb"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/run_portable.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2fed13f432df4d76ce72185dd79fac63d96aee96",
+    "size": 1160,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/2fed13f432df4d76ce72185dd79fac63d96aee96"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/NOTICE.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f3833c1cb2139473c7a0831dee35803fdcc3c14b",
+    "size": 1471,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/f3833c1cb2139473c7a0831dee35803fdcc3c14b"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6991a2a9c6ccb91d8fe65e58fa54cc00a581c68c",
+    "size": 2632,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/6991a2a9c6ccb91d8fe65e58fa54cc00a581c68c"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/adapters_local.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "787416e4dd84db0981d3cb94f4e424c652e0085a",
+    "size": 4883,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/787416e4dd84db0981d3cb94f4e424c652e0085a"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/audit_and_transport.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "95ae517f2ea66b4a35ed16b6ab861271554d64d0",
+    "size": 9464,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/95ae517f2ea66b4a35ed16b6ab861271554d64d0"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/audit_local.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a09611844a49e1d7f73ddc1c0a2df3b0cec640ec",
+    "size": 9343,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/a09611844a49e1d7f73ddc1c0a2df3b0cec640ec"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/audit_supplier_hosted.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "62b721b6e6d467b76722f0e95158986a420aaeda",
+    "size": 13455,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/62b721b6e6d467b76722f0e95158986a420aaeda"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/emit_local.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a54170b0023d467be3da1db9d8623ac4665f0afe",
+    "size": 7868,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/a54170b0023d467be3da1db9d8623ac4665f0afe"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/emit_supplier_hosted.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "41c46015c7e19ab77f96580dbb98e12ca07aa2fd",
+    "size": 9777,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/41c46015c7e19ab77f96580dbb98e12ca07aa2fd"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/invoice_final.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "abefcee47ba03edcf170abc92f00fa8b988d6c4a",
+    "size": 16298,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/abefcee47ba03edcf170abc92f00fa8b988d6c4a"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/phases_delta.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8d78d26b3b03fa23c6af1e650326ab3925ec2b46",
+    "size": 7617,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/8d78d26b3b03fa23c6af1e650326ab3925ec2b46"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/code/prepare_supplier_base.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "650fc9fd77fd61930ab3a352cd8d0fb5b7f0f03b",
+    "size": 6660,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/650fc9fd77fd61930ab3a352cd8d0fb5b7f0f03b"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/evidence/audit/PREFIX-AND-INVOICE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a16bf40bccc81278a443e0d5f09b44495035de81",
+    "size": 3982,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/a16bf40bccc81278a443e0d5f09b44495035de81"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/evidence/local/CANONICAL-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3b0a475178f4e4ad107e3595992c872e47e83c63",
+    "size": 75113,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/3b0a475178f4e4ad107e3595992c872e47e83c63"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/inputs/PR523-ANCESTRY.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4af8dd0d34b62e99130b78985e678fceee35e1cc",
+    "size": 4634,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/4af8dd0d34b62e99130b78985e678fceee35e1cc"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/inputs/data-base/work/complex-nine-native/DATA-PHASES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d9a4f84211182ca200c081ea061d724c8a2cfb70",
+    "size": 814141,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/d9a4f84211182ca200c081ea061d724c8a2cfb70"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/inputs/data-base/work/pr361/code/engines/base_two_moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "14a90fa0e788217856f070382c9e61bd7c603c61",
+    "size": 1742,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/14a90fa0e788217856f070382c9e61bd7c603c61"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/inputs/data-base/work/pr361/code/engines/moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d697cb45203fe72d97037403d6da41f71f3b7fd",
+    "size": 5562,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/7d697cb45203fe72d97037403d6da41f71f3b7fd"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/inputs/data-base/work/pr361/code/engines/outer.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "43007488ad2c43187c77cc6798beff8b1cd76ad2",
+    "size": 3535,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/43007488ad2c43187c77cc6798beff8b1cd76ad2"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor531/vendor/clifford/clifford_exact.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "166841a037f069249f6f7f6dedb89248812f59e2",
+    "size": 6824,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/166841a037f069249f6f7f6dedb89248812f59e2"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor535/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor535/NOTICE.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f42e0eed8584ad7d472c458aa875c29d1cd5ed86",
+    "size": 3576,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/f42e0eed8584ad7d472c458aa875c29d1cd5ed86"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor535/code/assemble_combined.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ea740f367ed493c47d7ef5d45f91ed7fd16f04e5",
+    "size": 8093,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/ea740f367ed493c47d7ef5d45f91ed7fd16f04e5"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor535/inputs/PR510-EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9e5d3669638caa58c916f1d6a8e9946d47915089",
+    "size": 2241,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/9e5d3669638caa58c916f1d6a8e9946d47915089"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-global/vendor535/inputs/ROUND20-PARENT-TEMPLATE.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3e28a9b59f8fde608e59ebd5fbdbc22ca54558d4",
+    "size": 393948,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/3e28a9b59f8fde608e59ebd5fbdbc22ca54558d4"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "840555bd17dd67e3ca37d2b2fbd3cc85fc402c58",
+    "size": 473,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/840555bd17dd67e3ca37d2b2fbd3cc85fc402c58"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/SOURCE-MANIFEST.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0f3ff6125bfca37da9107cee39cca1d851649df4",
+    "size": 2656,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/0f3ff6125bfca37da9107cee39cca1d851649df4"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/code/apply_syndrome.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6fd085c5ed7ffbb0ccf34cd80d55e182db19f9a6",
+    "size": 1857,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/6fd085c5ed7ffbb0ccf34cd80d55e182db19f9a6"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/code/port_frames.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bd9187bd060ffb8e5fc80596d4f866492fbdef05",
+    "size": 2750,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/bd9187bd060ffb8e5fc80596d4f866492fbdef05"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/code/run_portable.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2fed13f432df4d76ce72185dd79fac63d96aee96",
+    "size": 1160,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/2fed13f432df4d76ce72185dd79fac63d96aee96"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/docs/OPENAI-SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9d480f5d1c71e5df3f27976a228cbf0cdf575e1f",
+    "size": 710,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/9d480f5d1c71e5df3f27976a228cbf0cdf575e1f"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/docs/SEARCH-RECORD.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5fd16a03a46dd324f186b3bc9f022ecd6625e995",
+    "size": 1385,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/5fd16a03a46dd324f186b3bc9f022ecd6625e995"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/docs/TWO-SOURCE-PROOF.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7ab57778a1ddb1bf63f27097c33602f7dedb6a39",
+    "size": 6675,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/7ab57778a1ddb1bf63f27097c33602f7dedb6a39"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/inputs/PR534-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "965888339a0ac249031cde058c44d3f40771d303",
+    "size": 38085,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/965888339a0ac249031cde058c44d3f40771d303"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/inputs/phase-baseline/CANONICAL-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cbb49a627768c42e1ff752f43ccfcc56ffe2cb0b",
+    "size": 72789,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/cbb49a627768c42e1ff752f43ccfcc56ffe2cb0b"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/inputs/phase-baseline/CLIFFORD-RECIPES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e791d26d89a96774e6f9197310ddfd1861897350",
+    "size": 991124,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/e791d26d89a96774e6f9197310ddfd1861897350"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/inputs/phase-baseline/CLIFFORD-REVIEW.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9438efb75e13638c7c74e5320ade73d3648ede72",
+    "size": 5550,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/9438efb75e13638c7c74e5320ade73d3648ede72"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/run_local.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b18de2591aeea9dc9c2a6d5e99d181bf51e46f48",
+    "size": 2327,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/b18de2591aeea9dc9c2a6d5e99d181bf51e46f48"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/META-SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8cbd32f8bd6437c1e2f08ac9e49395708a0c78fd",
+    "size": 932,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/8cbd32f8bd6437c1e2f08ac9e49395708a0c78fd"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/NOTICE-upstream.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f42e0eed8584ad7d472c458aa875c29d1cd5ed86",
+    "size": 3576,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/f42e0eed8584ad7d472c458aa875c29d1cd5ed86"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/PROOF.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1d43cf78f4a7a394710db7c367a857f317171617",
+    "size": 8848,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/1d43cf78f4a7a394710db7c367a857f317171617"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6aed83ec92333c21d79e96c2cc4da1cb9ecd409a",
+    "size": 1033,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/6aed83ec92333c21d79e96c2cc4da1cb9ecd409a"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/RECIPE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "68c751bb56f3f1c7121ba5f269357e78668d7ea6",
+    "size": 2557,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/68c751bb56f3f1c7121ba5f269357e78668d7ea6"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/SOURCE-MANIFEST.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "468918ea5832305d225c51457dc73088496328b9",
+    "size": 1234,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/468918ea5832305d225c51457dc73088496328b9"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/audit_scalar.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "834e8b510388e6b79cbbede33abcd38ac5203e59",
+    "size": 2756,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/834e8b510388e6b79cbbede33abcd38ac5203e59"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/build.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "de6484973953d9e5dc8109a3492fa8cb69db4529",
+    "size": 2875,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/de6484973953d9e5dc8109a3492fa8cb69db4529"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/gk/gk_common.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0e5fde920d29106232776eb56347297c0d40fa72",
+    "size": 5016,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/0e5fde920d29106232776eb56347297c0d40fa72"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/gk/gk_word.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "15782ba625e438a3c707718fa51796ec1937018f",
+    "size": 10009,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/15782ba625e438a3c707718fa51796ec1937018f"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/inputs/BASE535.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bcc1647b7d4ad8ae3ae2acbb31d3591c0d49467f",
+    "size": 36660,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/bcc1647b7d4ad8ae3ae2acbb31d3591c0d49467f"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/inputs/OLD-RECIPE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "52d4b5f3827b456b1c0eb457462bc3ab7045c509",
+    "size": 17432,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/52d4b5f3827b456b1c0eb457462bc3ab7045c509"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/inputs/RAW504.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "903eeb216176a7c5fd6d26f875a63e89a79b37bb",
+    "size": 32146,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/903eeb216176a7c5fd6d26f875a63e89a79b37bb"
+  },
+  {
+    "path": "research/filtration-wavefront/complex-local/static44/replay.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ef5642ccfda5c30d869a3bc7e2aa30ae023e20b1",
+    "size": 834,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/ef5642ccfda5c30d869a3bc7e2aa30ae023e20b1"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/DAG-STRUCTURES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "699b69e691de864f2c630c6acb1ab314853d133a",
+    "size": 68929,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/699b69e691de864f2c630c6acb1ab314853d133a"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/ELIMINATION-AVALANCHE-INDEPENDENT-REVIEW.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "37deca7fcb36b50bff371803ccd0af60bb88051e",
+    "size": 2400,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/37deca7fcb36b50bff371803ccd0af60bb88051e"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/ELIMINATION-CODIM2.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f495a8d1e39a3a62ed5e9a57ffff97c74dde9fdd",
+    "size": 153,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/f495a8d1e39a3a62ed5e9a57ffff97c74dde9fdd"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/ELIMINATION-ELIMINATION-AND-PATH-TRANSFER.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "847fc9e4b01790273c0c60e5b876aafc1f1651de",
+    "size": 7354,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/847fc9e4b01790273c0c60e5b876aafc1f1651de"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/ELIMINATION-SCREEN-REVIEW.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "720db44ac336f79acc7e6b12e32d18e79633fa37",
+    "size": 588,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/720db44ac336f79acc7e6b12e32d18e79633fa37"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/ELIMINATION-SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "33f50caa281e57812a059f81a7d82afa5509c45a",
+    "size": 1156,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/33f50caa281e57812a059f81a7d82afa5509c45a"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/FRAME-SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c6cbc8f79442a6033024955370bc6b3a239f4a34",
+    "size": 341,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/c6cbc8f79442a6033024955370bc6b3a239f4a34"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/FRAME-TRANSFERS.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f0781831022c162a3d8ba656c7716341b46d2310",
+    "size": 8006,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/f0781831022c162a3d8ba656c7716341b46d2310"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/PR-LINEAGE.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "48a59836b2c1dcd1714decd84a7f1638de3e0ae1",
+    "size": 3063,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/48a59836b2c1dcd1714decd84a7f1638de3e0ae1"
+  },
+  {
+    "path": "research/filtration-wavefront/docs/PUBLIC-PINS.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "13fd4ac4bf6e3f144deee421a9cf8060661808ef",
+    "size": 10853,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/13fd4ac4bf6e3f144deee421a9cf8060661808ef"
+  },
+  {
+    "path": "research/filtration-wavefront/engines/base_two_moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "14a90fa0e788217856f070382c9e61bd7c603c61",
+    "size": 1742,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/14a90fa0e788217856f070382c9e61bd7c603c61"
+  },
+  {
+    "path": "research/filtration-wavefront/engines/moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d697cb45203fe72d97037403d6da41f71f3b7fd",
+    "size": 5562,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/7d697cb45203fe72d97037403d6da41f71f3b7fd"
+  },
+  {
+    "path": "research/filtration-wavefront/engines/outer.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "43007488ad2c43187c77cc6798beff8b1cd76ad2",
+    "size": 3535,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/43007488ad2c43187c77cc6798beff8b1cd76ad2"
+  },
+  {
+    "path": "research/filtration-wavefront/evidence/COMPLEX-INVOICE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2cd1365bdd807c362035f2f5b86dc1ecf164a457",
+    "size": 3995,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/2cd1365bdd807c362035f2f5b86dc1ecf164a457"
+  },
+  {
+    "path": "research/filtration-wavefront/evidence/EXACT-ASSEMBLY.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "104ff571e6831170faa03c74614ed580ee5a6e14",
+    "size": 33926,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/104ff571e6831170faa03c74614ed580ee5a6e14"
+  },
+  {
+    "path": "research/filtration-wavefront/evidence/FINAL-RESOURCE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "694d910171baac3f26a4c75084f714a7575a38b3",
+    "size": 1077,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/694d910171baac3f26a4c75084f714a7575a38b3"
+  },
+  {
+    "path": "research/filtration-wavefront/evidence/WAVE-REVIEW.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "434c9c1de37441308a3467aa9bb12f32c2cfb3d8",
+    "size": 3655,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/434c9c1de37441308a3467aa9bb12f32c2cfb3d8"
+  },
+  {
+    "path": "research/filtration-wavefront/inputs/PR543-EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b61d859826246e0c3dabbe096e57ad7015eadfd5",
+    "size": 7111,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/b61d859826246e0c3dabbe096e57ad7015eadfd5"
+  },
+  {
+    "path": "research/filtration-wavefront/inputs/WAVES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5008a0a45276a3eb90f69240d7563dff87d73f9a",
+    "size": 4580,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/5008a0a45276a3eb90f69240d7563dff87d73f9a"
+  },
+  {
+    "path": "research/filtration-wavefront/optional-audit/COSET-PATH-APPLICATION.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d01ea9c4d097a3e365220086423d6553ee3d2648",
+    "size": 5182,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/d01ea9c4d097a3e365220086423d6553ee3d2648"
+  },
+  {
+    "path": "research/filtration-wavefront/optional-audit/COSET-PATH-REVIEW.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "db16f78ef3e6ef6bfd1d815bb594fb6e1820b93f",
+    "size": 438,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/db16f78ef3e6ef6bfd1d815bb594fb6e1820b93f"
+  },
+  {
+    "path": "research/filtration-wavefront/optional-audit/COSET-SOURCE-BINDING.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "59a6b488a29f897eed1c57f30b9b108831c3bf6b",
+    "size": 702,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/59a6b488a29f897eed1c57f30b9b108831c3bf6b"
+  },
+  {
+    "path": "research/filtration-wavefront/optional-audit/audit_coset_paths.cpp",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "12bfd181ee16d6fe8d511b49e5f3e70eecc7bc2e",
+    "size": 2899,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/12bfd181ee16d6fe8d511b49e5f3e70eecc7bc2e"
+  },
+  {
+    "path": "research/filtration-wavefront/optional-audit/coset-path-input.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0141a70a92fda426e0367be22c51a819ac1d4f92",
+    "size": 149313,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/0141a70a92fda426e0367be22c51a819ac1d4f92"
+  },
+  {
+    "path": "research/filtration-wavefront/optional-audit/export_coset_paths.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b02c0127eb47adb2b9194ca3f28b4787b2d79e0e",
+    "size": 2426,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/b02c0127eb47adb2b9194ca3f28b4787b2d79e0e"
+  },
+  {
+    "path": "research/filtration-wavefront/response/CROSS-FIELD-PROOFS.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "18e0ec9eb2d7ad17da80e8cee0cea305b39f2f36",
+    "size": 6284,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/18e0ec9eb2d7ad17da80e8cee0cea305b39f2f36"
+  },
+  {
+    "path": "research/filtration-wavefront/response/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4a201d36ea04395b849fcda60658134cbabe3fe1",
+    "size": 410,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/4a201d36ea04395b849fcda60658134cbabe3fe1"
+  },
+  {
+    "path": "research/filtration-wavefront/response/SOURCE-MANIFEST.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bdcde1589bdb93f177d25662ca976ff384aae6c6",
+    "size": 467,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/bdcde1589bdb93f177d25662ca976ff384aae6c6"
+  },
+  {
+    "path": "research/filtration-wavefront/response/SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "992fb0946fc68191dab17bea5256d20304f6b5fb",
+    "size": 1179,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/992fb0946fc68191dab17bea5256d20304f6b5fb"
+  },
+  {
+    "path": "research/filtration-wavefront/response/WEIGHTED-COSET-SELECTION.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fa156ce9fde325db729b90e3f7aeabd550c47075",
+    "size": 5562,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/fa156ce9fde325db729b90e3f7aeabd550c47075"
+  },
+  {
+    "path": "research/filtration-wavefront/response/build_weighted_coset.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d106b2b310cf2723f5b60cce26d25c5cd93e8b6f",
+    "size": 3052,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/d106b2b310cf2723f5b60cce26d25c5cd93e8b6f"
+  },
+  {
+    "path": "research/filtration-wavefront/verify.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a1205552fdee20334d69f8f8a38afd0570fe2a27",
+    "size": 4100,
+    "url": "https://api.github.com/repos/Dugongue/integer-mult-bounds/git/blobs/a1205552fdee20334d69f8f8a38afd0570fe2a27"
+  }
+]

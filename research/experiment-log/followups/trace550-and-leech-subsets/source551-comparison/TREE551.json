@@ -1,0 +1,2122 @@
+[
+  {
+    "path": "research/subspace16-r420/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "334adb435cc03d0f144bf5cb1b9b77594e377a7a",
+    "size": 1241,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/334adb435cc03d0f144bf5cb1b9b77594e377a7a"
+  },
+  {
+    "path": "research/subspace16-r420/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/subspace16-r420/MANIFEST.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "53eb9fa3ae5f00888efbcc09c61cd2263e4fddb7",
+    "size": 32654,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/53eb9fa3ae5f00888efbcc09c61cd2263e4fddb7"
+  },
+  {
+    "path": "research/subspace16-r420/NOTICE.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6977c60f8aa2b54171141d285dbeade9cda257a5",
+    "size": 1486,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/6977c60f8aa2b54171141d285dbeade9cda257a5"
+  },
+  {
+    "path": "research/subspace16-r420/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4be7c7e0e8daba5ea6f6a8bcaa1331132e611af0",
+    "size": 2864,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/4be7c7e0e8daba5ea6f6a8bcaa1331132e611af0"
+  },
+  {
+    "path": "research/subspace16-r420/SOURCE-GIT-BLOBS.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fa56110a91ca99e26700f12c5ae0f97bf9703b10",
+    "size": 90948,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/fa56110a91ca99e26700f12c5ae0f97bf9703b10"
+  },
+  {
+    "path": "research/subspace16-r420/SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c1f77a9071e7d87c23ced92a4702ebc190192a3c",
+    "size": 32947,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c1f77a9071e7d87c23ced92a4702ebc190192a3c"
+  },
+  {
+    "path": "research/subspace16-r420/code/assemble.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9c4a2ba92c59db45f89a6c049637973503714c12",
+    "size": 8752,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9c4a2ba92c59db45f89a6c049637973503714c12"
+  },
+  {
+    "path": "research/subspace16-r420/code/build_frames.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d6df615274e330f89ca707dcdf785173255ad42c",
+    "size": 2418,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/d6df615274e330f89ca707dcdf785173255ad42c"
+  },
+  {
+    "path": "research/subspace16-r420/code/phases_full.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d68f097d5dfe79de2667727914330943ef66d219",
+    "size": 2399,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/d68f097d5dfe79de2667727914330943ef66d219"
+  },
+  {
+    "path": "research/subspace16-r420/code/run.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7630f0c0af3d58216c5443cca5b1f29a4a166c82",
+    "size": 700,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7630f0c0af3d58216c5443cca5b1f29a4a166c82"
+  },
+  {
+    "path": "research/subspace16-r420/code/run_r420.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f5e63675fb2bbdcdf8b723af331d44f97fb9cb4d",
+    "size": 1975,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f5e63675fb2bbdcdf8b723af331d44f97fb9cb4d"
+  },
+  {
+    "path": "research/subspace16-r420/code/slice.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f9284db0e133994428e83390b6a80b3945f2f9bb",
+    "size": 3148,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f9284db0e133994428e83390b6a80b3945f2f9bb"
+  },
+  {
+    "path": "research/subspace16-r420/data/OWNERS.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "243bc54840492c8fe613f00dc5fcda4577d4b09c",
+    "size": 409252,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/243bc54840492c8fe613f00dc5fcda4577d4b09c"
+  },
+  {
+    "path": "research/subspace16-r420/data/PLAN.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c262ba1b57ea5770d212fe2a59656a4b935e6992",
+    "size": 109257,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c262ba1b57ea5770d212fe2a59656a4b935e6992"
+  },
+  {
+    "path": "research/subspace16-r420/data/RECIPE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0c303e63b1b38fcb4e136c115e6825b99a1fd072",
+    "size": 14467,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0c303e63b1b38fcb4e136c115e6825b99a1fd072"
+  },
+  {
+    "path": "research/subspace16-r420/proof/COMPOSITION.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d8d2610b686237f2fe50fbd6bf652c7b073fb651",
+    "size": 3317,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/d8d2610b686237f2fe50fbd6bf652c7b073fb651"
+  },
+  {
+    "path": "research/subspace16-r420/proof/PR510-MUTABLE-SOURCE-CARRYOVER.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "da33eb520679b1a3ab8e41bf7976c4d362529da1",
+    "size": 6488,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/da33eb520679b1a3ab8e41bf7976c4d362529da1"
+  },
+  {
+    "path": "research/subspace16-r420/proof/SUBSPACE16.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "02ae145ac1db8f7eb8c9e9ab5e3918d09f80c40b",
+    "size": 4298,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/02ae145ac1db8f7eb8c9e9ab5e3918d09f80c40b"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/direct-delivery504-global/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c340c32b84d7ea63c5f15eac78e38eace428c599",
+    "size": 1519,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c340c32b84d7ea63c5f15eac78e38eace428c599"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "973aaf30f1ec6a4d58038acabb9361ee1f44787a",
+    "size": 3057,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/973aaf30f1ec6a4d58038acabb9361ee1f44787a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/MANIFEST.sha256",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1213654fbd423d66e785bf582ba8ee76a41cdd36",
+    "size": 8963,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/1213654fbd423d66e785bf582ba8ee76a41cdd36"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/NOTICE.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5a0ecdcd2c7fad0488740a1da0f633b73b56a809",
+    "size": 5439,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5a0ecdcd2c7fad0488740a1da0f633b73b56a809"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dd0d7c43611d6c527a17287bc550e763edca0294",
+    "size": 12790,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/dd0d7c43611d6c527a17287bc550e763edca0294"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr370.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1b30f277afa20cb9db1e4495d655a32d64552317",
+    "size": 3146,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/1b30f277afa20cb9db1e4495d655a32d64552317"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr381.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fb0b0edd1375ffcbe9b2c9065bcca236a974660f",
+    "size": 642,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/fb0b0edd1375ffcbe9b2c9065bcca236a974660f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr386.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3744861904f61f29b00e2dec9cb98639a0fb7dfe",
+    "size": 902,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3744861904f61f29b00e2dec9cb98639a0fb7dfe"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr436.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f190527ae1c97a51fa9030518b59affeb0befcd3",
+    "size": 602,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f190527ae1c97a51fa9030518b59affeb0befcd3"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr445.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ae29de391a7aa893bec6ab8c2b6e89688191b088",
+    "size": 1309,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ae29de391a7aa893bec6ab8c2b6e89688191b088"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr448.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3648ab36928a28564ce89d224cfb3f16c891ecf1",
+    "size": 586,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3648ab36928a28564ce89d224cfb3f16c891ecf1"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr451.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fbd9881e09d7219f264eb1ee67c40c2e43d0832e",
+    "size": 1330,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/fbd9881e09d7219f264eb1ee67c40c2e43d0832e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr458.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c36c74cbeacf690473803b59a8d25008ec5a7710",
+    "size": 591,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c36c74cbeacf690473803b59a8d25008ec5a7710"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr471.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0dc019cfb1933e55d063fbd9e45bb316e4045857",
+    "size": 588,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0dc019cfb1933e55d063fbd9e45bb316e4045857"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr472.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "31acb027ecd0808f18e6f59c59662f6f94f5b9ac",
+    "size": 3807,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/31acb027ecd0808f18e6f59c59662f6f94f5b9ac"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr473.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "821caf8f073c615680ba5610e268eee2d23d2d03",
+    "size": 606,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/821caf8f073c615680ba5610e268eee2d23d2d03"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr478.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "608323ccbe4150d5a6522ddb3b18aa9cb5dff4fa",
+    "size": 597,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/608323ccbe4150d5a6522ddb3b18aa9cb5dff4fa"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr483.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "817396d9c89965a32979b943e638163d8261a205",
+    "size": 601,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/817396d9c89965a32979b943e638163d8261a205"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/SOURCE-pr484.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "76292df8518ac72acb3754a7b4fb23c368725b13",
+    "size": 596,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/76292df8518ac72acb3754a7b4fb23c368725b13"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/checkers/columns_h.cpp",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "00c5a3a5d81d083582f60f33dd2e7bea5049c37f",
+    "size": 7155,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/00c5a3a5d81d083582f60f33dd2e7bea5049c37f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/checkers/columns_k.cpp",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "42bb232fbec4de703e70cc13dc2f39a3b43a3a01",
+    "size": 8609,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/42bb232fbec4de703e70cc13dc2f39a3b43a3a01"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/checkers/gram_frames.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b740d47295c02692260d7cc01874a49fe48f78ab",
+    "size": 4159,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/b740d47295c02692260d7cc01874a49fe48f78ab"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/checkers/json.hpp",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "82d69f7c5d044c9887c96b90c97f5639083ecd14",
+    "size": 953436,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/82d69f7c5d044c9887c96b90c97f5639083ecd14"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/checkers/legality_h.cpp",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cb1233c7e96b1aa8bbf4d2e4165d75ab0dca64b9",
+    "size": 5287,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/cb1233c7e96b1aa8bbf4d2e4165d75ab0dca64b9"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/export_records.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3632d370486a02f5456f7643ced03f8c925b2350",
+    "size": 3745,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3632d370486a02f5456f7643ced03f8c925b2350"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/independent/checkword.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "da4e0fe05067184d4dab1e130ae1384c1fa983f5",
+    "size": 6290,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/da4e0fe05067184d4dab1e130ae1384c1fa983f5"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/independent/interface.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8beb87c39a07e389c8f83f32ab9d17f8097ed9b1",
+    "size": 4990,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8beb87c39a07e389c8f83f32ab9d17f8097ed9b1"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/independent/mutate.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "eba592fd468e0d7e7e5100fe99da6eb548c5906b",
+    "size": 1611,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/eba592fd468e0d7e7e5100fe99da6eb548c5906b"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/independent/mutate_mut.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f4c6191b783094c4d241f179446085331feb052b",
+    "size": 6122,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f4c6191b783094c4d241f179446085331feb052b"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/independent/relax.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a37e8b8176080d4a977bb48bd25f92f4a62b156b",
+    "size": 2365,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/a37e8b8176080d4a977bb48bd25f92f4a62b156b"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/mutate_records.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6794516f665d36eac189894e350a5ad01113cb4c",
+    "size": 2346,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/6794516f665d36eac189894e350a5ad01113cb4c"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/mutate_records_mut.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ea26fcebf99312eb5d4f5440862959fa6a74ec52",
+    "size": 3804,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ea26fcebf99312eb5d4f5440862959fa6a74ec52"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/bit/regression/stage_cohort.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f6d7afe3e623208c4207b6a683a1e3e49249e31c",
+    "size": 977,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f6d7afe3e623208c4207b6a683a1e3e49249e31c"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/cited.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e543cf2c9b2b1d43693bed6efbdba607ad9ac277",
+    "size": 1217,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/e543cf2c9b2b1d43693bed6efbdba607ad9ac277"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/eleven/adapt.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c13c91c245146670d4b454ff07b835f480171fc1",
+    "size": 5304,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c13c91c245146670d4b454ff07b835f480171fc1"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/eleven/assemble.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "87cc45bc831fa7003906e8b026ac1480a69da1de",
+    "size": 7481,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/87cc45bc831fa7003906e8b026ac1480a69da1de"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/eleven/audit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "10e47d32e3b4769ae5ce5bad9f76a7b3e5d797fc",
+    "size": 13376,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/10e47d32e3b4769ae5ce5bad9f76a7b3e5d797fc"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/eleven/emit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "640cdb4d1220950e198f2fd9994d76d69ecbf764",
+    "size": 18206,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/640cdb4d1220950e198f2fd9994d76d69ecbf764"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/eleven/local_audit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2233c5f35f2fcb58809f7a1d8f91e9b36ad74080",
+    "size": 2806,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/2233c5f35f2fcb58809f7a1d8f91e9b36ad74080"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r715-whole-hosted/code/assemble.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cd60b4bcfae515fccd7f21fd1ff5a7114a132eb9",
+    "size": 10298,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/cd60b4bcfae515fccd7f21fd1ff5a7114a132eb9"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r715-whole-hosted/code/audit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "155b61f2944116423a5be6ae666276e1c1827fe5",
+    "size": 13161,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/155b61f2944116423a5be6ae666276e1c1827fe5"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r715-whole-hosted/code/emit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "df74ad698a98419e828b37d4dfd7c036fc49a890",
+    "size": 17967,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/df74ad698a98419e828b37d4dfd7c036fc49a890"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r715-whole-hosted/code/local_audit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "931f884920125b334412f70cf30d9517b084dc7a",
+    "size": 2556,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/931f884920125b334412f70cf30d9517b084dc7a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r715-whole-hosted/data/hosting.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "381fb06ccbe055f4fbdc7544dcf8c0bae8f96701",
+    "size": 3561,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/381fb06ccbe055f4fbdc7544dcf8c0bae8f96701"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r715-whole-hosted/data/residual-isometries.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5864e4d680035401d53d32adab0369046d80b171",
+    "size": 14850,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5864e4d680035401d53d32adab0369046d80b171"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r715-whole-hosted/data/word.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f7d55b8bd45d385011ced25e632a3d922bb77bba",
+    "size": 55740,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f7d55b8bd45d385011ced25e632a3d922bb77bba"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r740-replica32/code/bank_routes.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9e43a876664a26899762f3b8e9a582e684a3650a",
+    "size": 2902,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9e43a876664a26899762f3b8e9a582e684a3650a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r740-replica32/code/e8core.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "78983b368715e89fe8524a6dd2c13585d2b5394e",
+    "size": 9471,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/78983b368715e89fe8524a6dd2c13585d2b5394e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r740-replica32/code/engines/base_two_moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "14a90fa0e788217856f070382c9e61bd7c603c61",
+    "size": 1742,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/14a90fa0e788217856f070382c9e61bd7c603c61"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r740-replica32/code/engines/moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d697cb45203fe72d97037403d6da41f71f3b7fd",
+    "size": 5562,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7d697cb45203fe72d97037403d6da41f71f3b7fd"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r740-replica32/code/engines/outer.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "43007488ad2c43187c77cc6798beff8b1cd76ad2",
+    "size": 3535,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/43007488ad2c43187c77cc6798beff8b1cd76ad2"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r740-replica32/code/tile_m.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cd5fd9b5399f5e7afe5d2a95bd3504bd543c0d60",
+    "size": 5738,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/cd5fd9b5399f5e7afe5d2a95bd3504bd543c0d60"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r740-replica32/data/residual-isometries.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9b8b35cb1528a978e209e1098864cae48c57fd93",
+    "size": 21825,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9b8b35cb1528a978e209e1098864cae48c57fd93"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/e8-r740-replica32/data/word.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "85390b07e4747feddbf2e16f94b5e0a8a308c191",
+    "size": 54461,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/85390b07e4747feddbf2e16f94b5e0a8a308c191"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/idle-axis-hosting/hosting_core.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "68b536daa9e6546c0aa046934bf840aaa3c3fde3",
+    "size": 7268,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/68b536daa9e6546c0aa046934bf840aaa3c3fde3"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/r740-hosted-eleven/code/emit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5ff0de0d6f088ac95e25a2a7aed8653e8cd0333e",
+    "size": 16329,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5ff0de0d6f088ac95e25a2a7aed8653e8cd0333e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/r740-hosted-eleven/code/geometry.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b4ad5074014dc00a01143910eb1cd27fafe0e15c",
+    "size": 5930,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/b4ad5074014dc00a01143910eb1cd27fafe0e15c"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/r740-hosted-eleven/code/row_bound.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "11d3c0d48e4ea5a02ac3b6689f3c7d36f2972eb8",
+    "size": 2453,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/11d3c0d48e4ea5a02ac3b6689f3c7d36f2972eb8"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/r740-hosted-eleven/data/selection.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8e548e5a9204a909d539ba36b866804b256d4c2b",
+    "size": 3394,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8e548e5a9204a909d539ba36b866804b256d4c2b"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/r740-hosted-rank149/code/emit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5ff0de0d6f088ac95e25a2a7aed8653e8cd0333e",
+    "size": 16329,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5ff0de0d6f088ac95e25a2a7aed8653e8cd0333e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/r740-hosted-rank149/data/residual-isometries.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ec8b4131d203d7a288ca078ca559f922d38fe9d2",
+    "size": 24659,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ec8b4131d203d7a288ca078ca559f922d38fe9d2"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/r740-hosted-rank149/data/selection.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c57069f7385c3b6aff4fe3c73c0a21bae727c76f",
+    "size": 4442,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c57069f7385c3b6aff4fe3c73c0a21bae727c76f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/hub/r740-hosted-rank149/data/word.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3c8489a29f0de2cad7dafaddc340a1ff197d5172",
+    "size": 54626,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3c8489a29f0de2cad7dafaddc340a1ff197d5172"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/nine/geometry.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "91594e0223e8fac49162b5aef834ffaa8e94a254",
+    "size": 6385,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/91594e0223e8fac49162b5aef834ffaa8e94a254"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/pricing/base_two_moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "14a90fa0e788217856f070382c9e61bd7c603c61",
+    "size": 1742,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/14a90fa0e788217856f070382c9e61bd7c603c61"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/pricing/moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d697cb45203fe72d97037403d6da41f71f3b7fd",
+    "size": 5562,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7d697cb45203fe72d97037403d6da41f71f3b7fd"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/pricing/outer.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "43007488ad2c43187c77cc6798beff8b1cd76ad2",
+    "size": 3535,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/43007488ad2c43187c77cc6798beff8b1cd76ad2"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/pricing/prime_witnesses.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7f16d930302ae879c562dd58e085d9747fcac077",
+    "size": 5066,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7f16d930302ae879c562dd58e085d9747fcac077"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/provenance.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9bfcb106230e454d9405ce5eb42dd2218d905ea6",
+    "size": 1278,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9bfcb106230e454d9405ce5eb42dd2218d905ea6"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/skeleton/e8.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "92e83a2e0c1f67551f583630a728b2a880b06f51",
+    "size": 3458,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/92e83a2e0c1f67551f583630a728b2a880b06f51"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/skeleton/gen.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9811c127d41521e906462a75322a29f0e193629c",
+    "size": 16568,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9811c127d41521e906462a75322a29f0e193629c"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/skeleton/geom.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9e5fe3a781dc52e07b7c5de3a44c8be6f5024cd4",
+    "size": 6415,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9e5fe3a781dc52e07b7c5de3a44c8be6f5024cd4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/code/skeleton/wordkit.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7cc4e6d618d9d0166efe8be75a019b6aecee0582",
+    "size": 13370,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7cc4e6d618d9d0166efe8be75a019b6aecee0582"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/bit/bitE8-r865.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8bec1751f7e33c3a1e4673ef5dbc34d6f205321e",
+    "size": 33865,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8bec1751f7e33c3a1e4673ef5dbc34d6f205321e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/bit/bitE8mut-r489.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ef67bec220c96a1de7b87c9f1a6e7acb26cb3284",
+    "size": 49154,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ef67bec220c96a1de7b87c9f1a6e7acb26cb3284"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/complex-b.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0df48f8e590fc9ad01ca4d6eaf97b9acc10aac7d",
+    "size": 3836,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0df48f8e590fc9ad01ca4d6eaf97b9acc10aac7d"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/complex/pr448/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1574e6488b6fc59191ae49fcc0c089e48b196fbd",
+    "size": 497,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/1574e6488b6fc59191ae49fcc0c089e48b196fbd"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/complex/pr458/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e06a17c177eee0e0962c96ea61554239ef38ef4d",
+    "size": 2468,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/e06a17c177eee0e0962c96ea61554239ef38ef4d"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/complex/pr471/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ed1e72239ebebdbfad847fb817e5546f980c1d8d",
+    "size": 560,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ed1e72239ebebdbfad847fb817e5546f980c1d8d"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/complex/pr473/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "45ee9fde7fdf6b19b6303372068977201b4ef61c",
+    "size": 20007,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/45ee9fde7fdf6b19b6303372068977201b4ef61c"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/complex/pr478/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "77f5805cd8125602e8c50f4eaba1691440c611c2",
+    "size": 20696,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/77f5805cd8125602e8c50f4eaba1691440c611c2"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/complex/pr483/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f7ff643cd54a334bf46c82989ba155eb6e69adde",
+    "size": 19991,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f7ff643cd54a334bf46c82989ba155eb6e69adde"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/complex/pr484/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7f93fcbb9f1c2799fd86dd308ec1e6f0ad2a3264",
+    "size": 18306,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7f93fcbb9f1c2799fd86dd308ec1e6f0ad2a3264"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/eleven/hosting.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "72b63ff0866db6aec50ecd356d7d007b17bf6475",
+    "size": 1557,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/72b63ff0866db6aec50ecd356d7d007b17bf6475"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/eleven/residual-isometries.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5c645b267861fd0994d2679885f8e0bbf99640b0",
+    "size": 755,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5c645b267861fd0994d2679885f8e0bbf99640b0"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/skeleton/d4part-pairs.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7ea439877369b6c2e94bb47980d08944d61454fb",
+    "size": 326,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7ea439877369b6c2e94bb47980d08944d61454fb"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/data/skeleton/plan-skB.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "52e341f4f0b441ff88897162cc9f25eb72f34405",
+    "size": 11944,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/52e341f4f0b441ff88897162cc9f25eb72f34405"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/discovery/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "751a9e82df9c860b496affd423b938cb008e2d88",
+    "size": 1905,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/751a9e82df9c860b496affd423b938cb008e2d88"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/discovery/d4part.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ed7418a0800321d7629e86b4946f77e8cf60a044",
+    "size": 1959,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ed7418a0800321d7629e86b4946f77e8cf60a044"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/discovery/host_select.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5b50de453ddbd90d433f9ea8ed584308e7ab2d0f",
+    "size": 3527,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5b50de453ddbd90d433f9ea8ed584308e7ab2d0f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/discovery/plan.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "050a3ca42bad8b3d34d149607a7c67de39a52356",
+    "size": 9017,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/050a3ca42bad8b3d34d149607a7c67de39a52356"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/portable-include/bits/stdc++.h",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fc5664e929d9a81d9b4926bee049a93330be86ec",
+    "size": 734,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/fc5664e929d9a81d9b4926bee049a93330be86ec"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/requirements.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "05bdf190fff0fda4cf958441aa15b9d7a9239ad4",
+    "size": 12,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/05bdf190fff0fda4cf958441aa15b9d7a9239ad4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-carrier-skeleton/verify.sh",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dd7df2a4445f5a8b0d5e336a855a930ab5d34bee",
+    "size": 13291,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/dd7df2a4445f5a8b0d5e336a855a930ab5d34bee"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/DEPENDS.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "25cb6abcf9ce8d48191f3fdfae44be136537796c",
+    "size": 1065,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/25cb6abcf9ce8d48191f3fdfae44be136537796c"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b61d859826246e0c3dabbe096e57ad7015eadfd5",
+    "size": 7111,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/b61d859826246e0c3dabbe096e57ad7015eadfd5"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/MANIFEST.sha256",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8117af93d3b0b207374a102cdc78e38e820a1d3a",
+    "size": 5088,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8117af93d3b0b207374a102cdc78e38e820a1d3a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/NOTICE.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cb68783d7d76c3fc13faa571429e9b067a0db3f7",
+    "size": 4349,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/cb68783d7d76c3fc13faa571429e9b067a0db3f7"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6751eba6f617292fc919e58d5a9f9f06ab037391",
+    "size": 17210,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/6751eba6f617292fc919e58d5a9f9f06ab037391"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/SOURCE-pr510.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f44af5ca75faa5871c020fa3154abbb1c2b4b3d4",
+    "size": 5448,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f44af5ca75faa5871c020fa3154abbb1c2b4b3d4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/SOURCE-pr535.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9002227599dbcac6dd0cbc854925ad1f90238905",
+    "size": 969,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9002227599dbcac6dd0cbc854925ad1f90238905"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/adapt11.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f62da10e7cb51ffdf0b0e7bbcb293b9f04bc9858",
+    "size": 2047,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f62da10e7cb51ffdf0b0e7bbcb293b9f04bc9858"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/cited.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c4ee5a5258b89232903ac78987dc7a529b3e0591",
+    "size": 1579,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c4ee5a5258b89232903ac78987dc7a529b3e0591"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/gen_l3.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6bbd36540c5527950a547b0e80d3aacdc653d497",
+    "size": 12231,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/6bbd36540c5527950a547b0e80d3aacdc653d497"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/mutants.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5b0fa1922076d2e91367b58483c96b33b7b08661",
+    "size": 6034,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5b0fa1922076d2e91367b58483c96b33b7b08661"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/mutrec_b.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7b644a4a03423404348633680a6c503d3a2c7060",
+    "size": 3626,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7b644a4a03423404348633680a6c503d3a2c7060"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/nodeopt.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dd30a2e4e6e33ba60669d7b421229a2f6e53d6ad",
+    "size": 4133,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/dd30a2e4e6e33ba60669d7b421229a2f6e53d6ad"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/planio.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0d5874976a18cc7db7e58fdc177568d538a59c01",
+    "size": 491,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0d5874976a18cc7db7e58fdc177568d538a59c01"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/provenance.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "da0f0a91e5487b47b020b73680cf541fa085b12e",
+    "size": 3524,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/da0f0a91e5487b47b020b73680cf541fa085b12e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/summary.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "772b2e68f8254b1a378156f4b169f7c7adf89189",
+    "size": 5191,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/772b2e68f8254b1a378156f4b169f7c7adf89189"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/code/xcheck.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fbff8607e4c61e18481f696b99dd38a32444e90d",
+    "size": 17905,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/fbff8607e4c61e18481f696b99dd38a32444e90d"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/data/bitE8mut-r420.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0c63ca62759dc63d302be6552aeeee1ede70350f",
+    "size": 45278,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0c63ca62759dc63d302be6552aeeee1ede70350f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/data/complex-b.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4f6954384ec790501418291d16bfccc0c28c80a1",
+    "size": 3635,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/4f6954384ec790501418291d16bfccc0c28c80a1"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/data/complex/pr535/EXACT-ASSEMBLY-PR493.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "91873f25e16f5184f4baaaa900622fe62aeb3760",
+    "size": 19572,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/91873f25e16f5184f4baaaa900622fe62aeb3760"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/data/complex/pr535/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2c5a1a32628e2e93b29a54ecfb9ccfa5d84b9b17",
+    "size": 2083,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/2c5a1a32628e2e93b29a54ecfb9ccfa5d84b9b17"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/data/hosting11-r420.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e850b2488914843c69246bd496d687e549738053",
+    "size": 1504,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/e850b2488914843c69246bd496d687e549738053"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/data/plan-l3.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0d6e198897bd2090b96dee443543f00b6a54e065",
+    "size": 12250,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0d6e198897bd2090b96dee443543f00b6a54e065"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/data/selection9-r420.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ea2a3ad0d5bcda741f32a2acfbd8e091cd5a05e4",
+    "size": 1160,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ea2a3ad0d5bcda741f32a2acfbd8e091cd5a05e4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/discovery/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e85d1b2a51b35354dadf70f4f77419c84ed399e8",
+    "size": 1699,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/e85d1b2a51b35354dadf70f4f77419c84ed399e8"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/discovery/planL3.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "153df80368df6ff710761de608ad0434d73743cb",
+    "size": 9738,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/153df80368df6ff710761de608ad0434d73743cb"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/discovery/planL3b.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c70c8e5f4039b2e15985a11a1f004f0a19b9e5fc",
+    "size": 2611,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c70c8e5f4039b2e15985a11a1f004f0a19b9e5fc"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/requirements.txt",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "4f2c3cd39e58ddb520c8073c45c42e4b0c49b2a5",
+    "size": 18,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/4f2c3cd39e58ddb520c8073c45c42e4b0c49b2a5"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-dead-totals/data/bitE8mut-r480.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8e59c4b5380d522b1c1cb930029a71556b2fa65f",
+    "size": 49414,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8e59c4b5380d522b1c1cb930029a71556b2fa65f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c89fe719e81ae3a4d920bf50f87b7100bbf335ae",
+    "size": 2240,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c89fe719e81ae3a4d920bf50f87b7100bbf335ae"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/code/adapt.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7c595c50bc3910577f8587ca94ce8b9c0e6f55b0",
+    "size": 1863,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7c595c50bc3910577f8587ca94ce8b9c0e6f55b0"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/code/assemble9.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "238226c568742dd5723b03eabae564a2eaa2bda9",
+    "size": 6048,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/238226c568742dd5723b03eabae564a2eaa2bda9"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/data/selection9-r480.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "786ba4d5bedef5888ce02629d6caf9aebb290b73",
+    "size": 1046,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/786ba4d5bedef5888ce02629d6caf9aebb290b73"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r715-eleven-stage-whole/code/audit_hosted_k.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8864ca9b942a3507171edca0cf6cbaaf10fcf434",
+    "size": 9670,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8864ca9b942a3507171edca0cf6cbaaf10fcf434"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r715-eleven-stage-whole/code/audit_parent_k.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ee54ca566ff9d8553f845144dd4570fa1fe21495",
+    "size": 11087,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ee54ca566ff9d8553f845144dd4570fa1fe21495"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r715-eleven-stage-whole/code/bank_routes_k.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "aaab9d5ae3f280dcb82775337d88dc244984e225",
+    "size": 1484,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/aaab9d5ae3f280dcb82775337d88dc244984e225"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r715-eleven-stage-whole/code/emit_k.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b84c795a045143639efe6aefb0562b3c20a2c9d7",
+    "size": 8890,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/b84c795a045143639efe6aefb0562b3c20a2c9d7"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r715-eleven-stage-whole/code/global_k.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3df12bd632f1fdba825ced57110a1fee82eb2857",
+    "size": 16791,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3df12bd632f1fdba825ced57110a1fee82eb2857"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r715-eleven-stage-whole/code/hosting_k.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "02fea8320b676e14f8ffa242c3ddfa85fa829e31",
+    "size": 3856,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/02fea8320b676e14f8ffa242c3ddfa85fa829e31"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r740-replica32/code/bank_routes.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9e43a876664a26899762f3b8e9a582e684a3650a",
+    "size": 2902,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9e43a876664a26899762f3b8e9a582e684a3650a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r740-replica32/code/config.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c6824d9c4ea37d58c0d24cb7a3021c4dfcc6f3bb",
+    "size": 80,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c6824d9c4ea37d58c0d24cb7a3021c4dfcc6f3bb"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r740-replica32/code/e8core.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "78983b368715e89fe8524a6dd2c13585d2b5394e",
+    "size": 9471,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/78983b368715e89fe8524a6dd2c13585d2b5394e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r740-replica32/code/engines/base_two_moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "14a90fa0e788217856f070382c9e61bd7c603c61",
+    "size": 1742,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/14a90fa0e788217856f070382c9e61bd7c603c61"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r740-replica32/code/engines/moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d697cb45203fe72d97037403d6da41f71f3b7fd",
+    "size": 5562,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7d697cb45203fe72d97037403d6da41f71f3b7fd"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r740-replica32/code/engines/outer.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "43007488ad2c43187c77cc6798beff8b1cd76ad2",
+    "size": 3535,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/43007488ad2c43187c77cc6798beff8b1cd76ad2"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/e8-r740-replica32/code/tile_m.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "cd5fd9b5399f5e7afe5d2a95bd3504bd543c0d60",
+    "size": 5738,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/cd5fd9b5399f5e7afe5d2a95bd3504bd543c0d60"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/vendor/pr510/e8-r480-nine-stage/vendor/idle-axis-hosting/hosting_core.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "68b536daa9e6546c0aa046934bf840aaa3c3fde3",
+    "size": 7268,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/68b536daa9e6546c0aa046934bf840aaa3c3fde3"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/e8-bit-r420/verify.sh",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "fbad38c694a0ce4fcbf39110dc403c75017ece07",
+    "size": 13904,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/fbad38c694a0ce4fcbf39110dc403c75017ece07"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c340c32b84d7ea63c5f15eac78e38eace428c599",
+    "size": 1519,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c340c32b84d7ea63c5f15eac78e38eace428c599"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/LOCAL-VALIDATION.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "b3665a2df39f49d0bd62f04be1c94480736aa74c",
+    "size": 190688,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/b3665a2df39f49d0bd62f04be1c94480736aa74c"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/MANIFEST.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "aea8671e692bb88ea8cf5e905dc0707eec7919e4",
+    "size": 8273,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/aea8671e692bb88ea8cf5e905dc0707eec7919e4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/NOTICE.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f7a8f861be860edd5a78114c5225dec90effa029",
+    "size": 1451,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f7a8f861be860edd5a78114c5225dec90effa029"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "57c36d5a57dde4fa83551fa5c78de4157082b729",
+    "size": 6281,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/57c36d5a57dde4fa83551fa5c78de4157082b729"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "78244052aae4866ae9e8e2d2e4c10180870a0fc4",
+    "size": 2592,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/78244052aae4866ae9e8e2d2e4c10180870a0fc4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/adapters_local.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "787416e4dd84db0981d3cb94f4e424c652e0085a",
+    "size": 4883,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/787416e4dd84db0981d3cb94f4e424c652e0085a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/assemble.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a234aecb14de159247809af1120fedc1aab20df9",
+    "size": 4604,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/a234aecb14de159247809af1120fedc1aab20df9"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/audit_and_transport.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "95ae517f2ea66b4a35ed16b6ab861271554d64d0",
+    "size": 9464,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/95ae517f2ea66b4a35ed16b6ab861271554d64d0"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/audit_local.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a09611844a49e1d7f73ddc1c0a2df3b0cec640ec",
+    "size": 9343,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/a09611844a49e1d7f73ddc1c0a2df3b0cec640ec"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/audit_same_partition_frontier.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6cbec5ec579f08c62e2059bf8c76572ca49b147d",
+    "size": 8064,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/6cbec5ec579f08c62e2059bf8c76572ca49b147d"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/audit_supplier_hosted.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "62b721b6e6d467b76722f0e95158986a420aaeda",
+    "size": 13455,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/62b721b6e6d467b76722f0e95158986a420aaeda"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/build_selected.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "be31d643452234db07ac02dd7f509e773081e8a1",
+    "size": 2154,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/be31d643452234db07ac02dd7f509e773081e8a1"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/coalesce_frames.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "923bb01d96c1997d8e050f11113266e77ea39676",
+    "size": 11226,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/923bb01d96c1997d8e050f11113266e77ea39676"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/construct_504.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "776d046cde22be2bee34e5ce9b7f36f3126ed6b5",
+    "size": 15280,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/776d046cde22be2bee34e5ce9b7f36f3126ed6b5"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/emit_local.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a54170b0023d467be3da1db9d8623ac4665f0afe",
+    "size": 7868,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/a54170b0023d467be3da1db9d8623ac4665f0afe"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/emit_supplier_hosted.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "41c46015c7e19ab77f96580dbb98e12ca07aa2fd",
+    "size": 9777,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/41c46015c7e19ab77f96580dbb98e12ca07aa2fd"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/invoice_final.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "abefcee47ba03edcf170abc92f00fa8b988d6c4a",
+    "size": 16298,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/abefcee47ba03edcf170abc92f00fa8b988d6c4a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/phases_delta.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8d78d26b3b03fa23c6af1e650326ab3925ec2b46",
+    "size": 7617,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8d78d26b3b03fa23c6af1e650326ab3925ec2b46"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/code/prepare_supplier_base.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "650fc9fd77fd61930ab3a352cd8d0fb5b7f0f03b",
+    "size": 6660,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/650fc9fd77fd61930ab3a352cd8d0fb5b7f0f03b"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/BEFORE-COALESCING.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8e05f2ea80e606cc1693e79dbe5fcf7b9bbb984d",
+    "size": 38304,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8e05f2ea80e606cc1693e79dbe5fcf7b9bbb984d"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/COALESCING.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "005eb7c7b709242b073e5b125f9a21d3e2e6eacc",
+    "size": 102222,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/005eb7c7b709242b073e5b125f9a21d3e2e6eacc"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/DISCOVERY-MOMENT.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3b76774ab778722fe96bc8397fe032f9cdc5bf0e",
+    "size": 770,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3b76774ab778722fe96bc8397fe032f9cdc5bf0e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/ENTRANCE-SELECTION-SCREEN.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d8ad6da1e4db2431218d234bb8a83ab31a61c326",
+    "size": 1384,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/d8ad6da1e4db2431218d234bb8a83ab31a61c326"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/FAST-REPLAY.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0fd30496660a3346f13a3bcf62572e6843bf81a9",
+    "size": 1471,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0fd30496660a3346f13a3bcf62572e6843bf81a9"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/LINE-GAUGE-SELECTION.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "25f2728d5c21e7a392281924a7fed35c3b94ac58",
+    "size": 9700,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/25f2728d5c21e7a392281924a7fed35c3b94ac58"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/PR523-FIXED-WORD-CEILING.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0f7a58dccd555f90d93120db03e57e0b446461c8",
+    "size": 12932,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0f7a58dccd555f90d93120db03e57e0b446461c8"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/PUBLIC-SNAPSHOT.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "47bba0bf10604cb2ce986516e180065d8e1f2963",
+    "size": 1707,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/47bba0bf10604cb2ce986516e180065d8e1f2963"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/SAME-PARTITION-FRONTIER.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1aeb0e450ede3d87efc68f35043ec8c57f289d91",
+    "size": 144215,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/1aeb0e450ede3d87efc68f35043ec8c57f289d91"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/VERIFICATION-SCOPE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5fc6f9fdc7091cb52f5374922baa4d509d635df9",
+    "size": 1030,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5fc6f9fdc7091cb52f5374922baa4d509d635df9"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/audit/ASYNC-AUDIT.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "539f7cc1bdc75f67918c3c869f99a8fc9ec41fe9",
+    "size": 1388,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/539f7cc1bdc75f67918c3c869f99a8fc9ec41fe9"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/audit/EXACT-ASSEMBLY.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0227dc1a3a4924584c1d9da34ab9e3fe93638aaf",
+    "size": 29796,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0227dc1a3a4924584c1d9da34ab9e3fe93638aaf"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/audit/GLOBAL-PREFIX.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f6df6e93f4db8d266a7527a31d330b3c7f92cdcf",
+    "size": 1209,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f6df6e93f4db8d266a7527a31d330b3c7f92cdcf"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/audit/IDLE-REMAINDER-FRAMES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "2f074d27930315c7d425afc44d0f23d484643f6d",
+    "size": 577,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/2f074d27930315c7d425afc44d0f23d484643f6d"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/audit/OWNERS-AND-PROFILE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3506e0a20c6ceda81f454236e2016cebfab5347c",
+    "size": 1736,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3506e0a20c6ceda81f454236e2016cebfab5347c"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/audit/PREFIX-AND-INVOICE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "a16bf40bccc81278a443e0d5f09b44495035de81",
+    "size": 3982,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/a16bf40bccc81278a443e0d5f09b44495035de81"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/hosted/ACTUAL-SIGMAS.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "668c76d6f0a41595329e18750eee055bfb34664e",
+    "size": 134121,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/668c76d6f0a41595329e18750eee055bfb34664e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/hosted/GLOBAL-TEMPLATE.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d776359cd0d6e4ae38ddf8aa81c3c9ad70c31573",
+    "size": 814178,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/d776359cd0d6e4ae38ddf8aa81c3c9ad70c31573"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/hosted/HOSTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e024e9b49f7af4ea5a24a3c83ba1f72c40a9a906",
+    "size": 2018,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/e024e9b49f7af4ea5a24a3c83ba1f72c40a9a906"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/hosted/IDLE-REMAINDER-FRAMES.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e2bbdec99b6fcbd632e61f8ca3b7a18e307746de",
+    "size": 53886,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/e2bbdec99b6fcbd632e61f8ca3b7a18e307746de"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/CANONICAL-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3b0a475178f4e4ad107e3595992c872e47e83c63",
+    "size": 75113,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3b0a475178f4e4ad107e3595992c872e47e83c63"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/CLIFFORD-RECIPES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1dac4506d502bb6508e0a1affa3577867576a78f",
+    "size": 990631,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/1dac4506d502bb6508e0a1affa3577867576a78f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/CLIFFORD-REVIEW.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7b98ce47d9185d8f8c6291029ad014b15fff2925",
+    "size": 57486,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7b98ce47d9185d8f8c6291029ad014b15fff2925"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/FULL-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bff313755c9ffcf6d246ffeef77bbe2846b560c1",
+    "size": 38164,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/bff313755c9ffcf6d246ffeef77bbe2846b560c1"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/INDEPENDENT-LOCAL-REPLAY.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0634281e1e26826fa7a577647f354c32eea53378",
+    "size": 1680,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0634281e1e26826fa7a577647f354c32eea53378"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/LEMMA-A.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "00d4137aaf2a0d0f440888e33d08921006b91193",
+    "size": 1377,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/00d4137aaf2a0d0f440888e33d08921006b91193"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/LOCAL-CHECKS.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "13a6d63422ddcdb28f84850c58fed2f563e4190f",
+    "size": 922,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/13a6d63422ddcdb28f84850c58fed2f563e4190f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/LOCAL-PROGRAMS.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ece62f551506d9db419fdb47e94cb9c4d149d3d6",
+    "size": 187483,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ece62f551506d9db419fdb47e94cb9c4d149d3d6"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/RESIDUAL-ADAPTERS.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d4278521bb1cc535c6419e3a840c4fa864fefe8",
+    "size": 2602,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7d4278521bb1cc535c6419e3a840c4fa864fefe8"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/evidence/local/SCALAR-FRAME-AUDIT.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "262bf0ab6739cd00023375cdc4ece0cb9d816a79",
+    "size": 4546,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/262bf0ab6739cd00023375cdc4ece0cb9d816a79"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/ASYNC-6.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "896cf316baa64faa7bc0916352668bcbaa9ac84d",
+    "size": 115730,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/896cf316baa64faa7bc0916352668bcbaa9ac84d"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/OWNER-PLAN.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "c9be65be108ea585bd5848984781a07c6451b844",
+    "size": 126083,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/c9be65be108ea585bd5848984781a07c6451b844"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/OWNERS.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5af19a97cf7d7413019660c0a52549a282d54a4b",
+    "size": 405076,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5af19a97cf7d7413019660c0a52549a282d54a4b"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/PR493-EXPECTED.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "973aaf30f1ec6a4d58038acabb9361ee1f44787a",
+    "size": 3057,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/973aaf30f1ec6a4d58038acabb9361ee1f44787a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/PR523-ANCESTRY.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "385a202fbc485ceaed1b604d6c21eb3486caa600",
+    "size": 4554,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/385a202fbc485ceaed1b604d6c21eb3486caa600"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/PR523-EXACT-ASSEMBLY.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9fb041e0ca03892560724c7f306906f9896073b4",
+    "size": 30201,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9fb041e0ca03892560724c7f306906f9896073b4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/PR523-PREFIX-AND-INVOICE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "50b017a1640e28776f64859263ccec3e7b7df210",
+    "size": 2309,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/50b017a1640e28776f64859263ccec3e7b7df210"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/SELECTION.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0c7be548e8f0a05372c82d545937148d5ffc964b",
+    "size": 5346,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0c7be548e8f0a05372c82d545937148d5ffc964b"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/data-base/split-centres/CANONICAL-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7f98e8dafa05ad789ee056eed9f4d6a453105ae4",
+    "size": 84988,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7f98e8dafa05ad789ee056eed9f4d6a453105ae4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/data-base/split-centres/GLOBAL-TEMPLATE.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "243bebd21e0ca94bf34ad6cd1ff3fd8cd27645cf",
+    "size": 422351,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/243bebd21e0ca94bf34ad6cd1ff3fd8cd27645cf"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/data-base/work/complex-nine-native/DATA-PHASES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "d9a4f84211182ca200c081ea061d724c8a2cfb70",
+    "size": 814141,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/d9a4f84211182ca200c081ea061d724c8a2cfb70"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/data-base/work/pr361/code/engines/base_two_moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "14a90fa0e788217856f070382c9e61bd7c603c61",
+    "size": 1742,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/14a90fa0e788217856f070382c9e61bd7c603c61"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/data-base/work/pr361/code/engines/moment.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7d697cb45203fe72d97037403d6da41f71f3b7fd",
+    "size": 5562,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7d697cb45203fe72d97037403d6da41f71f3b7fd"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/data-base/work/pr361/code/engines/outer.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "43007488ad2c43187c77cc6798beff8b1cd76ad2",
+    "size": 3535,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/43007488ad2c43187c77cc6798beff8b1cd76ad2"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/hamming/PACKET-PROGRAMS.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "e98ce5d879e99427347acd725efc3b0c96fe5c13",
+    "size": 3400,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/e98ce5d879e99427347acd725efc3b0c96fe5c13"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/hamming/PROTOTYPE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9efe30ee107b9c67f15f1c726e1a1cb5cef03929",
+    "size": 358962,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9efe30ee107b9c67f15f1c726e1a1cb5cef03929"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/phase-baseline/CANONICAL-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7f98e8dafa05ad789ee056eed9f4d6a453105ae4",
+    "size": 84988,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7f98e8dafa05ad789ee056eed9f4d6a453105ae4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/phase-baseline/CLIFFORD-RECIPES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0422ae288a387d8fd269d2e3dee894dbe65b646a",
+    "size": 996659,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0422ae288a387d8fd269d2e3dee894dbe65b646a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/phase-baseline/CLIFFORD-REVIEW.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ad33b2911cd072bab98d47990e4d8bafb4fe3488",
+    "size": 668,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ad33b2911cd072bab98d47990e4d8bafb4fe3488"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/inputs/phase-baseline/LOCAL-CHECKS.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "61b7804deb46b1f2ef981e785ee8f19590cd5583",
+    "size": 950,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/61b7804deb46b1f2ef981e785ee8f19590cd5583"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/proof/DELIVERY-AND-COALESCING.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "5b0751acabe87f76d83a6a650016265f0c6ed8d4",
+    "size": 12500,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/5b0751acabe87f76d83a6a650016265f0c6ed8d4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/proof/GLOBAL-HOSTING.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "dff4cda44b5a88d0fc95458cd1a73e64af67f023",
+    "size": 7707,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/dff4cda44b5a88d0fc95458cd1a73e64af67f023"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/proof/LOCAL-CONSTRUCTION.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f454fa626751a5062117e29356578fe9bef58e9e",
+    "size": 12497,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f454fa626751a5062117e29356578fe9bef58e9e"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/vendor/clifford/clifford_exact.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "166841a037f069249f6f7f6dedb89248812f59e2",
+    "size": 6824,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/166841a037f069249f6f7f6dedb89248812f59e2"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/vendor/gk/gk_common.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0e5fde920d29106232776eb56347297c0d40fa72",
+    "size": 5016,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0e5fde920d29106232776eb56347297c0d40fa72"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/vendor/gk/gk_word.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "15782ba625e438a3c707718fa51796ec1937018f",
+    "size": 10009,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/15782ba625e438a3c707718fa51796ec1937018f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr531/verify_fast.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "245b61bbe55fbb6fa40ea3ef89a02c43ca3c51bf",
+    "size": 6944,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/245b61bbe55fbb6fa40ea3ef89a02c43ca3c51bf"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr548/complex-global/vendor531/evidence/local/CANONICAL-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3b0a475178f4e4ad107e3595992c872e47e83c63",
+    "size": 75113,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3b0a475178f4e4ad107e3595992c872e47e83c63"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr548/complex-global/vendor535/inputs/ROUND20-PARENT-TEMPLATE.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "3e28a9b59f8fde608e59ebd5fbdbc22ca54558d4",
+    "size": 393948,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/3e28a9b59f8fde608e59ebd5fbdbc22ca54558d4"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr548/complex-local/code/apply_syndrome.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6fd085c5ed7ffbb0ccf34cd80d55e182db19f9a6",
+    "size": 1857,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/6fd085c5ed7ffbb0ccf34cd80d55e182db19f9a6"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr548/complex-local/code/port_frames.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bd9187bd060ffb8e5fc80596d4f866492fbdef05",
+    "size": 2750,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/bd9187bd060ffb8e5fc80596d4f866492fbdef05"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr548/complex-local/docs/OPENAI-SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "9d480f5d1c71e5df3f27976a228cbf0cdf575e1f",
+    "size": 710,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/9d480f5d1c71e5df3f27976a228cbf0cdf575e1f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr548/complex-local/docs/TWO-SOURCE-PROOF.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "7ab57778a1ddb1bf63f27097c33602f7dedb6a39",
+    "size": 6675,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/7ab57778a1ddb1bf63f27097c33602f7dedb6a39"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr548/complex-local/inputs/PR534-WORD.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "965888339a0ac249031cde058c44d3f40771d303",
+    "size": 38085,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/965888339a0ac249031cde058c44d3f40771d303"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/pr548/docs/PR-LINEAGE.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "80d06b6a8d4ad2d5d99e50a51c1ee92876808973",
+    "size": 2728,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/80d06b6a8d4ad2d5d99e50a51c1ee92876808973"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/LICENSE",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+    "size": 11357,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/META-SOURCES.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "8cbd32f8bd6437c1e2f08ac9e49395708a0c78fd",
+    "size": 932,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/8cbd32f8bd6437c1e2f08ac9e49395708a0c78fd"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/NOTICE-upstream.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f42e0eed8584ad7d472c458aa875c29d1cd5ed86",
+    "size": 3576,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f42e0eed8584ad7d472c458aa875c29d1cd5ed86"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/PROOF.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "1d43cf78f4a7a394710db7c367a857f317171617",
+    "size": 8848,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/1d43cf78f4a7a394710db7c367a857f317171617"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/README.md",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "6aed83ec92333c21d79e96c2cc4da1cb9ecd409a",
+    "size": 1033,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/6aed83ec92333c21d79e96c2cc4da1cb9ecd409a"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/RECIPE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "68c751bb56f3f1c7121ba5f269357e78668d7ea6",
+    "size": 2557,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/68c751bb56f3f1c7121ba5f269357e78668d7ea6"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/SOURCE-MANIFEST.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "468918ea5832305d225c51457dc73088496328b9",
+    "size": 1234,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/468918ea5832305d225c51457dc73088496328b9"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/audit_scalar.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "834e8b510388e6b79cbbede33abcd38ac5203e59",
+    "size": 2756,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/834e8b510388e6b79cbbede33abcd38ac5203e59"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/build.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "de6484973953d9e5dc8109a3492fa8cb69db4529",
+    "size": 2875,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/de6484973953d9e5dc8109a3492fa8cb69db4529"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/gk/gk_common.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "0e5fde920d29106232776eb56347297c0d40fa72",
+    "size": 5016,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/0e5fde920d29106232776eb56347297c0d40fa72"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/gk/gk_word.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "15782ba625e438a3c707718fa51796ec1937018f",
+    "size": 10009,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/15782ba625e438a3c707718fa51796ec1937018f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/inputs/BASE535.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "bcc1647b7d4ad8ae3ae2acbb31d3591c0d49467f",
+    "size": 36660,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/bcc1647b7d4ad8ae3ae2acbb31d3591c0d49467f"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/inputs/OLD-RECIPE.json",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "52d4b5f3827b456b1c0eb457462bc3ab7045c509",
+    "size": 17432,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/52d4b5f3827b456b1c0eb457462bc3ab7045c509"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/inputs/RAW504.json.gz",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "903eeb216176a7c5fd6d26f875a63e89a79b37bb",
+    "size": 32146,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/903eeb216176a7c5fd6d26f875a63e89a79b37bb"
+  },
+  {
+    "path": "research/subspace16-r420/vendor/static44/replay.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "ef5642ccfda5c30d869a3bc7e2aa30ae023e20b1",
+    "size": 834,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/ef5642ccfda5c30d869a3bc7e2aa30ae023e20b1"
+  },
+  {
+    "path": "research/subspace16-r420/verify.py",
+    "mode": "100644",
+    "type": "blob",
+    "sha": "f2ba26d50bae75c9c98f3d14576c800f46f2cdde",
+    "size": 8353,
+    "url": "https://api.github.com/repos/chafreaky/integer-mult-bounds/git/blobs/f2ba26d50bae75c9c98f3d14576c800f46f2cdde"
+  }
+]

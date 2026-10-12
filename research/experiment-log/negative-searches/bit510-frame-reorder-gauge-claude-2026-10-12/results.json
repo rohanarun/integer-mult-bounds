@@ -1,0 +1,100 @@
+[
+ {
+  "id": "claude-1012-bit-01",
+  "category": "bit-frame-lifts-any-root-closed",
+  "date_utc": "2026-10-12",
+  "source_commit": "64edee1",
+  "source_word_sha256": "8639e22008c24a5690dd250eba702fe5fca85ddd036dcbec20baba77b7e213ba",
+  "baseline": {
+   "name": "PR510 R480 nine-stage bit (binding in PR535/PR539)",
+   "value": "0.001587447106092548137108",
+   "scope": "bit side; PR535 complex 0.001589991533606044"
+  },
+  "hypothesis": "Frame lifts over all root-closed subspaces (not only the 672-frame catalogue), with upward/downward closure, improve the R480 local histogram.",
+  "command_or_script": "bsa.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "bounded_no_gain",
+  "result": {
+   "iterations": "2.9M (T=0), 7.1M (T=0.002), 7.2M (T=0.01)",
+   "best_fee": 29.72278570059924,
+   "start_fee": 29.72278570059924,
+   "raise_moves_with_any_candidate": "2.5% (97.5% of gate frames already equal the meet of their successors)"
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Monotone register chains; D at frame 0, C at FULL, y at 0 and centre (ret) frames fixed at the scatter; local histogram reproduced exactly {1:1200,2:1440,4:180,6:120,8:9}.",
+  "evidence": [
+   "bsa.py"
+  ],
+  "do_not_repeat_scope": "Frame-only reassignment on the R480 word, catalogue or not.",
+  "retry_when": "A changed scalar word.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-bit-02",
+  "category": "bit-gate-reorder",
+  "date_utc": "2026-10-12",
+  "source_commit": "64edee1",
+  "source_word_sha256": "8639e22008c24a5690dd250eba702fe5fca85ddd036dcbec20baba77b7e213ba",
+  "baseline": {
+   "name": "PR510 R480 nine-stage bit (binding in PR535/PR539)",
+   "value": "0.001587447106092548137108",
+   "scope": "bit side; PR535 complex 0.001589991533606044"
+  },
+  "hypothesis": "Reordering commuting XOR gates in A/B jointly with frame lifts lowers the fee.",
+  "command_or_script": "bsa2.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "bounded_no_gain",
+  "result": {
+   "swaps_accepted": "462k at T=0 (all fee-neutral)",
+   "best_fee": 29.72278570059924
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Commutation: dest not in the other gate's sources; C regenerated as reversed A.",
+  "evidence": [
+   "bsa2.py"
+  ],
+  "do_not_repeat_scope": "Gate reordering on R480.",
+  "retry_when": "A changed scalar word.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-bit-03",
+  "category": "bit-gauge-entrances",
+  "date_utc": "2026-10-12",
+  "source_commit": "64edee1",
+  "source_word_sha256": "8639e22008c24a5690dd250eba702fe5fca85ddd036dcbec20baba77b7e213ba",
+  "baseline": {
+   "name": "PR510 R480 nine-stage bit (binding in PR535/PR539)",
+   "value": "0.001587447106092548137108",
+   "scope": "bit side; PR535 complex 0.001589991533606044"
+  },
+  "hypothesis": "Bit helpers that first touch a line can start at that line (width 7), with their dirt compensation moved to that frame, filling the 23,040 unusable rank-7 idle children.",
+  "command_or_script": "gauge_bit.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "bounded_infeasible",
+  "result": {
+   "potential_if_feasible": {
+    "80_helpers": "+1.12% c",
+    "10_helpers": "+0.138% c"
+   },
+   "line_first_helpers": 240,
+   "compatible_with_target_caps": 5,
+   "targets_with_conflicting_lines": "16 of 70",
+   "dirt_response_size": "16 to 103 targets per helper"
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Exact D-gate responses; compatibility = line inside every responding target's first B frame and orthogonal to its label. Pricing by the m64/W30720 moment with the stated substitution only; no interface or hosting proof.",
+  "evidence": [
+   "gauge_bit.py"
+  ],
+  "do_not_repeat_scope": "Gauges on the unchanged R480 word.",
+  "retry_when": "A bit word whose helper dirt responses are short (cleanup not routed through every helper), plus a bit-side target-level/Lemma-A interface.",
+  "supersedes": null
+ }
+]

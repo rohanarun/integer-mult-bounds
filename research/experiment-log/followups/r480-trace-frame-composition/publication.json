@@ -1,0 +1,12 @@
+{
+  "branch": "codex/r480-sliced-minimal-frames",
+  "commit": "fceff375b8308e793afbc684690341fab5affc39",
+  "base": "db0e57bc7f36b5ac0fc844ad7ce1396165ee6647",
+  "files": 23,
+  "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/542",
+  "previous_commits": [
+    "98b6fc590a46b1067353fd04c89158f36580f2b7",
+    "c75dd1ebfcbe7e4dee446c1eb29aee0e9746dfc8"
+  ],
+  "tree": "c6c8182e1ab8fa931bcca160f531e490d2c627f4"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "COMPLETE_CATALOGUE_FORWARD_CLOSURE_SCREEN",
+  "trials": 86248,
+  "valid": 99,
+  "moves": [],
+  "baseline_chain_profile": {
+    "1": 1200,
+    "2": 1440,
+    "4": 180,
+    "6": 120
+  },
+  "new_chain_profile": {
+    "1": 1200,
+    "2": 1440,
+    "4": 180,
+    "6": 120
+  },
+  "best_fee_delta": 0,
+  "seconds": 2.7181110000237823,
+  "scope": "Exact root catalogue containment; each seed frame lift propagated forward using a minimum-rank catalogue upper frame. Bounded catalogue screen, floating pricing. Not all rational subspaces, no optimality or global admission claim."
+}

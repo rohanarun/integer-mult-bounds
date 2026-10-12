@@ -80,3 +80,5 @@ Frame-chain search on PR531 (2026-10-12): [κ 0.001526158885117467, PR534, plus 
 
 R480 structural continuation: [native fusion compatibility, 454 scalar-instruction removals and no-gain observable rewrites](negative-searches/bit510-structural-followups/README.md), with a fresh standalone replay and independent scalar/interface checks.
 R480 bit wider screens (2026-10-12): [all root-closed frame lifts, gate reorder, bit gauges; +1.1% c potential if width-7 entrances existed](negative-searches/bit510-frame-reorder-gauge-claude-2026-10-12/README.md).
+
+Verified winning composition: [PR541 trace plus sliced R480 frames](followups/r480-trace-frame-composition/README.md), including losing compositions, diagnostic failures and cross-version physical receipts. Conditional kappa 0.001587467473762886; complex supplier now binds.

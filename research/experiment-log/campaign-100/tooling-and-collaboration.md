@@ -50,3 +50,5 @@ Status: `not_evidenced`. No execution result located in the archived campaign ev
 
 Evidence: No located execution result.
 
+
+2026-10-12 followup: [current evidence reconciliation](../followups/findings-reconciliation-2026-10-12/README.md). Original idea status here describes the historical snapshot; current bounded followups and open work are recorded separately.

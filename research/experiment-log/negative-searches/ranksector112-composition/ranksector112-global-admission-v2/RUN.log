@@ -1,0 +1,15 @@
+RUN restrict-global
+PASS restrict-global
+RUN audit-restriction
+PASS audit-restriction
+RUN emit
+PASS emit
+RUN audit
+PASS audit
+RUN raw-independent
+PASS raw-independent
+RUN invoice
+PASS invoice
+RUN assembly
+PASS assembly
+PASS_RANKSECTOR112_FINITE_COMPOSITION 0.001467289440740487

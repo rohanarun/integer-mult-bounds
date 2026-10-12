@@ -1,0 +1,67 @@
+[
+  {
+    "stage": "02-restrict-local",
+    "exit": 0,
+    "seconds": 0.14696391695179045
+  },
+  {
+    "stage": "03-exact-word-transport",
+    "exit": 0,
+    "seconds": 0.16542383399792016
+  },
+  {
+    "stage": "04-emit-local",
+    "exit": 0,
+    "seconds": 0.46319116698578
+  },
+  {
+    "stage": "05-independent-local",
+    "exit": 0,
+    "seconds": 1.879943292005919
+  },
+  {
+    "stage": "06-exact-local-phases",
+    "exit": 0,
+    "seconds": 99.89293637499213
+  },
+  {
+    "stage": "07-residual-wrappers",
+    "exit": 0,
+    "seconds": 0.5527796249371022
+  },
+  {
+    "stage": "08-restrict-global-data",
+    "exit": 0,
+    "seconds": 1.0188599169487134
+  },
+  {
+    "stage": "09-independent-global-restriction",
+    "exit": 0,
+    "seconds": 4.497085832990706
+  },
+  {
+    "stage": "10-emit-whole-owners",
+    "exit": 0,
+    "seconds": 2.136576500022784
+  },
+  {
+    "stage": "11-independent-hosted-program",
+    "exit": 0,
+    "seconds": 10.6742982090218
+  },
+  {
+    "stage": "12-independent-raw-reconstruction",
+    "exit": 0,
+    "seconds": 2.361917416099459
+  },
+  {
+    "stage": "13-scalar-prefix-and-finite-invoice",
+    "exit": 0,
+    "seconds": 1.0109542909776792
+  },
+  {
+    "stage": "14-two-moments-and-global-assembly",
+    "exit": 0,
+    "seconds": 0.24490983306895941
+  }
+]

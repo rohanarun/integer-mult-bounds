@@ -1,0 +1,12 @@
+RUN restrict
+PASS restrict
+RUN transport
+PASS transport
+RUN emit
+PASS emit
+RUN local
+PASS local
+RUN phases
+PASS phases
+RUN wrappers
+PASS wrappers

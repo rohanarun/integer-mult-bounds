@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/source523-review/code/audit_global_restriction.py", line 85, in <module>
+    need(transport['independently_recomputed_helper_compensations_match'] == 12094,
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+         'Arbitrary helper dirt transport was not independently certified')
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/source523-review/code/audit_global_restriction.py", line 24, in need
+    raise AssertionError(message)
+AssertionError: Arbitrary helper dirt transport was not independently certified

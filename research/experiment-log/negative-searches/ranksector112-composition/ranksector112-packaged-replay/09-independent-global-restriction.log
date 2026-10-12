@@ -1,0 +1,23 @@
+{
+  "status": "PASS_INDEPENDENT_GLOBAL_DATA_PORT_RESTRICTION",
+  "retained_ports": 112,
+  "data_owner_roles": 16128,
+  "helper_owner_roles": 40320,
+  "unhosted_rank_mass": 888624,
+  "deficit": 2560,
+  "negative_controls_rejected": [
+    "duplicate selected port",
+    "wrong phase port label",
+    "wrong inherited idle axis",
+    "missing terminal port correction",
+    "wrong data owner family",
+    "wrong canonical data route",
+    "stale local program hash",
+    "changed entering bank owner",
+    "missing complete invocation",
+    "missing paid idle child",
+    "missing cover correction",
+    "understated private reserve",
+    "unpaid bank remainder"
+  ]
+}

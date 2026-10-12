@@ -1,0 +1,681 @@
+{
+  "status": "PASS_48_EXACT_OUTER_ASSEMBLY_SCREENS",
+  "source_sha256": "39900354203609a142d159096ccc221ddb21c1f714b2b74b9b1b325beaf15259",
+  "engine_sha256": "c1ebb52163a7219504c728a5c2b098bf1e50bf20148a2879c5a74c3cadc7c03c",
+  "rows": [
+    {
+      "bootstrap_steps": 1,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "363969035571821/250000000000000000",
+      "difference_from_six_step_published": "-517404859021/250000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "8355813792788"
+    },
+    {
+      "bootstrap_steps": 2,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "728971369965559/500000000000000000",
+      "difference_from_six_step_published": "-12087169/4000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "3919572826901661842"
+    },
+    {
+      "bootstrap_steps": 3,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "728972878655663/500000000000000000",
+      "difference_from_six_step_published": "-2206021/500000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "1838606211958328912746291"
+    },
+    {
+      "bootstrap_steps": 4,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "728972880858463/500000000000000000",
+      "difference_from_six_step_published": "-3221/500000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "862459495445565344684730601667"
+    },
+    {
+      "bootstrap_steps": 5,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "1457945761723359/1000000000000000000",
+      "difference_from_six_step_published": "-9/1000000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "404565358501615803245782312051230751"
+    },
+    {
+      "bootstrap_steps": 6,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "189774859183368162401945302169887625384021"
+    },
+    {
+      "bootstrap_steps": 7,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "89020219900818265939604484820416762100129200166"
+    },
+    {
+      "bootstrap_steps": 8,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "41757899783411094979196006418646231861935513316266412"
+    },
+    {
+      "bootstrap_steps": 9,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "19587934025148102714743947069330401758927735734946029917714"
+    },
+    {
+      "bootstrap_steps": 10,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "9188373011182420630596502389162667927445594874846802661705729869"
+    },
+    {
+      "bootstrap_steps": 11,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "4310112464348427595944823392302466525557644951423031370099966787274718"
+    },
+    {
+      "bootstrap_steps": 12,
+      "eta": "1/1000000000000000000",
+      "beta": "1/1000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "2021801839425003419443677885678032053891645931135267859146291672002654790420"
+    },
+    {
+      "bootstrap_steps": 1,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "363969035571821/250000000000000000",
+      "difference_from_six_step_published": "-517404859021/250000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "8355813792788"
+    },
+    {
+      "bootstrap_steps": 2,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "728971369965559/500000000000000000",
+      "difference_from_six_step_published": "-12087169/4000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "3919572826901661819"
+    },
+    {
+      "bootstrap_steps": 3,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "728972878655663/500000000000000000",
+      "difference_from_six_step_published": "-2206021/500000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "1838606211958328898086042"
+    },
+    {
+      "bootstrap_steps": 4,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "728972880858463/500000000000000000",
+      "difference_from_six_step_published": "-3221/500000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "862459495445565336100182851249"
+    },
+    {
+      "bootstrap_steps": 5,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "1457945761723359/1000000000000000000",
+      "difference_from_six_step_published": "-9/1000000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "404565358501615798417874792397259981"
+    },
+    {
+      "bootstrap_steps": 6,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "189774859183368159761500220933863178102630"
+    },
+    {
+      "bootstrap_steps": 7,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "89020219900818264524755719702355829953185741842"
+    },
+    {
+      "bootstrap_steps": 8,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "41757899783411094232833416989937450704605154743543510"
+    },
+    {
+      "bootstrap_steps": 9,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "19587934025148102325853600642659900013525429411974655343640"
+    },
+    {
+      "bootstrap_steps": 10,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "9188373011182420429981551258161755609737462665480563885771730756"
+    },
+    {
+      "bootstrap_steps": 11,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "4310112464348427493305674554860618387659554997945420388203007457433016"
+    },
+    {
+      "bootstrap_steps": 12,
+      "eta": "1/100000000000000000000",
+      "beta": "1/100000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "2021801839425003367294198138526841097871925950646267251169442428708280743543"
+    },
+    {
+      "bootstrap_steps": 1,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "363969035571821/250000000000000000",
+      "difference_from_six_step_published": "-517404859021/250000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "8355813792788"
+    },
+    {
+      "bootstrap_steps": 2,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "728971369965559/500000000000000000",
+      "difference_from_six_step_published": "-12087169/4000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "3919572826901661818"
+    },
+    {
+      "bootstrap_steps": 3,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "728972878655663/500000000000000000",
+      "difference_from_six_step_published": "-2206021/500000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "1838606211958328897937974"
+    },
+    {
+      "bootstrap_steps": 4,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "728972880858463/500000000000000000",
+      "difference_from_six_step_published": "-3221/500000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "862459495445565336013478918970"
+    },
+    {
+      "bootstrap_steps": 5,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "1457945761723359/1000000000000000000",
+      "difference_from_six_step_published": "-9/1000000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "404565358501615798369112926448754877"
+    },
+    {
+      "bootstrap_steps": 6,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "189774859183368159734831725613379331385876"
+    },
+    {
+      "bootstrap_steps": 7,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "89020219900818264510465747174663414660377586118"
+    },
+    {
+      "bootstrap_steps": 8,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "41757899783411094225295154836707492086745075963781101"
+    },
+    {
+      "bootstrap_steps": 9,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "19587934025148102321925808143750527987250349305091127431049"
+    },
+    {
+      "bootstrap_steps": 10,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "9188373011182420427955340251738646418687382988494991778481882788"
+    },
+    {
+      "bootstrap_steps": 11,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "4310112464348427492269019151602455734454206651982764442556262466729760"
+    },
+    {
+      "bootstrap_steps": 12,
+      "eta": "1/1000000000000000000000000",
+      "beta": "1/1000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "2021801839425003366767488393080614076341512364910336629114062500713603975953"
+    },
+    {
+      "bootstrap_steps": 1,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "363969035571821/250000000000000000",
+      "difference_from_six_step_published": "-517404859021/250000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "8355813792788"
+    },
+    {
+      "bootstrap_steps": 2,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "728971369965559/500000000000000000",
+      "difference_from_six_step_published": "-12087169/4000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "3919572826901661818"
+    },
+    {
+      "bootstrap_steps": 3,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "728972878655663/500000000000000000",
+      "difference_from_six_step_published": "-2206021/500000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "1838606211958328897937959"
+    },
+    {
+      "bootstrap_steps": 4,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "728972880858463/500000000000000000",
+      "difference_from_six_step_published": "-3221/500000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "862459495445565336013470247718"
+    },
+    {
+      "bootstrap_steps": 5,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "1457945761723359/1000000000000000000",
+      "difference_from_six_step_published": "-9/1000000000000000000",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "404565358501615798369108049779369275"
+    },
+    {
+      "bootstrap_steps": 6,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "189774859183368159734829058499802774877602"
+    },
+    {
+      "bootstrap_steps": 7,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "89020219900818264510464318035925768907042335183"
+    },
+    {
+      "bootstrap_steps": 8,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "41757899783411094225294400935855910148012484387489338"
+    },
+    {
+      "bootstrap_steps": 9,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "19587934025148102321925415325611602407380713389599580777415"
+    },
+    {
+      "bootstrap_steps": 10,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "9188373011182420427955137610576508994668210341140021685109844994"
+    },
+    {
+      "bootstrap_steps": 11,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "4310112464348427492268915475798215034444714420667932797118995861880974"
+    },
+    {
+      "bootstrap_steps": 12,
+      "eta": "1/1000000000000000000000000000000",
+      "beta": "1/1000000000000000000000000000000",
+      "kappa": "182243220215421/125000000000000000",
+      "difference_from_six_step_published": "0",
+      "strict_constraints": 47,
+      "controls": [
+        "next_grid",
+        "zero_eta",
+        "zero_beta"
+      ],
+      "sufficient_log2_cutoff": "2021801839425003366767435716891121478924247424596358351267324187328493900800"
+    }
+  ],
+  "positive_gain_cases": 0,
+  "scope": "Bounded exact arithmetic screen only. Does not prove all-size/compiler hypotheses, optimality over the full outer polytope, or any practical runtime crossover. Original historical campaign records remain unchanged."
+}

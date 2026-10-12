@@ -80,3 +80,5 @@ Status: `partial_experiment`. Related small-module synthesis was priced, but the
 
 Evidence: [reports/E-RESULT.md](https://github.com/rohanarun/integer-mult-bounds/blob/fa8ab946df57ebadae1a470b637c2a590a0a5317/research/campaign-100-results/reports/E-RESULT.md)
 
+
+2026-10-12 followup: [current evidence reconciliation](../followups/findings-reconciliation-2026-10-12/README.md). Original idea status here describes the historical snapshot; current bounded followups and open work are recorded separately.

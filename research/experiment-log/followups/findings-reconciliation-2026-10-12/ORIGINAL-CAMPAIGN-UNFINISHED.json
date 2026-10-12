@@ -1,0 +1,526 @@
+{
+  "scope": "Historical evidence inventory, not newly executed tests. Broad proposals remain open;48 new bounded screens are recorded separately.",
+  "records": [
+    {
+      "id": 6,
+      "idea": "Universal bank tiling table",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 7,
+      "idea": "Exact constant search in the outer polytope",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/B-RESULT.md"
+      ],
+      "outcome": "Related constant and margin what-ifs were priced, but no exhaustive exact outer-polytope search is evidenced."
+    },
+    {
+      "id": 9,
+      "idea": "Largest-ever complex supplier",
+      "status": "blocked",
+      "evidence": [
+        "reports/TRACKING-historical.md"
+      ],
+      "outcome": "The original largest-size complex-supplier experiment was blocked by unavailable recipe provenance. Later complex certificates do not establish this particular experiment ran."
+    },
+    {
+      "id": 10,
+      "idea": "Joint enumeration of orientation \u00d7 design \u00d7 matching",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 11,
+      "idea": "Lagrangian DP per register",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/G-RESULT.md"
+      ],
+      "outcome": "Compound/free-form frame moves were tested; a full Lagrangian register-path DP was not implemented in the surviving evidence."
+    },
+    {
+      "id": 17,
+      "idea": "Mixed cube sizes",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 19,
+      "idea": "Non-uniform stage widths",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 23,
+      "idea": "Non-nested chains",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Feasibility memo for non-nested chains; no admitted replacement word or stronger bound."
+    },
+    {
+      "id": 24,
+      "idea": "Asymmetric words",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 27,
+      "idea": "Two-level word",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 28,
+      "idea": "Deeper outer chain",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/B-RESULT.md",
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Deeper outer-chain arithmetic approaches a fixed point; reported possible gain roughly 3.3e-13, without a new assembled certificate."
+    },
+    {
+      "id": 29,
+      "idea": "Make the complex side bind on purpose",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/B-RESULT.md"
+      ],
+      "outcome": "Supplier-cap sensitivity was priced. Raising a bit root above a cap does not itself improve the capped kappa."
+    },
+    {
+      "id": 30,
+      "idea": "Lazy banks",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 31,
+      "idea": "Superoptimised word",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 32,
+      "idea": "Toom-Cook word",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 33,
+      "idea": "Karatsuba-tree pairing",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 35,
+      "idea": "Cayley-graph indexing",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 37,
+      "idea": "Tensor-rank modules",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/E-RESULT.md",
+        "reports/O-RESULT.md"
+      ],
+      "outcome": "Related module synthesis tested smaller addition programs and lost physically. No full border-rank/Strassen architecture was established."
+    },
+    {
+      "id": 40,
+      "idea": "Random legal words + repair",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/I-RESULT.md"
+      ],
+      "outcome": "Random matching variants were tested; a sampler over general legal words with repair was not run."
+    },
+    {
+      "id": 42,
+      "idea": "MDS-code cover vectors",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 43,
+      "idea": "LLL-reduced covers",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 45,
+      "idea": "Triple (hypergraph) module",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 46,
+      "idea": "Exact large-deviation root",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/B-RESULT.md",
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "For the fixed recurrence, the moment root is its characteristic exponent; no separate improved large-deviation certificate was built."
+    },
+    {
+      "id": 47,
+      "idea": "SDP relaxation of the histogram price",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/B-RESULT.md",
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Certificate analysis found no fixed-histogram slack; no new SDP solver experiment or admitted SDP certificate."
+    },
+    {
+      "id": 49,
+      "idea": "Different concave price",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "No proved completion with a cheaper rank price was supplied."
+    },
+    {
+      "id": 50,
+      "idea": "True entrance-stock price",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Memo found no admitted improvement from repricing entrance stock."
+    },
+    {
+      "id": 52,
+      "idea": "No fallback class",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/B-RESULT.md",
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Dropping the fallback costs would give about 3e-12 in arithmetic; removal was not proved or assembled."
+    },
+    {
+      "id": 53,
+      "idea": "Lean the whole bound",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Feasibility memo only; the whole bound was not formalized in Lean."
+    },
+    {
+      "id": 54,
+      "idea": "Smaller \u03b7, \u03b2",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/B-RESULT.md"
+      ],
+      "outcome": "Margin what-ifs give tiny changes (about 2.3e-15 at the zero-margin limit); zero margins are not admissible."
+    },
+    {
+      "id": 57,
+      "idea": "Information-theoretic register price",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 58,
+      "idea": "Alternative independence control",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 59,
+      "idea": "Nested temporaries",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Nested temporary lifetimes are already allowed within the stated limits; no improved constructed word."
+    },
+    {
+      "id": 60,
+      "idea": "Gate frames below operand spans",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Frames below required source spans need a new mathematical lemma; no valid relaxation or witness."
+    },
+    {
+      "id": 61,
+      "idea": "GNN surrogate of physical \u03ba",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/D-RESULT.md"
+      ],
+      "outcome": "Ridge, boosted regression and MLP surrogates were evaluated, not a GNN. Coarse rankings help, fine rankings and module features fail; 20 historical module labels disagreed on replay."
+    },
+    {
+      "id": 62,
+      "idea": "AlphaDev-style reinforcement learning",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 64,
+      "idea": "LLM program synthesis",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 65,
+      "idea": "MCTS",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 66,
+      "idea": "Large-neighbourhood search",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/O-RESULT.md"
+      ],
+      "outcome": "CP-SAT LNS was run on module roots/supports, not the proposed sliding windows of about 1,000 word gates. No corrected module gain."
+    },
+    {
+      "id": 68,
+      "idea": "QUBO on a quantum annealer",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 70,
+      "idea": "Differentiable frames",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 72,
+      "idea": "Cross-size transfer",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/A-RESULT.md"
+      ],
+      "outcome": "Coordinate restrictions transferred modules across sizes; the proposed learned embedding was not trained."
+    },
+    {
+      "id": 75,
+      "idea": "10,000-sandbox population search",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 76,
+      "idea": "NTT complex supplier",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 77,
+      "idea": "Gaussian / Eisenstein integer bit words",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 78,
+      "idea": "p-adic / Hensel coefficient structure",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 79,
+      "idea": "Group-algebra word",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 80,
+      "idea": "Quaternion packing",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 81,
+      "idea": "Cyclotomic frames",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 82,
+      "idea": "Montgomery/Barrett reduction",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 83,
+      "idea": "Winograd minimal-multiplication filters",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 84,
+      "idea": "Rader/Bluestein structure",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 85,
+      "idea": "Good\u2013Thomas indexing",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 86,
+      "idea": "Clifford-algebra frames",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 87,
+      "idea": "Mixed-radix cubes",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 88,
+      "idea": "Known-optimal small bilinear algorithms",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/E-RESULT.md"
+      ],
+      "outcome": "Related small-module synthesis was priced, but the named optimal bilinear algorithms were not installed as a full word."
+    },
+    {
+      "id": 89,
+      "idea": "verify.py in C++/Rust",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 90,
+      "idea": "GPU/FPGA exact replay",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 92,
+      "idea": "Word compiler",
+      "status": "partial_experiment",
+      "evidence": [
+        "prototype/README.md"
+      ],
+      "outcome": "Generic word-compiler prototype produced ten surviving result JSONs. Two fail pricing; new architectures lack a full admitted source-bound certificate."
+    },
+    {
+      "id": 93,
+      "idea": "Public dataset of every word and \u03ba",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/D-RESULT.md",
+        "RAW-INVENTORY.json"
+      ],
+      "outcome": "A local dataset existed and is now archived with its label-noise caveat. This is not a dataset of every fully verified word."
+    },
+    {
+      "id": 94,
+      "idea": "Pin-free development mode",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/F-RESULT.md",
+        "reports/P-RESULT.md"
+      ],
+      "outcome": "Record-mode/unpinned discovery runs are documented. No standalone general pin-free development product was validated."
+    },
+    {
+      "id": 95,
+      "idea": "Composable stage library",
+      "status": "partial_experiment",
+      "evidence": [
+        "reports/P-RESULT.md"
+      ],
+      "outcome": "Stage-composition tooling ran and exposed non-additive gains; a candidate build was stopped before final packaging and verification."
+    },
+    {
+      "id": 96,
+      "idea": "Community compute pool",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 97,
+      "idea": "Re-derive the inherited analytic theorem",
+      "status": "analysis_only",
+      "evidence": [
+        "reports/M-RESULT.md"
+      ],
+      "outcome": "Machine-model feasibility memo only; no re-derived stronger analytic theorem."
+    },
+    {
+      "id": 98,
+      "idea": "Three suppliers",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 99,
+      "idea": "Prove the limit \u03ba(p \u2192 \u221e)",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    },
+    {
+      "id": 100,
+      "idea": "Replace the finite word by an infinite family certified by a parametric Lean proof",
+      "status": "not_evidenced",
+      "evidence": [],
+      "outcome": "No execution result located in the archived campaign evidence; do not count this proposal as a completed test."
+    }
+  ]
+}

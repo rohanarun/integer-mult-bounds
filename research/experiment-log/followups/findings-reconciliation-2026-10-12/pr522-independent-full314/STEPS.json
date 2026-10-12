@@ -1,0 +1,77 @@
+[
+  {
+    "stage": "partial-factory",
+    "exit": 0,
+    "seconds": 0.20327587495557964
+  },
+  {
+    "stage": "construct-kernel92",
+    "exit": 0,
+    "seconds": 0.6937963750679046
+  },
+  {
+    "stage": "construct-pair35",
+    "exit": 0,
+    "seconds": 0.5949640839826316
+  },
+  {
+    "stage": "construct-ranksector",
+    "exit": 0,
+    "seconds": 0.5945867910049856
+  },
+  {
+    "stage": "kernel-scalar-controls",
+    "exit": 0,
+    "seconds": 8.651234999997541
+  },
+  {
+    "stage": "scalar",
+    "exit": 0,
+    "seconds": 0.742384040961042
+  },
+  {
+    "stage": "emit-local",
+    "exit": 0,
+    "seconds": 0.4210075419396162
+  },
+  {
+    "stage": "phases",
+    "exit": 0,
+    "seconds": 101.8168482920155
+  },
+  {
+    "stage": "adapters",
+    "exit": 0,
+    "seconds": 0.5938915000297129
+  },
+  {
+    "stage": "parent-integration",
+    "exit": 0,
+    "seconds": 0.6343775000423193
+  },
+  {
+    "stage": "parent-replay",
+    "exit": 0,
+    "seconds": 3.272448208066635
+  },
+  {
+    "stage": "emit-async",
+    "exit": 0,
+    "seconds": 2.190103832981549
+  },
+  {
+    "stage": "independent-async",
+    "exit": 0,
+    "seconds": 11.134319250006229
+  },
+  {
+    "stage": "invoice",
+    "exit": 0,
+    "seconds": 1.0618699580663815
+  },
+  {
+    "stage": "two-moments-assembly",
+    "exit": 0,
+    "seconds": 0.2559707909822464
+  }
+]

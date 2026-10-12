@@ -1,0 +1,21 @@
+{
+  "status": "PASS_LITERAL_WIDTH_DOMINANCE_TRANSPORT_ONLY",
+  "roles": 40320,
+  "widths": {
+    "8": 161,
+    "9": 381,
+    "7": 18
+  },
+  "profile": {
+    "1": 177552,
+    "2": 13104,
+    "3": 40455,
+    "4": 6373,
+    "5": 20492,
+    "6": 9007,
+    "7": 183,
+    "8": 158,
+    "48": 230
+  },
+  "scope": "New helper assignment and compacted offsets require fresh charts, prefix/invoice and outer assembly. No admitted bound yet."
+}

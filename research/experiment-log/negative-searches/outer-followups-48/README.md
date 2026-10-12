@@ -1,0 +1,3 @@
+# Bounded completion of outer-chain and positive-margin screens
+
+48 exact cases: bootstrap depth1 through12 crossed with eta=beta=10^-18,10^-20,10^-24,10^-30 on pinned PR523 complex and cited bit endpoints. Every candidate is checked against47 strict inequalities; adjacent-grid, zero-eta and zero-beta controls reject. Zero cases beat the published six-step kappa at the10^-18 grid. These close bounded current-witness followups to original ideas28 and54. They do not exhaust the outer polytope or prove zero-margin admissibility, and do not retroactively change the historical campaign classifications. Script retains original discovery paths; source pins and full rational results are included.

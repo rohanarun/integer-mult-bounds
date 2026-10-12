@@ -1,0 +1,3 @@
+# Old-provider fixture stopped the composed restriction audit
+
+Initial attempt stopped at the old514 compensation-count fixture12094. The new source522 program has9594 compensations, independently reconstructed and replayed on all columns. A second source-specific fixture fixed old bank remainder counts. The derived checker binds compensation count to both actual canonical words and independently recounts old physical bank routes; it retains all literal restriction, disjointness, hash, mass and mutation checks. Corrected global admission and packaged replay passed. This is a source-generalization failure, not evidence the mathematical composition fails. Original error/logs are preserved.

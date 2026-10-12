@@ -1,0 +1,27 @@
+RUN 02-restrict-local
+PASS 02-restrict-local
+RUN 03-exact-word-transport
+PASS 03-exact-word-transport
+RUN 04-emit-local
+PASS 04-emit-local
+RUN 05-independent-local
+PASS 05-independent-local
+RUN 06-exact-local-phases
+PASS 06-exact-local-phases
+RUN 07-residual-wrappers
+PASS 07-residual-wrappers
+RUN 08-restrict-global-data
+PASS 08-restrict-global-data
+RUN 09-independent-global-restriction
+PASS 09-independent-global-restriction
+RUN 10-emit-whole-owners
+PASS 10-emit-whole-owners
+RUN 11-independent-hosted-program
+PASS 11-independent-hosted-program
+RUN 12-independent-raw-reconstruction
+PASS 12-independent-raw-reconstruction
+RUN 13-scalar-prefix-and-finite-invoice
+PASS 13-scalar-prefix-and-finite-invoice
+RUN 14-two-moments-and-global-assembly
+PASS 14-two-moments-and-global-assembly
+PASS_PACKAGED_RANKSECTOR112_GLOBAL_KAPPA kappa 0.001467289440740487

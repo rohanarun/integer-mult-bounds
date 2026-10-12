@@ -1,0 +1,14 @@
+[
+  {
+    "name": "restrict-global",
+    "returncode": 0,
+    "seconds": 1.0999691659817472,
+    "log_sha256": "2caf353a2ef3d9e55ac110dccb47666f9a59071929af3d795c5d5cdc34a8869d"
+  },
+  {
+    "name": "audit-restriction",
+    "returncode": 1,
+    "seconds": 0.7015402909601107,
+    "log_sha256": "bec775c1d4558994c1487fbd0149a50928cbaf950f7e9e046cd1093807036668"
+  }
+]

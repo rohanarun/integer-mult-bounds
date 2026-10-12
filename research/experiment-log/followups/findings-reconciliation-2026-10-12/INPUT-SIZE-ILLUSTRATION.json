@@ -1,0 +1,18 @@
+{
+  "scope": "Illustration only: equal leading constants, no lower-order costs, baseline n log2(n); not measured runtime or a crossover certificate.",
+  "kappa": "182243220215421/125000000000000000",
+  "ideal_factors": {
+    "1000000": 1.0043721482242758,
+    "1000000000": 1.0049660544640913,
+    "1000000000000": 1.0053876506168087
+  },
+  "ideal_factor_two_log10_log2_n": 206.4754420686734,
+  "bootstrap_sufficient_log2_thresholds": [
+    "8355813792788",
+    "3919572826901661842",
+    "1838606211958328912746291",
+    "862459495445565344684730601667",
+    "404565358501615803245782312051230751",
+    "189774859183368162401945302169887625384021"
+  ]
+}

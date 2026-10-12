@@ -1,0 +1,8 @@
+RUN restrict-global
+PASS restrict-global
+RUN audit-restriction
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/admit_ranksector112.py", line 12, in <module>
+    steps.append(dict(name=name,returncode=p.returncode,seconds=time.monotonic()-start,log_sha256=sha(log)));(O/'STEPS.json').write_text(json.dumps(steps,indent=2)+'\n');assert p.returncode==0,(name,log.read_text()[-6000:]);print('PASS',name,flush=True)
+                                                                                                                                                                                 ^^^^^^^^^^^^^^^
+AssertionError: ('audit-restriction', 'Traceback (most recent call last):\n  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/source523-review/code/audit_global_restriction.py", line 85, in <module>\n    need(transport[\'independently_recomputed_helper_compensations_match\'] == 12094,\n    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n         \'Arbitrary helper dirt transport was not independently certified\')\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/source523-review/code/audit_global_restriction.py", line 24, in need\n    raise AssertionError(message)\nAssertionError: Arbitrary helper dirt transport was not independently certified\n')

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "donor-reexpression",
+    "status": "completed_no_gain_and_superseded",
+    "evidence": "kernel-search/nested-basis-exchanges/README.md",
+    "finding": "Eight fixed-role donor trials lost; four basis-exchange runs found and later verified a gain. Original pending suggestion was completed."
+  },
+  {
+    "id": "r714-changed-stock",
+    "status": "bounded_completed_no_gain",
+    "evidence": "negative-searches/r714-kernels/README.md",
+    "finding": "Exact local replay plus40 kernel trials completed. Losing words lack full global admission; no need to label them mathematical failures."
+  },
+  {
+    "id": "complex501-retiming-and-reordering",
+    "status": "bounded_completed_no_gain",
+    "evidence": "negative-searches/complex501-followups/README.md",
+    "finding": "Fixed-frame, neutral, stage-count and adjacent-commutation neighborhoods completed. Broader co-designed multi-operation reordering remains open."
+  },
+  {
+    "id": "async-order24",
+    "status": "completed_and_superseded",
+    "evidence": "negative-searches/async505-inventory-wall/README.md",
+    "finding": "Order neighborhood and146-word menu covered by an exact scoped inventory obstruction. New factories lie outside it."
+  },
+  {
+    "id": "partial-own-coordinated",
+    "status": "completed_finite_gain",
+    "evidence": "negative-searches/partial-own-coordinated/README.md",
+    "finding": "Full local/global finite admission and packaged pinned-reuse replay completed. Full-model solver timeout is retained; restricted model produced literal owners."
+  },
+  {
+    "id": "pr522-and-pr523-independent-replays",
+    "status": "completed",
+    "evidence": "followups/findings-reconciliation-2026-10-12/",
+    "finding": "Both freshly source-bound standard-library Python3.14 replays passed; unchanged bit operator remains cited."
+  },
+  {
+    "id": "ranksector112-composition",
+    "status": "completed_finite_gain",
+    "evidence": "negative-searches/ranksector112-composition/README.md",
+    "finding": "New kappa0.001467289440740487. Source522 replay fresh; changed local/global and packaged reuse checks pass. Inherited theorem conditions remain."
+  },
+  {
+    "id": "outer-chain-positive-margins",
+    "status": "bounded_completed_no_gain",
+    "evidence": "negative-searches/outer-followups-48/README.md",
+    "finding": "48 exact cases, no gain at10^-18 grid. Original campaign ideas28/54 historical classifications preserved."
+  },
+  {
+    "id": "smaller-complex-helper-construction",
+    "status": "open_new_research",
+    "evidence": "followups/findings-reconciliation-2026-10-12/README.md",
+    "finding": "Local reuse and three-packet sharing screens failed under their fixed geometry. A co-designed smaller-helper geometry/decoder/schedule and full physical proof are missing."
+  },
+  {
+    "id": "all-size-proof-and-practical-crossover",
+    "status": "open_proof_and_implementation",
+    "evidence": "followups/findings-reconciliation-2026-10-12/README.md",
+    "finding": "Finite certificates do not discharge inherited all-size contracts. No optimized runnable large-integer implementation, measured constants or crossover benchmark is supplied."
+  }
+]

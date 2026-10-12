@@ -92,3 +92,5 @@ Status: `partial_gain`. p=6 gate-frame model solved optimally within its candida
 
 Evidence: [reports/H-RESULT.md](https://github.com/rohanarun/integer-mult-bounds/blob/fa8ab946df57ebadae1a470b637c2a590a0a5317/research/campaign-100-results/reports/H-RESULT.md)
 
+
+2026-10-12 followup: [current evidence reconciliation](../followups/findings-reconciliation-2026-10-12/README.md). Original idea status here describes the historical snapshot; current bounded followups and open work are recorded separately.

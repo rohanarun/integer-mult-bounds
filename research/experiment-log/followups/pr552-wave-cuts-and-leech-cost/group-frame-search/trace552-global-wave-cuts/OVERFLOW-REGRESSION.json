@@ -1,0 +1,13 @@
+{
+  "initial_failure": "Selected a fixed boundary node; validation assertion stopped the run before any result was accepted",
+  "cause": "scipy.sparse.csgraph.maximum_flow returns int32 flows despite int64 capacities",
+  "two_edge_chain_actual": {
+    "1000000000": 1000000000,
+    "1000000000000": 0,
+    "1000000000000000": 0
+  },
+  "repair": "Capacity scale reduced to 10^7. Hard capacity exceeds the all-unselected feasible cut. Every capacity asserted below 2^31-1; exact frame inclusions and fixed anchors checked after each cut.",
+  "initial_source": "search552_global_wave_cuts.initial-overflow.py",
+  "initial_log": "trace552-global-wave-cuts.initial-overflow.log",
+  "corrected_result": "1022 cuts finish, all exact selected subsets empty; no gain found; floating rounded discovery only"
+}

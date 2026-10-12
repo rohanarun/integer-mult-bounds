@@ -1,0 +1,76 @@
+{
+  "status": "CONFIRMED_ROOT_CONTEXT_EQUALITY_GAP",
+  "frames": [
+    [
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ]
+  ],
+  "edges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "scatter_anchor": 2,
+  "preceding_event": 1,
+  "relaxed": {
+    "name": "scatter-anchor-relaxed",
+    "kind": "contract",
+    "v": 1,
+    "legal_subsets": 2,
+    "invalid_subsets": 6,
+    "invalid_fixed_subsets": 6,
+    "edges": 3,
+    "repeated_edges": 0,
+    "min_selected": [],
+    "max_selected": [
+      1
+    ],
+    "minimum_cut_fee": 0.0,
+    "maximum_cut_fee": 0.0,
+    "exact_min_fee": 0.0,
+    "max_rounding_error": 2.320509270934551e-08,
+    "plateau_distinct": true
+  },
+  "equality_fixed": {
+    "name": "scatter-anchor-equality-fixed",
+    "kind": "contract",
+    "v": 1,
+    "legal_subsets": 1,
+    "invalid_subsets": 7,
+    "invalid_fixed_subsets": 7,
+    "edges": 3,
+    "repeated_edges": 0,
+    "min_selected": [],
+    "max_selected": [],
+    "minimum_cut_fee": 0.0,
+    "maximum_cut_fee": 0.0,
+    "exact_min_fee": 0.0,
+    "max_rounding_error": 2.320509270934551e-08,
+    "plateau_distinct": false
+  },
+  "explanation": "Contracting event1 below fixed anchor2 is monotone and neutral under fictitious climb pricing, but gk.profile requires exact current-frame equality at scatter. Freezing preceding event excludes it; unchanged original remains feasible.",
+  "effect": "No positive result invalidated: root selected nothing. Maximal neutral cuts can nominate this invalid equality case. Full profile catches it."
+}

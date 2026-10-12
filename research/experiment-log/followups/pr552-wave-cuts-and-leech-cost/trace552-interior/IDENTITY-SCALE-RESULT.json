@@ -1,0 +1,18 @@
+{
+  "status": "COMPLETE_ALL_DISTANCE_STRICT_INTERIOR_TWO_TO_THREE_SCREEN",
+  "source_sha256": "a30810b755cf80e1128c0b932728bd51ca8e0bb31225fc415675afb42a766c8f",
+  "source_pr552_head": "33c33af0b7697155be1ea708e08cbd3f0707d94c",
+  "stats": {
+    "algebraic_pairs": 18150,
+    "no_legal_strict_interior_gap": 15361,
+    "legal_strict_interior_gaps": 384587,
+    "distinct_new_interior_signatures": 1838,
+    "empty_interval": 1672,
+    "duplicate_or_endpoint_frame_signature": 382749,
+    "frame_assignments": 609
+  },
+  "rejected_positive_nominations": [],
+  "nominations": [],
+  "seconds": 51.4312259160215,
+  "scope": "Strict interior gaps only, with exact commuting moves of both endpoints; deduplicated affected-register boundary signatures and previously legal endpoint signatures; nested replacement frames exhaustive through quotient dimension4. Positive full gk.profile candidates still require independent scalar/physical/price admission."
+}

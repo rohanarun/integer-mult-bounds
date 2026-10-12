@@ -1,0 +1,7 @@
+{
+  "source_pr552_head": "33c33af0b7697155be1ea708e08cbd3f0707d94c",
+  "input_sha256": "a30810b755cf80e1128c0b932728bd51ca8e0bb31225fc415675afb42a766c8f",
+  "parent_independent_input_byte_identical": true,
+  "regression548_recovers_exact_pr550_word": true,
+  "known_gain_word_content_sha256": "6a02824c7484b9fd768a39d87b9c65dbe5221a877032ed1f74d11afb2acdd7d8"
+}

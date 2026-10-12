@@ -1,0 +1,24 @@
+{
+  "status": "PASS_REAL_GK_PROFILE_ANCHOR_NEGATIVE_CONTROLS",
+  "baseline_profile": {
+    "1": 2,
+    "8": 2,
+    "7": 1
+  },
+  "mutation_controls": [
+    {
+      "event": 0,
+      "expected_error": "centre frame",
+      "observed_error": "centre frame",
+      "rejected": true
+    },
+    {
+      "event": 1,
+      "expected_error": "target level at the centre scatter",
+      "observed_error": "target level at the centre scatter",
+      "rejected": true
+    }
+  ],
+  "source_gk_word_sha256": "f027a9273bcf4e0971258c160b7d3b3c196366b32a529cff6e6a0e666b03826b",
+  "scope": "Tiny profiler-shaped fixtures; not scalar/physical/global supplier admission."
+}

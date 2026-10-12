@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/pr557-ceiling-review/source/research/frame-domain-ceiling/code/run.py", line 16, in <module>
+    runpy.run_path(sys.argv[0],run_name='__main__')
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 294, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/pr557-ceiling-review/source/research/frame-domain-ceiling/code/check_duals.py", line 135, in <module>
+    assert cert['domains']=={str(k):[list(F) for F in ds[k]] for k in component}
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

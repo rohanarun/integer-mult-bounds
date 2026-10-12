@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "root_source_sha256": "cef3c20d40f32f59def690ec8711fce6b9ae2e71cb3ff79f7ee95b6f388f524a",
+  "cases": 8610,
+  "legal_subsets": 42184,
+  "invalid_subsets": 161480,
+  "invalid_fixed_subsets": 143423,
+  "cases_with_repeated_edges": 6506,
+  "distinct_optimal_plateau_cases": 1881,
+  "max_rounding_error": 4.4791442390529346e-07,
+  "seconds": 2.0789067910518497,
+  "scope": "Every legal subset of every sampled finite DAG checked against floating pairwise energy and rounded s-t mincut. Minimal and maximal residual cuts equal intersection and union of all rounded optimum active selections. Sampled DAGs do not certify source552 global optimality or physical admission."
+}

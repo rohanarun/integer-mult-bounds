@@ -1,0 +1,20 @@
+{
+  "status": "COMPLETE_NO_GAIN",
+  "corrected_direct_cuts": 1022,
+  "neutral_walk_cuts": 8176,
+  "neutral_moves": 8,
+  "distinct_circuit_frame_states_including_start": 7,
+  "state_sha256": [
+    "1771acc658b371e7474f3fad9b10e0b79bf1e9609b42ae839dd1b6b20f669789",
+    "14a5cc99d1c7cdb619b33de16dc9931a45d023ac45df3784eea7adcd54642c63",
+    "73bd4c657e140603ee41d096a995672f98e9c384af201c8670a18c2c42ad561a",
+    "debc7dd651a55d9bd6786272b75a76dab6f619d7c6a02a9147f9755c10cb3ddc",
+    "c67d768d97e9ca61b4d413630bd54cb96fd0fa6a861128d85de8d16e5e538c7d",
+    "debc7dd651a55d9bd6786272b75a76dab6f619d7c6a02a9147f9755c10cb3ddc",
+    "306b0b75d11809c8d721a578a80bfa39be672fad7671795b1f0d82f31c2352ec",
+    "debc7dd651a55d9bd6786272b75a76dab6f619d7c6a02a9147f9755c10cb3ddc",
+    "d59090256a0e206b7e66bd1cb8a208420225a173e28494c6965a6c6d66d16f04"
+  ],
+  "profiles_all_identical": true,
+  "scope": "Rounded floating discovery. Each accepted neutral word passes full GK local profile checks; no new paid profile or global kappa. No complete optimality claim."
+}

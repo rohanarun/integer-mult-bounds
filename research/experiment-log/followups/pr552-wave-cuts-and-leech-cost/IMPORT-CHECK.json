@@ -1,0 +1,6 @@
+{
+  "initial_error": "Root import verification treated structured manifests as plain path-to-sha mappings; assertion failed on trace552-interior",
+  "correction": "Normalize list-of-files manifests and dictionary manifests before byte comparison",
+  "status": "PASS all three manifests; no source-file mismatch",
+  "nested_manifest_correction": "PR557 manifest includes its vendored source MANIFEST.json; only the top-level manifest is excluded for that import. All74 listed hashes match. The earlier root validator ran before final manifest regeneration and correctly rejected the unfinished archive."
+}

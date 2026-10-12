@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/pr557-ceiling-review/source/research/frame-domain-ceiling/code/run.py", line 16, in <module>
+    runpy.run_path(sys.argv[0],run_name='__main__')
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 294, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/pr557-ceiling-review/source/research/frame-domain-ceiling/code/check_duals.py", line 153, in <module>
+    assert objective==tuple(Q(baseline[r]) for r in range(2,10)),('objective polynomial differs',no,objective,baseline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: ('objective polynomial differs', 0, (Fraction(291, 1), Fraction(400, 1), Fraction(52, 1), Fraction(0, 1), Fraction(22, 1), Fraction(0, 1), Fraction(0, 1), Fraction(0, 1)), Counter({3: 400, 2: 290, 4: 52, 6: 22}))

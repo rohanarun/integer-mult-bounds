@@ -90,3 +90,5 @@ Latest checked composition and completed searches: [PR548 complex plus R420; exa
 Radical geometry batch: [Leech support and label obstructions, constructed E7 losing word, new ternary geometry and current-word retests](followups/radical-geometries-2026-10-12/README.md). No new kappa; exact successes, failures and remaining admission obligations retained. PR550 is the new reported target, awaiting independent replay.
 
 PR550 followup: [joint retiming admitted in PR554, exact single-frame obstruction, broader trace failures and smaller Leech subsets](followups/trace550-and-leech-subsets/README.md). Conditional kappa0.001591209947088545, above550 but below concurrent551/552 reported results. Full3.14/3.11 finite checks pass.
+
+Latest completed tests: [PR552 circuit/frame searches, exact smaller-Leech cost obstruction, and independently replayed PR557 ceiling](followups/pr552-wave-cuts-and-leech-cost/README.md). No new kappa; failures and proof-scope limits retained.

@@ -1,0 +1,82 @@
+{
+  "status": "FROZEN_COMPLETE_NO_GAIN",
+  "created_utc": "2026-10-12T04:57:15.658766+00:00",
+  "file_count": 15,
+  "files": [
+    {
+      "path": "CONTROLS-AND-SOURCE.json",
+      "bytes": 362,
+      "sha256": "f7d717a37989ca9f71fdfafaa4032c8970e4ebd32037337a7317b6f5cc7e617a"
+    },
+    {
+      "path": "IDENTITY-SCALE-RESULT.json",
+      "bytes": 951,
+      "sha256": "2c514f966a2bdc32f9fbeca15690ce76c6e539171a37d83605d6ba9958617281"
+    },
+    {
+      "path": "INTERIOR-CONTROL.json",
+      "bytes": 936,
+      "sha256": "19278c0f74b775ed9702b83474b8c776ba8a328d61165ee965a0059c5b4c01c2"
+    },
+    {
+      "path": "INTERIOR-RESULT.json",
+      "bytes": 952,
+      "sha256": "e1a95975f32b05a93b74c4e60f8371a58baa5bcc76162840d2845aaa97bb2691"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4776,
+      "sha256": "6b10c64ab72fd3d4e9179fa409d284ca5b6bf95b0132d64bcae606761e08bb1c"
+    },
+    {
+      "path": "check_interior_identity.py",
+      "bytes": 1422,
+      "sha256": "ee330153c7765228dca1fe803d40bf26466d90f3925d2711eb9c3e62d6c582af"
+    },
+    {
+      "path": "control.log",
+      "bytes": 43,
+      "sha256": "01cacdeabe5b2e120a8bda568292dde015896b0ca1e057717205ebfecf804404"
+    },
+    {
+      "path": "identity-scale-run.log",
+      "bytes": 527,
+      "sha256": "44faa13aba9a2aea9f05fc61032c4727dad56d849c86534c6767a73c4003869a"
+    },
+    {
+      "path": "regression548/CHAIN4-RESULT.json",
+      "bytes": 6816,
+      "sha256": "2374468a96646c79e77a54ba80518dc3be2f98d090e0447e694a3356ca8f5b6d"
+    },
+    {
+      "path": "regression548/chain4-candidate-000.json.gz",
+      "bytes": 36325,
+      "sha256": "72382a6d6f6f60c09ff2cb157b43b914393b8fddd97b2de368fc13acbd2b4e2c"
+    },
+    {
+      "path": "regression548/chain4-candidate-001.json.gz",
+      "bytes": 36327,
+      "sha256": "df59b4969a65395615dac28eff2deecea7b2121ebc640ca71653bacdda89722a"
+    },
+    {
+      "path": "regression548/run.log",
+      "bytes": 1580,
+      "sha256": "c10c9433c89af201e95b95b0bfb8cd97ec6729a066755dbfd78a89c6dc604752"
+    },
+    {
+      "path": "run.log",
+      "bytes": 526,
+      "sha256": "4e9ba5e32797cbe937475d8b2c297b5a8f91ae81755fbafd8431932825afe6b6"
+    },
+    {
+      "path": "search_interior.py",
+      "bytes": 7768,
+      "sha256": "e2a6e6ae658a6900f88db25057cd11fe575f32b7e509f532e95740deb771cb0b"
+    },
+    {
+      "path": "search_interior_identity_scale.py",
+      "bytes": 7883,
+      "sha256": "d378f3ffdd14327511719098059dc3b0f49f3b894bcdef49f23468acd4eadd38"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "status": "PASS_EXACT_PREBUILD_STRUCTURAL_OBSTRUCTION",
+  "source_sha256": "83c7937da15a707d4dbd55ff9a2f1d2cecd5c54e9bae06b663046c654e43b71b",
+  "results": [
+    {
+      "ports": 33,
+      "binary_dimension": 26,
+      "center_count": 7,
+      "minimum_center_rank_list": [
+        25,
+        4,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "minimum_total_copied_rank": 62,
+      "deficit_polynomial": {
+        "coefficient_of_L": -29,
+        "constant": -33
+      },
+      "all_positive_L_deficit_strictly_negative": true,
+      "nine_stage_deficit": -294,
+      "local_rank_mass_lower_bound_ignoring_delivery_helpers": 1894,
+      "dedicated_factory_delivery_clones_before_corrections": 66,
+      "dedicated_factory_rank_mass_before_correction_clones": 3610,
+      "largest_integer_copy_charge_for_positive_deficit_at_some_stage": 32,
+      "largest_integer_copy_charge_for_positive_deficit_at_L9": 29,
+      "status": "REJECT_THIS_CENTER_FACTORIZATION_IN_EXISTING_COPIED_CENTER_COVER"
+    },
+    {
+      "ports": 52,
+      "binary_dimension": 44,
+      "center_count": 10,
+      "minimum_center_rank_list": [
+        43,
+        8,
+        19,
+        13,
+        8,
+        6,
+        2,
+        2,
+        1,
+        1
+      ],
+      "minimum_total_copied_rank": 103,
+      "deficit_polynomial": {
+        "coefficient_of_L": -51,
+        "constant": -52
+      },
+      "all_positive_L_deficit_strictly_negative": true,
+      "nine_stage_deficit": -511,
+      "local_rank_mass_lower_bound_ignoring_delivery_helpers": 5015,
+      "dedicated_factory_delivery_clones_before_corrections": 104,
+      "dedicated_factory_rank_mass_before_correction_clones": 9591,
+      "largest_integer_copy_charge_for_positive_deficit_at_some_stage": 51,
+      "largest_integer_copy_charge_for_positive_deficit_at_L9": 46,
+      "status": "REJECT_THIS_CENTER_FACTORIZATION_IN_EXISTING_COPIED_CENTER_COVER"
+    },
+    {
+      "ports": 80,
+      "binary_dimension": 59,
+      "center_count": 10,
+      "minimum_center_rank_list": [
+        58,
+        4,
+        28,
+        20,
+        16,
+        6,
+        4,
+        2,
+        2,
+        2
+      ],
+      "minimum_total_copied_rank": 142,
+      "deficit_polynomial": {
+        "coefficient_of_L": -62,
+        "constant": -80
+      },
+      "all_positive_L_deficit_strictly_negative": true,
+      "nine_stage_deficit": -638,
+      "local_rank_mass_lower_bound_ignoring_delivery_helpers": 10012,
+      "dedicated_factory_delivery_clones_before_corrections": 160,
+      "dedicated_factory_rank_mass_before_correction_clones": 19452,
+      "largest_integer_copy_charge_for_positive_deficit_at_some_stage": 79,
+      "largest_integer_copy_charge_for_positive_deficit_at_L9": 71,
+      "status": "REJECT_THIS_CENTER_FACTORIZATION_IN_EXISTING_COPIED_CENTER_COVER"
+    }
+  ],
+  "proof": "Gathering scalar center k requires a frame containing all source labels with nonzero decoder coefficient. Its rank is at least their exact GF2 span rank. Ordinary copied-center delivery charges at least this rank. In the existing uniform odd-stage cover, deficit=(L-1)V-L*sum(center_ranks). Each retained factorization has sum(center_ranks)>V, making deficit negative for every positive L. All other costs were optimistically set to zero.",
+  "scope": "Rejects saved33/52/80port factorizations under the existing E7 factory and copied-center cover. Does not reject other Leech decoders, shared packet words, center-copy elimination or a new supplier interface.",
+  "not_executed_due_to_obstruction": [
+    "chronological dirty-register word",
+    "full scalar endpoint and helper restoration",
+    "full monotone frame profile",
+    "phase compiler",
+    "global hosting or kappa calculation"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "local_sources": {
+    "radical-geometry-alternatives/e7-local-word/build.py": "e41476372b307e6686d8e8b7897ae2c7fb4674277fd4f2146ba69c0cdc3a5a9d",
+    "radical-geometry-alternatives/e7-local-word/price_obstruction.py": "ff58cc1b81a4484c8d18a302b0e8dc088abbde84a92a679f7d43ce376461180b",
+    "radical-geometry-alternatives/e7-local-word/README.md": "ccc2b5172cc38ad81f2199dd2ec25422bd95f1641b8ff43e5e210547a5853a66",
+    "radical-geometry-leech-next/SPLIT-CENTERS-WITNESSES.json.gz": "83c7937da15a707d4dbd55ff9a2f1d2cecd5c54e9bae06b663046c654e43b71b"
+  },
+  "scope": "Source-pinned E7 factory/cover convention and unchanged prior Leech factorizations."
+}

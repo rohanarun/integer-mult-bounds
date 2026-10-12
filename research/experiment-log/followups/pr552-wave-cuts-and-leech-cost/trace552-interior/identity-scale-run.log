@@ -1,0 +1,2 @@
+A {'algebraic_pairs': 13766, 'no_legal_strict_interior_gap': 12823, 'legal_strict_interior_gaps': 61877, 'distinct_new_interior_signatures': 464, 'empty_interval': 298, 'duplicate_or_endpoint_frame_signature': 61413, 'frame_assignments': 609} 21.365352499997243
+B {'algebraic_pairs': 18150, 'no_legal_strict_interior_gap': 15361, 'legal_strict_interior_gaps': 384587, 'distinct_new_interior_signatures': 1838, 'empty_interval': 1672, 'duplicate_or_endpoint_frame_signature': 382749, 'frame_assignments': 609} 51.43112079100683

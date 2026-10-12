@@ -1,0 +1,23 @@
+{
+  "initial_run": {
+    "status": "FAILED_ASSERTION",
+    "reason": "SciPy int32 capacity overflow selected a fixed anchor",
+    "accepted_result": false
+  },
+  "first_correction": {
+    "status": "COMPLETE_1022_EMPTY_CUTS",
+    "remaining_defect": "Scatter predecessor equality omitted, enlarging feasible graph domain"
+  },
+  "pre_anchor_neutral_walk": {
+    "status": "INTENTIONALLY_INTERRUPTED",
+    "reason": "Independent audit identified missing scatter equality",
+    "accepted_neutral_steps": 2,
+    "local_profile_checks": "Both completed neutral steps passed full gk.profile; no winner claimed"
+  },
+  "final_correction": {
+    "status": "COMPLETE",
+    "repair": "Freeze last A event touching each fixed center/target scatter anchor. Dynamic finite hard capacity with int32 bounds. Exact chain inclusions; independent exhaustive controls.",
+    "direct_cuts": 1022,
+    "walk_sweeps": 8
+  }
+}

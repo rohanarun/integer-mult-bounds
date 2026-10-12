@@ -1,0 +1,57 @@
+{
+  "status": "FROZEN_CONTROLS_PASS_CONTEXT_DEFECT_REPORTED",
+  "created_utc": "2026-10-12T05:01:05.480374+00:00",
+  "file_count": 10,
+  "files": [
+    {
+      "path": "ANCHOR-GAP.json",
+      "bytes": 1645,
+      "sha256": "89983a44fd3edd59605d971b77c54711b4e6bfc274e9aa4955fde35bf383300a"
+    },
+    {
+      "path": "CASES.json",
+      "bytes": 4056852,
+      "sha256": "d037f5591a7cd83365c0518c389c2f876e6b14cd8948cd89e2b4050d9a1b0d45"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5183,
+      "sha256": "131b20181a2e02969bb74e77f1f6e46e8a581c7d848592faec2e5f08ac235bd4"
+    },
+    {
+      "path": "RESULT.json",
+      "bytes": 692,
+      "sha256": "86b963e478f7842dc7f88df6f93692c7db8c6e50b23c10e986e9357381a1504c"
+    },
+    {
+      "path": "ROOT-SOURCE.py.txt",
+      "bytes": 6322,
+      "sha256": "cef3c20d40f32f59def690ec8711fce6b9ae2e71cb3ff79f7ee95b6f388f524a"
+    },
+    {
+      "path": "SUPPLIER-ANCHOR-CONTROLS.json",
+      "bytes": 656,
+      "sha256": "cef114a88aa24ae994f1a8fe759541ed81948f5ca14f17392362863059b981f2"
+    },
+    {
+      "path": "check.py",
+      "bytes": 7932,
+      "sha256": "85647c31566a631e92f0db3846f364eb666da7fa5aa20f67a8949488fe0f80bd"
+    },
+    {
+      "path": "check_supplier_anchors.py",
+      "bytes": 1401,
+      "sha256": "c57bddcdd800a6f3c660bfeb7cac33faaafc42aaa92a8776b2ed40c73a6024a4"
+    },
+    {
+      "path": "run.log",
+      "bytes": 775,
+      "sha256": "c2d89075a991c0bcf4adcd7da8050ce09fdb632894a83253baa72fe2308b8cdc"
+    },
+    {
+      "path": "supplier-anchor-run.log",
+      "bytes": 656,
+      "sha256": "cef114a88aa24ae994f1a8fe759541ed81948f5ca14f17392362863059b981f2"
+    }
+  ]
+}

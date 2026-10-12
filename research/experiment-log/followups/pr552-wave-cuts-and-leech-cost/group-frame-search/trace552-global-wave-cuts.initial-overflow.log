@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/search552_global_wave_cuts.py", line 71, in <module>
+    selected=[k for k in seen if k<N and active[k]];assert all(nodes[k]['sec']for k in selected)
+                                                           ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

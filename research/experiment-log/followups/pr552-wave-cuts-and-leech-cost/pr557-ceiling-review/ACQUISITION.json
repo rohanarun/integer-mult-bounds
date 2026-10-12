@@ -1,0 +1,258 @@
+{
+  "head": "a1e805c528884818ddf7d730024c1d8de9660f81",
+  "files": [
+    {
+      "path": ".github/workflows/frame-domain-ceiling.yml",
+      "git_blob": "bf0fbcf477864804889d49f88765e9bffa20aeaa",
+      "bytes": 1029,
+      "sha256": "f1b97f135bd0dfccd2c089ffc52f6f8fb140d506d512b588668253a76774f578"
+    },
+    {
+      "path": "research/frame-domain-ceiling-validation/CROSS-PLATFORM.json",
+      "git_blob": "32442b47123316b0a1683eabe441204ff02605b0",
+      "bytes": 505,
+      "sha256": "e81a54c1f5d7b2ec30c698a4bc461a53af734ea454f45b5596c1161e20980663"
+    },
+    {
+      "path": "research/frame-domain-ceiling-validation/README.md",
+      "git_blob": "c5e3b7a5892730f2287f52a94bf85865a914b8d5",
+      "bytes": 309,
+      "sha256": "de0ca8bfe08bf7a48293fd5690bc28188797fbf61c67c189f6e193d54fd5c968"
+    },
+    {
+      "path": "research/frame-domain-ceiling-validation/linux-python311/RECEIPT.json",
+      "git_blob": "3c62ca2a5bac4a101733ae8eeaaf5092f304960b",
+      "bytes": 2162,
+      "sha256": "fab37e8a3de05702eecbd9e6c49acfde6158ff8b449b0174e0ca8f4bb6dddce9"
+    },
+    {
+      "path": "research/frame-domain-ceiling-validation/linux-python311/RESULT.json",
+      "git_blob": "406a92403d6afc2dcc29ffcb6b1f5cf390637ba6",
+      "bytes": 20526,
+      "sha256": "cf8a5b239b947e0a5cac2a3a76cde1e6d7e444a5874e4874fcdbd4b5ffa63f80"
+    },
+    {
+      "path": "research/frame-domain-ceiling-validation/macos-python314/RECEIPT.json",
+      "git_blob": "2dfff28730fa2896be955abbf4ea87252b61f960",
+      "bytes": 2180,
+      "sha256": "07b0b04a5dace6835ee9569bfa9dbdba073bb075aa36b78cfbb1de611c3a3f5a"
+    },
+    {
+      "path": "research/frame-domain-ceiling-validation/macos-python314/RESULT.json",
+      "git_blob": "406a92403d6afc2dcc29ffcb6b1f5cf390637ba6",
+      "bytes": 20526,
+      "sha256": "cf8a5b239b947e0a5cac2a3a76cde1e6d7e444a5874e4874fcdbd4b5ffa63f80"
+    },
+    {
+      "path": "research/frame-domain-ceiling/LICENSE",
+      "git_blob": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "research/frame-domain-ceiling/MANIFEST.json",
+      "git_blob": "1c0f729d7bfabf80a60b90c5d01ed41a6591a394",
+      "bytes": 3272,
+      "sha256": "ca5edf94ca06fd0f0a31b46df45a3bc7bbb0da26fcf73ec9f81da2b7dfa33fda"
+    },
+    {
+      "path": "research/frame-domain-ceiling/NOTICE.md",
+      "git_blob": "14a51d2f0db5654a1c532ff8f9ddc62b3d0d2be6",
+      "bytes": 575,
+      "sha256": "1b01ebf560aaa89efedf7d7d4f1403ffb0442a02080387e5b3cc5905ab4c449d"
+    },
+    {
+      "path": "research/frame-domain-ceiling/PROOF.md",
+      "git_blob": "1ac90f7c71598b9748034ec2a260be329182d58c",
+      "bytes": 6197,
+      "sha256": "472ac6aeeb9661bae30c5ffd039a0a47701240ef7f4887f5e8e50e78681aa8f0"
+    },
+    {
+      "path": "research/frame-domain-ceiling/README.md",
+      "git_blob": "d17d1ab72ddac3e0ca8287b7b1961f2f29694be6",
+      "bytes": 1503,
+      "sha256": "fb2cc676adbc85307303c2bd9fe71b3a693d612ccfe037800d5d44a23535fa7a"
+    },
+    {
+      "path": "research/frame-domain-ceiling/SOURCES.json",
+      "git_blob": "b3f0fa35a3f45064aa288649745458a0da0684a2",
+      "bytes": 6343,
+      "sha256": "9c2d62d522b797f219c4d6753b68bdfa0e5d179dcd3dc9c5226d8b54be46df9a"
+    },
+    {
+      "path": "research/frame-domain-ceiling/code/apply_syndrome.py",
+      "git_blob": "6fd085c5ed7ffbb0ccf34cd80d55e182db19f9a6",
+      "bytes": 1857,
+      "sha256": "496a91b9da15ef56e6df28a0459ca8318a4575441c7921e113bf636f31e3c5d8"
+    },
+    {
+      "path": "research/frame-domain-ceiling/code/build_frames.py",
+      "git_blob": "d6df615274e330f89ca707dcdf785173255ad42c",
+      "bytes": 2418,
+      "sha256": "1d9cea15d89dd86c171ca6bc0e6d6e97128fd6b54528b80f70ac8e800a491cb6"
+    },
+    {
+      "path": "research/frame-domain-ceiling/code/check_duals.py",
+      "git_blob": "c9495c530cdde28b72dda7f6f20084d294afc97f",
+      "bytes": 10467,
+      "sha256": "5f32bee380d65d1f2c333b1645cf8072d690021ea0b0890058fb9961a78cf6e0"
+    },
+    {
+      "path": "research/frame-domain-ceiling/code/port_frames.py",
+      "git_blob": "bd9187bd060ffb8e5fc80596d4f866492fbdef05",
+      "bytes": 2750,
+      "sha256": "8d25abc9c45c58a5b893e67f9abec3a660e8d7f743e86959f2d2fd62037e23d1"
+    },
+    {
+      "path": "research/frame-domain-ceiling/code/run.py",
+      "git_blob": "7630f0c0af3d58216c5443cca5b1f29a4a166c82",
+      "bytes": 700,
+      "sha256": "a32781a6319b96759aa8be71b3a797463051ebdedeba289a08ff3d88fa129f35"
+    },
+    {
+      "path": "research/frame-domain-ceiling/code/slice.py",
+      "git_blob": "f9284db0e133994428e83390b6a80b3945f2f9bb",
+      "bytes": 3148,
+      "sha256": "a0065c32b6c5ae302a341d7c6ade2171db8005767105cea93e077b893069922c"
+    },
+    {
+      "path": "research/frame-domain-ceiling/data/DUALS.json.gz",
+      "git_blob": "cf0bdceea5890eee2e3d8b56e40e176233173be6",
+      "bytes": 51441,
+      "sha256": "cb2322855a409d6a0d0ac949b8bbd399c880d15a149bff5244ee26c200e4ff79"
+    },
+    {
+      "path": "research/frame-domain-ceiling/data/PR534-WORD.json.gz",
+      "git_blob": "965888339a0ac249031cde058c44d3f40771d303",
+      "bytes": 38085,
+      "sha256": "a275792cb9f5729fac295cb04c556afbaa4513945c517190219fd0e44ab90095"
+    },
+    {
+      "path": "research/frame-domain-ceiling/data/PR551-EXPECTED.json",
+      "git_blob": "334adb435cc03d0f144bf5cb1b9b77594e377a7a",
+      "bytes": 1241,
+      "sha256": "243881e1b3f910bed5ecc0b4f93f7dfdfa14e6826c3707b2ee301cb05c14b00d"
+    },
+    {
+      "path": "research/frame-domain-ceiling/data/RECIPE.json",
+      "git_blob": "0c303e63b1b38fcb4e136c115e6825b99a1fd072",
+      "bytes": 14467,
+      "sha256": "b9458db2bcc82afd3ff5246b9975a7a23fdbda58e6ac8de45472aff832f383d2"
+    },
+    {
+      "path": "research/frame-domain-ceiling/engines/base_two_moment.py",
+      "git_blob": "14a90fa0e788217856f070382c9e61bd7c603c61",
+      "bytes": 1742,
+      "sha256": "aee70c242a2f1d225528fabe2002e1564d1dc884797c07d28a831c7878ee9098"
+    },
+    {
+      "path": "research/frame-domain-ceiling/engines/moment.py",
+      "git_blob": "7d697cb45203fe72d97037403d6da41f71f3b7fd",
+      "bytes": 5562,
+      "sha256": "81cbc864e106418fc7854322746f72180cb8110ff39f74450a3b8d55a82c1482"
+    },
+    {
+      "path": "research/frame-domain-ceiling/engines/outer.py",
+      "git_blob": "43007488ad2c43187c77cc6798beff8b1cd76ad2",
+      "bytes": 3535,
+      "sha256": "c1ebb52163a7219504c728a5c2b098bf1e50bf20148a2879c5a74c3cadc7c03c"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/LICENSE",
+      "git_blob": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/META-SOURCES.json",
+      "git_blob": "8cbd32f8bd6437c1e2f08ac9e49395708a0c78fd",
+      "bytes": 932,
+      "sha256": "c8aeb9313f2c671a9a8766c249ceb6cffa106dfdab3ab761da8e8c534b115090"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/NOTICE-upstream.md",
+      "git_blob": "f42e0eed8584ad7d472c458aa875c29d1cd5ed86",
+      "bytes": 3576,
+      "sha256": "1547136e6d269fdcef2b68c10a97a786a79a4732a12738363f679bfb282430cd"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/PROOF.md",
+      "git_blob": "1d43cf78f4a7a394710db7c367a857f317171617",
+      "bytes": 8848,
+      "sha256": "abfa6548b223893866094631aed61174575dc1b17bdd60627b2c55e6b9477e4f"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/README.md",
+      "git_blob": "6aed83ec92333c21d79e96c2cc4da1cb9ecd409a",
+      "bytes": 1033,
+      "sha256": "51d6ef7ad3e12e72daf29e0260a11cd985a0148fe1efa0574a533dae726c553c"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/RECIPE.json",
+      "git_blob": "68c751bb56f3f1c7121ba5f269357e78668d7ea6",
+      "bytes": 2557,
+      "sha256": "8735ac9beadff3edcb4a4df8dae174415e0f83d9b4df8556c33ba7fd777505fa"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/SOURCE-MANIFEST.json",
+      "git_blob": "468918ea5832305d225c51457dc73088496328b9",
+      "bytes": 1234,
+      "sha256": "4f5d92b4cd76eff0845a9f14d33131441535a232b5c91f00535aa076d44c45a8"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/audit_scalar.py",
+      "git_blob": "834e8b510388e6b79cbbede33abcd38ac5203e59",
+      "bytes": 2756,
+      "sha256": "a1cd720d281c7a9db7f17919c637cdcb8558e9f3c96e929706f0c21f317a7943"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/build.py",
+      "git_blob": "de6484973953d9e5dc8109a3492fa8cb69db4529",
+      "bytes": 2875,
+      "sha256": "b15192ff50fd99f5ca3cb5857b5e129c98a212de60ae76aafb1614139743c35a"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/gk/gk_common.py",
+      "git_blob": "0e5fde920d29106232776eb56347297c0d40fa72",
+      "bytes": 5016,
+      "sha256": "e68d190fd436b2f3955decb590adb53344d5d4ea0a19d62d86df1e4b55ecd198"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/gk/gk_word.py",
+      "git_blob": "15782ba625e438a3c707718fa51796ec1937018f",
+      "bytes": 10009,
+      "sha256": "f027a9273bcf4e0971258c160b7d3b3c196366b32a529cff6e6a0e666b03826b"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/inputs/BASE535.json.gz",
+      "git_blob": "bcc1647b7d4ad8ae3ae2acbb31d3591c0d49467f",
+      "bytes": 36660,
+      "sha256": "edfffb8e8735e0d1f07c81d818022b705ef0889c2bccc193a2f7a661b9f7d390"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/inputs/OLD-RECIPE.json",
+      "git_blob": "52d4b5f3827b456b1c0eb457462bc3ab7045c509",
+      "bytes": 17432,
+      "sha256": "7e5c179246261edd9e1019e81e6e979537f02559da773b993a318f771cb7d763"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/inputs/RAW504.json.gz",
+      "git_blob": "903eeb216176a7c5fd6d26f875a63e89a79b37bb",
+      "bytes": 32146,
+      "sha256": "1c6144791dbedf6427e3ee7b4c24fb05b5bf407f6346592f50f8dd8d9638108d"
+    },
+    {
+      "path": "research/frame-domain-ceiling/vendor/static44/replay.py",
+      "git_blob": "ef5642ccfda5c30d869a3bc7e2aa30ae023e20b1",
+      "bytes": 834,
+      "sha256": "fd1ce7d1f8974b473aef8c6cec1e0c590e01d0d215b073e5573a771ce42fc74d"
+    },
+    {
+      "path": "research/frame-domain-ceiling/verify.py",
+      "git_blob": "71616170d56b7f171b89c6f7211c6bd5f1a94bc5",
+      "bytes": 3055,
+      "sha256": "d93370c4f2e145335f58b11a16024c597188e90db5e922470eeea010b6316e72"
+    }
+  ],
+  "timestamp": "2026-10-12T05:02:43.987580+00:00"
+}

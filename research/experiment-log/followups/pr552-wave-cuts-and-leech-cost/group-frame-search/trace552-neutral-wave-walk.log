@@ -1,0 +1,11 @@
+SWEEP 0 contract best -1.214306433183765e-17 seconds 21.38268037501257
+SWEEP 0 extend best -1.214306433183765e-17 seconds 37.13709004200064
+MOVE -1.214306433183765e-17 contract 6 24 {1: 2300, 4: 184, 8: 8, 3: 472, 2: 440, 6: 56, 5: 56}
+SWEEP 1 contract best 1.734723475976807e-18 seconds 51.310109750018455
+SWEEP 1 extend best 1.0408340855860843e-17 seconds 66.11971983406693
+MOVE 1.0408340855860843e-17 extend 507 28 {1: 2300, 4: 184, 8: 8, 3: 472, 2: 440, 6: 56, 5: 56}
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/search552_neutral_wave_walk.py", line 44, in <module>
+    changed={F:transform(F,v)for F in set(frames)};active=[changed[F]!=F for F in frames];caps=defaultdict(int);constant=0.0
+               ~~~~~~~~~^^^^^
+KeyboardInterrupt

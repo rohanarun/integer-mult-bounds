@@ -1,0 +1,63 @@
+[
+ {
+  "id": "claude-1012-sq-01",
+  "category": "two-call-joint-label-space",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR579 (chafreaky); P575 provider word",
+   "value": "0.001601260169988325",
+   "scope": "complex-bound"
+  },
+  "hypothesis": "Two calls share a BW16 label space so cross-call terms enter as rank-8 blocks.",
+  "command_or_script": "README.md",
+  "parameters": {},
+  "seeds": [],
+  "status": "bounded_infeasible",
+  "result": {
+   "blocker": "m = 8h+1 is fixed by the outer interface (h=9, m=73); calls share no data"
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Exact rational replay of the rebuilt PR575 width7-joint word; frame chains by direct simulation.",
+  "evidence": [
+   "README.md"
+  ],
+  "do_not_repeat_scope": "Factory-level two-call fusion.",
+  "retry_when": "A framework change to h/m with re-derived outer assembly.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-sq-02",
+  "category": "shared-quartet-sums",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR579 (chafreaky); P575 provider word",
+   "value": "0.001601260169988325",
+   "scope": "complex-bound"
+  },
+  "hypothesis": "Helpers rebuild quartet sums that another register already holds; building them once and delivering them as rank-4 blocks removes rank-1 climbs.",
+  "command_or_script": "reuse2.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "bounded_no_gain",
+  "result": {
+   "distinct_sums": 1812,
+   "built_by_one_register": 1532,
+   "independent_rebuilds_from_sources": 70,
+   "clean_rewrites": 0
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Exact rational replay of the rebuilt PR575 width7-joint word; frame chains by direct simulation.",
+  "evidence": [
+   "reuse2.py"
+  ],
+  "do_not_repeat_scope": "Shared-sum rewrites on PR575-lineage words.",
+  "retry_when": "A new decomposition with a different required-sum set.",
+  "supersedes": null
+ }
+]

@@ -1,0 +1,1 @@
+PASS_EXACT_FIXED_MAP_THREE_BIN_CYCLE_OBSTRUCTION {'total_group_triples': 15625, 'capacity_infeasible': 12822, 'unrealizable_distinct_bins': 236, 'majorization_proved': 2567} unresolved 0

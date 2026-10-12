@@ -1,0 +1,30 @@
+{
+  "status": "COMPLETE_SINGLE_EVENT_ENDPOINT_SCREEN",
+  "source_sha256": "72382a6d6f6f60c09ff2cb157b43b914393b8fddd97b2de368fc13acbd2b4e2c",
+  "events": 3896,
+  "probes": 469,
+  "sweeps": 1,
+  "changes": [],
+  "before": {
+    "1": 2285,
+    "4": 169,
+    "8": 8,
+    "3": 487,
+    "2": 455,
+    "6": 56,
+    "5": 56
+  },
+  "after": {
+    "1": 2285,
+    "4": 169,
+    "8": 8,
+    "3": 487,
+    "2": 455,
+    "6": 56,
+    "5": 56
+  },
+  "fee_delta": 0.0,
+  "terminated_no_strict_endpoint_gain": true,
+  "seconds": 0.16089804202783853,
+  "scope": "Every feasible single-event frame has dimension between join(predecessors) and meet(successors). Concavity makes an endpoint minimize its discovery fee with others fixed. All binary subspace inclusions checked exactly, cost comparison floating. No neutral moves, simultaneous moves, new scalar words, physical admission or kappa claim."
+}

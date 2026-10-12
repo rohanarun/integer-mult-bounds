@@ -1,0 +1,8 @@
+{
+  "status": "PASS_RECOVERED_PR550_EXACT_UNCOMPRESSED_WORD",
+  "pr548_input_sha256": "29b11448963546b959bda379d82711c25f768d5579dcd6bc004887de808e8ae6",
+  "recovered_content_sha256": "6a02824c7484b9fd768a39d87b9c65dbe5221a877032ed1f74d11afb2acdd7d8",
+  "expected_content_sha256": "6a02824c7484b9fd768a39d87b9c65dbe5221a877032ed1f74d11afb2acdd7d8",
+  "exact_content_match": true,
+  "source_pr550_head": "c7337040822978f1611ce9d9d44e7bb96d887e23"
+}

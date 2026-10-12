@@ -1,0 +1,40 @@
+{
+  "status": "PASS_INDEPENDENT_ASYNC_OWNERS_AND_PROFILE",
+  "template_sha256": "e168c4b90b9ac1a30e32bf9f9b766662db3a6d8ec21572d7b2fd21e8df8e6bbc",
+  "paid_profile": {
+    "1": 163872,
+    "2": 37456,
+    "3": 31011,
+    "4": 14688,
+    "5": 4032,
+    "6": 4032,
+    "7": 208,
+    "8": 576,
+    "39": 1,
+    "48": 1660
+  },
+  "live": 7168,
+  "physical": 7682,
+  "rank_mass": 520704,
+  "deficit": 2560,
+  "hosted_residuals": 36288,
+  "banked_residuals": 0,
+  "all_live_owners_per_call_distinct": true,
+  "owners_per_call": 728,
+  "actual_helper_owner_charts": 36288,
+  "actual_73column_sigmas": 2972,
+  "cross_replica_helper_roles": 28243,
+  "explicit_idle_remainder_children": 4240,
+  "source_idle_children_charged": 16128,
+  "source_artifacts": {
+    "split-centres/CANONICAL-WORD.json.gz": "0ab4726d4c040b0e0a63e6378bcabd4c8a1130d29c361de597f4806074714e61",
+    "split-centres/LOCAL-PROGRAMS.json.gz": "a1b37d63709650831cf4b0131155dc5a97d1ef42b4990e915aac083e63deba1d",
+    "split-centres/LOCAL-CHECKS.json": "214197fca11cdf2b228ccc84573064b82db941e307e4a842935547d2e338bc33",
+    "split-centres/RESIDUAL-ADAPTERS.json": "b262cd985dd77c6ed6c298680b915630e72f76a6fa41438729af1dfe4b497cfb",
+    "split-centres/CLIFFORD-RECIPES.json": "8ab3edb7b1f9ef81a526aac58a71be4fd1f572a8a13d29c220731c30f9e6e307",
+    "split-centres/CLIFFORD-REVIEW.json": "356c5a9754c9c62d5f514d7b3c30f0b15fc435dd4a75d30d1fe1fb7904d80d97",
+    "split-centres/INDEPENDENT-LOCAL-REPLAY.json": "83bb684c2d2ff9a003fa47530face33a7cd76b40c871e79e3e3c87e0ffe40f77",
+    "work/complex-nine-native/DATA-PHASES.json": "c5916ff312678f12aba403847643fbbc29f643acec60bdf836fa56cd3e8251fa"
+  },
+  "controller_audit_sha256": "643f6bd805129cffa6f71ff97c37ef61a85b25bf2dce6580340b778216d58208"
+}

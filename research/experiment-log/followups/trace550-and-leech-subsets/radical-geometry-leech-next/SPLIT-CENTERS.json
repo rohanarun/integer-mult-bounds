@@ -1,0 +1,59 @@
+[
+  {
+    "ports": 33,
+    "binary_dimension": 26,
+    "initial_nonzero_centers": 6,
+    "centers_after_split": 7,
+    "splits_by_original_coordinate": {
+      "0": 2,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "7": 1,
+      "9": 1
+    },
+    "all_centers_gather_in_proper_hyperplanes": true,
+    "transfer_preserved_exactly": true,
+    "scope": "Exact scalar factorization and binary cap witnesses; no chronological dirty-word/frame/phase/global admission."
+  },
+  {
+    "ports": 52,
+    "binary_dimension": 44,
+    "initial_nonzero_centers": 9,
+    "centers_after_split": 10,
+    "splits_by_original_coordinate": {
+      "0": 2,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "12": 1
+    },
+    "all_centers_gather_in_proper_hyperplanes": true,
+    "transfer_preserved_exactly": true,
+    "scope": "Exact scalar factorization and binary cap witnesses; no chronological dirty-word/frame/phase/global admission."
+  },
+  {
+    "ports": 80,
+    "binary_dimension": 59,
+    "initial_nonzero_centers": 9,
+    "centers_after_split": 10,
+    "splits_by_original_coordinate": {
+      "0": 2,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 1
+    },
+    "all_centers_gather_in_proper_hyperplanes": true,
+    "transfer_preserved_exactly": true,
+    "scope": "Exact scalar factorization and binary cap witnesses; no chronological dirty-word/frame/phase/global admission."
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "ports": 33,
+    "binary_label_dimension": 26,
+    "distinct_labels": 33,
+    "required_orthogonal_cap_checks_pass": true,
+    "center_gathering_span_ranks": {
+      "0": 26,
+      "1": 7,
+      "2": 4,
+      "3": 4,
+      "7": 12,
+      "9": 6
+    },
+    "all_nonzero_centers_admit_proper_hyperplane": false,
+    "status": "CORRECTION_CAPS_PASS_CENTER_GATHERING_FAIL",
+    "scope": "Exact binary labels, scalar transfer diagonal and required correction caps. No frame-chain scheduling, dirty helper word, scalar phase or global invoice checked."
+  },
+  {
+    "ports": 52,
+    "binary_label_dimension": 44,
+    "distinct_labels": 52,
+    "required_orthogonal_cap_checks_pass": true,
+    "center_gathering_span_ranks": {
+      "0": 44,
+      "4": 19,
+      "5": 13,
+      "6": 8,
+      "7": 6,
+      "8": 2,
+      "9": 2,
+      "10": 1,
+      "12": 1
+    },
+    "all_nonzero_centers_admit_proper_hyperplane": false,
+    "status": "CORRECTION_CAPS_PASS_CENTER_GATHERING_FAIL",
+    "scope": "Exact binary labels, scalar transfer diagonal and required correction caps. No frame-chain scheduling, dirty helper word, scalar phase or global invoice checked."
+  },
+  {
+    "ports": 80,
+    "binary_label_dimension": 59,
+    "distinct_labels": 80,
+    "required_orthogonal_cap_checks_pass": true,
+    "center_gathering_span_ranks": {
+      "0": 59,
+      "1": 28,
+      "2": 20,
+      "3": 16,
+      "4": 6,
+      "5": 4,
+      "6": 2,
+      "7": 2,
+      "8": 2
+    },
+    "all_nonzero_centers_admit_proper_hyperplane": false,
+    "status": "CORRECTION_CAPS_PASS_CENTER_GATHERING_FAIL",
+    "scope": "Exact binary labels, scalar transfer diagonal and required correction caps. No frame-chain scheduling, dirty helper word, scalar phase or global invoice checked."
+  }
+]

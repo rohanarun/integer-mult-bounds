@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETE_ALL_DISTANCE_TWO_TO_THREE_SCREEN",
+  "source_sha256": "72382a6d6f6f60c09ff2cb157b43b914393b8fddd97b2de368fc13acbd2b4e2c",
+  "source_pr550_head": "c7337040822978f1611ce9d9d44e7bb96d887e23",
+  "stats": {
+    "algebraic_pairs": 18105,
+    "commuting_pairs_directions": 4203,
+    "frame_assignments": 1782,
+    "commutation_rejected": 32007,
+    "empty_interval": 2738,
+    "full_profile_rejected": 4
+  },
+  "nominations": [],
+  "seconds": 0.5404396660160273,
+  "scope": "Both exact-commuting placements for all algebraic pairs; common replacement frame only, exhaustive intervals through quotient dimension3. Positive full gk.profile candidates still require independent scalar/physical/price admission."
+}

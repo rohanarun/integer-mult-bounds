@@ -1,0 +1,53 @@
+[
+  {
+    "level": 1,
+    "ports": 176,
+    "column_support_histogram": {
+      "56": 176
+    },
+    "directed_offdiagonal": 9680,
+    "binary_gram_rank_all_free_entries_one": 176,
+    "scope": "H is an exact symmetric completion with diagonal1 and zeros at every forced correction edge. Rank is for this completion, not a minimum."
+  },
+  {
+    "level": 2,
+    "ports": 120,
+    "column_support_histogram": {
+      "40": 120
+    },
+    "directed_offdiagonal": 4680,
+    "binary_gram_rank_all_free_entries_one": 119,
+    "scope": "H is an exact symmetric completion with diagonal1 and zeros at every forced correction edge. Rank is for this completion, not a minimum."
+  },
+  {
+    "level": 3,
+    "ports": 80,
+    "column_support_histogram": {
+      "28": 80
+    },
+    "directed_offdiagonal": 2160,
+    "binary_gram_rank_all_free_entries_one": 80,
+    "scope": "H is an exact symmetric completion with diagonal1 and zeros at every forced correction edge. Rank is for this completion, not a minimum."
+  },
+  {
+    "level": 4,
+    "ports": 52,
+    "column_support_histogram": {
+      "19": 52
+    },
+    "directed_offdiagonal": 936,
+    "binary_gram_rank_all_free_entries_one": 51,
+    "scope": "H is an exact symmetric completion with diagonal1 and zeros at every forced correction edge. Rank is for this completion, not a minimum."
+  },
+  {
+    "level": 5,
+    "ports": 33,
+    "column_support_histogram": {
+      "13": 15,
+      "12": 18
+    },
+    "directed_offdiagonal": 378,
+    "binary_gram_rank_all_free_entries_one": 33,
+    "scope": "H is an exact symmetric completion with diagonal1 and zeros at every forced correction edge. Rank is for this completion, not a minimum."
+  }
+]

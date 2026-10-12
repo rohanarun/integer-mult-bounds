@@ -1,0 +1,2 @@
+A {'algebraic_pairs': 13714, 'commuting_pairs_directions': 1713, 'frame_assignments': 1132, 'commutation_rejected': 25715, 'empty_interval': 754, 'full_profile_rejected': 4} 0.37387283297721297
+B {'algebraic_pairs': 18105, 'commuting_pairs_directions': 4203, 'frame_assignments': 9130, 'commutation_rejected': 32007, 'empty_interval': 2738, 'full_profile_rejected': 4, 'interval_dim_gt3_partial': 64} 1.7749519579811022

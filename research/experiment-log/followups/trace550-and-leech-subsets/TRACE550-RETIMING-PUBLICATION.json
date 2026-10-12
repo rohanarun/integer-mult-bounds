@@ -1,0 +1,7 @@
+{
+  "branch": "codex/trace550-joint-retiming",
+  "commit": "398b3be0a2822c9a57980fdc76594ec5a2638a1a",
+  "base": "db0e57bc7f36b5ac0fc844ad7ce1396165ee6647",
+  "files": 92,
+  "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/554"
+}

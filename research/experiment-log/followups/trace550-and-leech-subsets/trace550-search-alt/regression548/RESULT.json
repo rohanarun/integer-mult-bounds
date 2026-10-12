@@ -1,0 +1,232 @@
+{
+  "status": "COMPLETE_ALL_DISTANCE_TWO_TO_THREE_SCREEN",
+  "source_sha256": "29b11448963546b959bda379d82711c25f768d5579dcd6bc004887de808e8ae6",
+  "stats": {
+    "algebraic_pairs": 18098,
+    "commuting_pairs_directions": 4201,
+    "frame_assignments": 1781,
+    "commutation_rejected": 31995,
+    "empty_interval": 2738,
+    "full_profile_rejected": 4,
+    "positive_full_profile_nominations": 2
+  },
+  "nominations": [
+    {
+      "section": "B",
+      "positions": [
+        936,
+        1048
+      ],
+      "direction": "later_left",
+      "registers": [
+        616,
+        283,
+        299
+      ],
+      "old": [
+        [
+          "add",
+          283,
+          299,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6,
+            1
+          ]
+        ],
+        [
+          "add",
+          616,
+          283,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6,
+            1
+          ]
+        ]
+      ],
+      "new": [
+        [
+          "add",
+          616,
+          283,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6
+          ]
+        ],
+        [
+          "add",
+          616,
+          299,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6
+          ]
+        ],
+        [
+          "add",
+          283,
+          299,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6
+          ]
+        ]
+      ],
+      "delta": {
+        "3": -1,
+        "1": 1,
+        "2": -1,
+        "4": 1
+      },
+      "fee_delta": -0.0013807499551463653,
+      "profile": {
+        "1": 2285,
+        "4": 169,
+        "8": 8,
+        "3": 487,
+        "2": 455,
+        "6": 56,
+        "5": 56
+      },
+      "distance": 112,
+      "scalar_3x3_exact": true
+    },
+    {
+      "section": "B",
+      "positions": [
+        936,
+        1048
+      ],
+      "direction": "earlier_right",
+      "registers": [
+        616,
+        283,
+        299
+      ],
+      "old": [
+        [
+          "add",
+          283,
+          299,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6,
+            1
+          ]
+        ],
+        [
+          "add",
+          616,
+          283,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6,
+            1
+          ]
+        ]
+      ],
+      "new": [
+        [
+          "add",
+          616,
+          283,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6
+          ]
+        ],
+        [
+          "add",
+          616,
+          299,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6
+          ]
+        ],
+        [
+          "add",
+          283,
+          299,
+          1,
+          1,
+          [
+            290,
+            162,
+            98,
+            24,
+            6
+          ]
+        ]
+      ],
+      "delta": {
+        "3": -1,
+        "1": 1,
+        "2": -1,
+        "4": 1
+      },
+      "fee_delta": -0.0013807499551463653,
+      "profile": {
+        "1": 2285,
+        "4": 169,
+        "8": 8,
+        "3": 487,
+        "2": 455,
+        "6": 56,
+        "5": 56
+      },
+      "distance": 112,
+      "scalar_3x3_exact": true
+    }
+  ],
+  "seconds": 0.6912374580278993,
+  "scope": "Both exact-commuting placements for all algebraic pairs; common replacement frame only, exhaustive intervals through quotient dimension3. Positive full gk.profile candidates still require independent scalar/physical/price admission.",
+  "source_pr548_head": "66dbc2bffc1bfa8d50b3f9a2ac7ccba8fd9f6f36"
+}

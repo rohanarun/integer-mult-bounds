@@ -1,0 +1,27 @@
+{
+  "status": "PASS_INDEPENDENT_SCALAR_LABEL_AND_CENTER_CAP_WITNESSES",
+  "results": [
+    {
+      "ports": 33,
+      "labels_dimension": 26,
+      "centers": 7,
+      "odd_label_mutant_rejected": true,
+      "wrong_center_normal_rejected": true
+    },
+    {
+      "ports": 52,
+      "labels_dimension": 44,
+      "centers": 10,
+      "odd_label_mutant_rejected": true,
+      "wrong_center_normal_rejected": true
+    },
+    {
+      "ports": 80,
+      "labels_dimension": 59,
+      "centers": 10,
+      "odd_label_mutant_rejected": true,
+      "wrong_center_normal_rejected": true
+    }
+  ],
+  "scope": "Finite ingredients only. Chronological frame chains, arbitrary-dirt helper restoration, phases, adapters, global hosting and pricing remain unbuilt."
+}

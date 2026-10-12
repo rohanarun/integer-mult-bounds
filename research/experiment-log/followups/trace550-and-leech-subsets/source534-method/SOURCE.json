@@ -1,0 +1,9 @@
+{
+  "repo": "rohanarun/integer-mult-bounds",
+  "head": "768183a86a8c961621702547042579eb9f376c2c",
+  "files": {
+    "research/frame-sa504/code/frame_chain_search.py": "013174d8aedaf0132ba590ed59908ba1a17fe171",
+    "research/frame-sa504/code/check_frame_lifts.py": "69fa300bb1c01e1290da23e0775ca37900e79522",
+    "research/frame-sa504/evidence/local/FULL-WORD.json.gz": "bd9df9d10845e679cc01c6f587b9937e5e863191"
+  }
+}

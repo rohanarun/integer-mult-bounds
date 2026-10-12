@@ -1,0 +1,7 @@
+{
+  "input": "radical-geometry-leech/WITNESSES.json.gz",
+  "sha256": "48cee297fd9c2a5e56f924cd67beaa47bd4c8e937b4c3ed04fdfd28224bf2cae",
+  "origin": "Prior exact276-line Leech slice; no new full lattice census.",
+  "frontier_reference": "https://github.com/CrocSwap/integer-mult-bounds/pull/550",
+  "frontier_scope": "Reported comparison target only; no kappa calculated here."
+}

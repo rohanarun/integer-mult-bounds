@@ -1,0 +1,12 @@
+{
+  "status": "COMPLETE_ALL_DISTANCE_THREE_TO_TWO_SCREEN",
+  "stats": {
+    "exact_coefficient_triples": 5741,
+    "commutation_rejected": 11102,
+    "commuting_triples_directions": 380,
+    "frame_assignments": 384
+  },
+  "nominations": [],
+  "seconds": 0.16250950004905462,
+  "scope": "Exact coefficient and3x3identity triples; all-left/all-right exact commuting gathers; nested two-frame intervals exhaustive quotientdim<=3, larger intervals selected frames only; no physical admission."
+}

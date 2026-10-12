@@ -1,0 +1,206 @@
+{
+  "status": "COMPLETE_BOUNDED_EXACT_BINARY_RANK_SEARCH",
+  "results": [
+    {
+      "ports": 33,
+      "initial_rank": 33,
+      "best_exact_rank": 26,
+      "iterations": 1054248,
+      "seconds": 12.000114417052828,
+      "free_pairs": 264,
+      "improvements": [
+        {
+          "iteration": 1,
+          "rank": 32,
+          "seconds": 1.2792064808309078e-05
+        },
+        {
+          "iteration": 3,
+          "rank": 31,
+          "seconds": 3.287498839199543e-05
+        },
+        {
+          "iteration": 18,
+          "rank": 30,
+          "seconds": 0.00016304198652505875
+        },
+        {
+          "iteration": 74,
+          "rank": 29,
+          "seconds": 0.0006945000495761633
+        },
+        {
+          "iteration": 123,
+          "rank": 28,
+          "seconds": 0.0012469589710235596
+        },
+        {
+          "iteration": 2115,
+          "rank": 27,
+          "seconds": 0.024506667046807706
+        },
+        {
+          "iteration": 7367,
+          "rank": 26,
+          "seconds": 0.08397212496493012
+        }
+      ]
+    },
+    {
+      "ports": 52,
+      "initial_rank": 51,
+      "best_exact_rank": 44,
+      "iterations": 386830,
+      "seconds": 12.000237917061895,
+      "free_pairs": 684,
+      "improvements": [
+        {
+          "iteration": 24,
+          "rank": 49,
+          "seconds": 0.00048329203855246305
+        },
+        {
+          "iteration": 57,
+          "rank": 48,
+          "seconds": 0.0011978750117123127
+        },
+        {
+          "iteration": 801,
+          "rank": 47,
+          "seconds": 0.02066237502731383
+        },
+        {
+          "iteration": 857,
+          "rank": 46,
+          "seconds": 0.02231604210101068
+        },
+        {
+          "iteration": 6368,
+          "rank": 45,
+          "seconds": 0.18757695809472352
+        },
+        {
+          "iteration": 50646,
+          "rank": 44,
+          "seconds": 1.5504449580330402
+        }
+      ]
+    },
+    {
+      "ports": 80,
+      "initial_rank": 80,
+      "best_exact_rank": 59,
+      "iterations": 245024,
+      "seconds": 12.00049691600725,
+      "free_pairs": 1712,
+      "improvements": [
+        {
+          "iteration": 2,
+          "rank": 79,
+          "seconds": 5.537504330277443e-05
+        },
+        {
+          "iteration": 8,
+          "rank": 78,
+          "seconds": 0.00025158305652439594
+        },
+        {
+          "iteration": 21,
+          "rank": 77,
+          "seconds": 0.0007132079917937517
+        },
+        {
+          "iteration": 28,
+          "rank": 76,
+          "seconds": 0.0009559160098433495
+        },
+        {
+          "iteration": 31,
+          "rank": 75,
+          "seconds": 0.001060666050761938
+        },
+        {
+          "iteration": 33,
+          "rank": 74,
+          "seconds": 0.0011326250387355685
+        },
+        {
+          "iteration": 35,
+          "rank": 73,
+          "seconds": 0.0012034160317853093
+        },
+        {
+          "iteration": 42,
+          "rank": 72,
+          "seconds": 0.0014494160423055291
+        },
+        {
+          "iteration": 44,
+          "rank": 71,
+          "seconds": 0.001522416016086936
+        },
+        {
+          "iteration": 54,
+          "rank": 70,
+          "seconds": 0.0018914160318672657
+        },
+        {
+          "iteration": 57,
+          "rank": 69,
+          "seconds": 0.0020035409834235907
+        },
+        {
+          "iteration": 66,
+          "rank": 68,
+          "seconds": 0.002341291052289307
+        },
+        {
+          "iteration": 67,
+          "rank": 67,
+          "seconds": 0.0023792500142008066
+        },
+        {
+          "iteration": 108,
+          "rank": 66,
+          "seconds": 0.003931416082195938
+        },
+        {
+          "iteration": 168,
+          "rank": 65,
+          "seconds": 0.0063680000603199005
+        },
+        {
+          "iteration": 195,
+          "rank": 64,
+          "seconds": 0.007442125002853572
+        },
+        {
+          "iteration": 198,
+          "rank": 63,
+          "seconds": 0.007562166079878807
+        },
+        {
+          "iteration": 257,
+          "rank": 62,
+          "seconds": 0.009872458060272038
+        },
+        {
+          "iteration": 375,
+          "rank": 61,
+          "seconds": 0.014620875008404255
+        },
+        {
+          "iteration": 460,
+          "rank": 60,
+          "seconds": 0.01920895802322775
+        },
+        {
+          "iteration": 31631,
+          "rank": 59,
+          "seconds": 1.6741063330555335
+        }
+      ]
+    }
+  ],
+  "scope": "Each best rank is exact for retained completion; no minimum-rank proof. Explicit dot-product labels and center gathering not yet checked."
+}

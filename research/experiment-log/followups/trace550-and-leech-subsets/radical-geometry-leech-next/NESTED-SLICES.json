@@ -1,0 +1,118 @@
+{
+  "status": "COMPLETE_EXACT_NESTED_SLICE_SCREEN_NOT_ADMISSION",
+  "seconds": 0.7266339591005817,
+  "levels": [
+    {
+      "level": 0,
+      "ports": 276,
+      "rank": 23,
+      "tight": true,
+      "coherence": "1/5",
+      "hyperplane_zero_upper_bound": 176,
+      "largest_two_coordinate_zero_set": 176,
+      "distinct_two_coordinate_zero_sets": 851,
+      "zero_set_size_histogram": {
+        "1": 23,
+        "22": 23,
+        "56": 506,
+        "77": 23,
+        "162": 253,
+        "176": 23
+      }
+    },
+    {
+      "level": 1,
+      "ports": 176,
+      "rank": 22,
+      "tight": true,
+      "coherence": "1/5",
+      "hyperplane_zero_upper_bound": 126,
+      "largest_two_coordinate_zero_set": 120,
+      "distinct_two_coordinate_zero_sets": 737,
+      "zero_set_size_histogram": {
+        "40": 462,
+        "56": 22,
+        "96": 231,
+        "120": 22
+      }
+    },
+    {
+      "level": 2,
+      "ports": 120,
+      "rank": 21,
+      "tight": false,
+      "coherence": "1/5",
+      "hyperplane_zero_upper_bound": 96,
+      "largest_two_coordinate_zero_set": 80,
+      "distinct_two_coordinate_zero_sets": 672,
+      "zero_set_size_histogram": {
+        "28": 420,
+        "40": 21,
+        "64": 210,
+        "80": 21
+      }
+    },
+    {
+      "level": 3,
+      "ports": 80,
+      "rank": 20,
+      "tight": false,
+      "coherence": "1/5",
+      "hyperplane_zero_upper_bound": 76,
+      "largest_two_coordinate_zero_set": 52,
+      "distinct_two_coordinate_zero_sets": 610,
+      "zero_set_size_histogram": {
+        "19": 320,
+        "20": 60,
+        "28": 20,
+        "40": 30,
+        "42": 160,
+        "52": 20
+      }
+    },
+    {
+      "level": 4,
+      "ports": 52,
+      "rank": 19,
+      "tight": false,
+      "coherence": "1/5",
+      "hyperplane_zero_upper_bound": 61,
+      "largest_two_coordinate_zero_set": 33,
+      "distinct_two_coordinate_zero_sets": 533,
+      "zero_set_size_histogram": {
+        "12": 96,
+        "13": 240,
+        "16": 3,
+        "19": 16,
+        "20": 3,
+        "26": 96,
+        "27": 48,
+        "28": 12,
+        "32": 3,
+        "33": 16
+      }
+    },
+    {
+      "level": 5,
+      "ports": 33,
+      "rank": 18,
+      "tight": false,
+      "coherence": "1/5",
+      "hyperplane_zero_upper_bound": 51,
+      "largest_two_coordinate_zero_set": 21,
+      "distinct_two_coordinate_zero_sets": 414,
+      "zero_set_size_histogram": {
+        "6": 3,
+        "8": 225,
+        "9": 45,
+        "10": 15,
+        "12": 3,
+        "13": 15,
+        "16": 45,
+        "17": 45,
+        "20": 15,
+        "21": 3
+      }
+    }
+  ]
+}

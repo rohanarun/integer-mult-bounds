@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/prepare_trace550_candidate.py", line 16, in <module>
+    w['cleanup']=[g.inverse(e,g.FULL)for e in reversed(w['A']+w['B'])if not112<=e[1]<224]
+                                                                        ^^^^^^
+NameError: name 'not112' is not defined

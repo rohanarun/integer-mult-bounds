@@ -1,0 +1,253 @@
+{
+  "status": "PASS_ALL_SINGLE_EVENT_FRAME_ENDPOINTS_NO_HIGHER_B",
+  "b": "398395281619778713553/250000000000000000000000",
+  "endpoint_probes": 469,
+  "shapes": 12,
+  "receipts": [
+    {
+      "shape": {
+        "count": 5,
+        "old": [
+          2,
+          2,
+          1,
+          0
+        ],
+        "new": [
+          2,
+          1,
+          1,
+          1
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "2061720717616554625011205233900529877978238472585669115428397/6739986666787659948666753771754907668409286105635143120275902562304",
+      "engine2_lower_minus_one": "3058938866713203467839313892576851945169/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 14,
+        "old": [
+          4,
+          4,
+          0,
+          0
+        ],
+        "new": [
+          3,
+          3,
+          1,
+          1
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "6684577162324313963286332701332429141065769758997677653558099/6739986666787659948666753771754907668409286105635143120275902562304",
+      "engine2_lower_minus_one": "9917789890095205977243288024106951428359/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 8,
+        "old": [
+          4,
+          4,
+          1,
+          0
+        ],
+        "new": [
+          3,
+          2,
+          2,
+          2
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "10798914201438305804940474067820764981888826868524364378621903/13479973333575319897333507543509815336818572211270286240551805124608",
+      "engine2_lower_minus_one": "8011079795344141460403343892576851945169/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 14,
+        "old": [
+          2,
+          2,
+          0,
+          0
+        ],
+        "new": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "16493765740932437059450565535944830345925819753596463017772505/26959946667150639794667015087019630673637144422540572481103610249216",
+      "engine2_lower_minus_one": "6117877733426406957696828024106951428359/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 136,
+        "old": [
+          3,
+          3,
+          2,
+          0
+        ],
+        "new": [
+          3,
+          2,
+          2,
+          1
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "11353285494511792816186182866256643745440394454654481160783915/26959946667150639794667015087019630673637144422540572481103610249216",
+      "engine2_lower_minus_one": "4211167638675342440856883892576851945169/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 16,
+        "old": [
+          4,
+          3,
+          2,
+          0
+        ],
+        "new": [
+          4,
+          3,
+          1,
+          1
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "2061720717616554625011205233900529877978238472585669115428397/6739986666787659948666753771754907668409286105635143120275902562304",
+      "engine2_lower_minus_one": "3058938866713203467839313892576851945169/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 13,
+        "old": [
+          4,
+          2,
+          2,
+          0
+        ],
+        "new": [
+          3,
+          3,
+          1,
+          1
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "1282843962575381697593855204955004798444267870903499445109151/3369993333393829974333376885877453834204643052817571560137951281152",
+      "engine2_lower_minus_one": "3806666173085464004594973892576851945169/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 80,
+        "old": [
+          4,
+          3,
+          1,
+          1
+        ],
+        "new": [
+          3,
+          3,
+          2,
+          1
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "2561135727091204668743229484975925893534358834143006851942309/13479973333575319897333507543509815336818572211270286240551805124608",
+      "engine2_lower_minus_one": "949978039167199743877514880523376230989/5000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 30,
+        "old": [
+          3,
+          2,
+          2,
+          1
+        ],
+        "new": [
+          3,
+          2,
+          2,
+          1
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "IDENTICAL_COMPLETE_PROFILE"
+    },
+    {
+      "shape": {
+        "count": 1,
+        "old": [
+          4,
+          2,
+          0,
+          0
+        ],
+        "new": [
+          2,
+          2,
+          2,
+          0
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "4118889237173550553258391375237271713652256023962901239753465/6739986666787659948666753771754907668409286105635143120275902562304",
+      "engine2_lower_minus_one": "6111123717009741950630113892576851945169/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 96,
+        "old": [
+          3,
+          3,
+          3,
+          0
+        ],
+        "new": [
+          4,
+          2,
+          2,
+          1
+        ],
+        "old_majorizes_new": false
+      },
+      "status": "REJECTED_AT_BASELINE_ADMITTED_B_BY_BOTH_ENGINES",
+      "engine1_lower_minus_one": "1167177083046869716935020270277340608724900672221145257703037/3369993333393829974333376885877453834204643052817571560137951281152",
+      "engine2_lower_minus_one": "3463440332303081904101223892576851945169/10000000000000000000000000000000000000000000000"
+    },
+    {
+      "shape": {
+        "count": 56,
+        "old": [
+          1,
+          0
+        ],
+        "new": [
+          1,
+          0
+        ],
+        "old_majorizes_new": true
+      },
+      "status": "IDENTICAL_COMPLETE_PROFILE"
+    }
+  ],
+  "scope": "Frozen PR550 word and all other frames; fixed valid owner remainder. Exact endpoint moment comparisons plus concavity exclude all intermediate single-event dimensions. Does not exclude neutral paths or simultaneous changes."
+}

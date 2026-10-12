@@ -22,5 +22,8 @@
     "all_two_bin_subset_exchanges": "Exact obstruction for every two-bin whole-helper subset exchange, including empty subsets; no strict improvement for any 0<b<1 at this fixed map.",
     "three_bin_cycles": "Exact majorization obstruction for 2567 capacity-feasible distinct-bin group triples, from15625 total triples; no strict improvement for any0<b<1."
   },
-  "scope": "Conditional finite composition. Arithmetic checks agree in Python3.11 and3.14; complex physical replay in3.14. CI not claimed passed. Search negatives have fixed-word/fixed-map scope. Relaxed ceiling is not feasible or a new kappa; unused PR548 bit not replayed."
+  "scope": "Conditional finite composition. Arithmetic checks agree in Python3.11 and3.14; complex physical replay in3.14. CI not claimed passed. Search negatives have fixed-word/fixed-map scope. Relaxed ceiling is not feasible or a new kappa; unused PR548 bit not replayed.",
+  "tight_fixed_word_kappa_ceiling": "0.00159099051344664996219326358770641214780450394183871069045637",
+  "relative_headroom_percent_strict_upper": "0.000399646426486337932608277611332192970713665505190594881580926",
+  "next_priority": "Changed local word, smaller helper inventory or geometry; frozen-word packing is nearly exhausted."
 }

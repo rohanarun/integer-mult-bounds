@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/extend_pr549_ceiling_to_pr548.py", line 20, in <module>
+    fresh=read(R/'pr548-complex314/RESULT.json');cp=read(R/'source548-review/EXPECTED.json');assert fresh['template_sha256']==cp['complex_template_sha256']==hashlib.sha256((R/'pr548-complex314/complex-global/hosted/GLOBAL-TEMPLATE.json.gz').read_bytes()).hexdigest();assert fresh['profile']==cp['complex_global_profile']
+                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

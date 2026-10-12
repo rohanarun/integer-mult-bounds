@@ -1,0 +1,40 @@
+{
+  "head": "a190fdb39f31647fc6f651625353710624627348",
+  "files": [
+    {
+      "path": "research/native-unipotent-fusion/PROGRAM.json",
+      "git_blob": "db540482a008b75776a0082ee636c2ad8158e448",
+      "sha256": "2823b70730bc57d0eae09fba41ee2b6143825ac57471e884dfb85c5e8917dc25"
+    },
+    {
+      "path": "research/native-unipotent-fusion/PROOF.md",
+      "git_blob": "c3f67fc807aa3bf32ba559d51ea0b7e7a424229d",
+      "sha256": "320ce5529c1543f9e6fceb9e7f8b563ed332f13923229e38d4e7edac98f30283"
+    },
+    {
+      "path": "research/native-unipotent-fusion/README.md",
+      "git_blob": "13a68ecc1509457cf68b328ba87e6b91f8760909",
+      "sha256": "ae819736413bc884cb9d4e2330bae0ae6ceea458597b74b46f7330d325428234"
+    },
+    {
+      "path": "research/native-unipotent-fusion/RESULTS.json",
+      "git_blob": "7a7f8a09308a8efc67fe30c7f7478cfafbb95d41",
+      "sha256": "99a97e030030bf6b7cefb7a70792452d74c92c79fa93afe45d1aab1f99d95ff7"
+    },
+    {
+      "path": "research/native-unipotent-fusion/SHA256SUMS.json",
+      "git_blob": "0fc22b1ce340463fb069e9942c838fe91bda6bd2",
+      "sha256": "2dc98a663f5f7558a37f8e6982dda615c594888c28eafc2478d4dd31490da282"
+    },
+    {
+      "path": "research/native-unipotent-fusion/SOURCE-PINS.json",
+      "git_blob": "549b87c2d57eb00296301c90e090d2f49d475a57",
+      "sha256": "34f97e7a31deed0dd85474ece3709a55de495f9473a3619f84e991fdbd3bf732"
+    },
+    {
+      "path": "research/native-unipotent-fusion/check.py",
+      "git_blob": "4f1a377b5e20712eaa8a2acc35de7773ab59eab7",
+      "sha256": "41f9b2bf8df9541f33903e8f7364efc4ed0da77aa43a8cad0368f95b9f68cf99"
+    }
+  ]
+}

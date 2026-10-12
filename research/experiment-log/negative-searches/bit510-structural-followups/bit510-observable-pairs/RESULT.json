@@ -1,0 +1,42 @@
+{
+  "status": "COMPLETE_SCOPED_OBSERVABLE_TWO_GATE_SCREEN",
+  "source_sha256": "92e399e9a486b55229b5624632ac54f800dd9e022f2aee97f1e5f264bbc0ef5c",
+  "slice_count": 227,
+  "equal_rank_one_effect_pairs": 2,
+  "records": [
+    {
+      "indices": [
+        2226,
+        2228
+      ],
+      "status": "PASS_SCALAR_AND_FRAME",
+      "profile": {
+        "1": 1200,
+        "2": 1440,
+        "4": 180,
+        "8": 9,
+        "6": 120
+      },
+      "fee_delta": 0.0
+    },
+    {
+      "indices": [
+        2458,
+        2462
+      ],
+      "status": "PASS_SCALAR_AND_FRAME",
+      "profile": {
+        "1": 1200,
+        "2": 1440,
+        "4": 180,
+        "8": 9,
+        "6": 120
+      },
+      "fee_delta": 0.0
+    }
+  ],
+  "profitable": 0,
+  "best": null,
+  "seconds": 1.0640674580354244,
+  "scope": "Pairs of whole A gates with identical nonzero rank-one target-matrix effects on the simultaneously sliced word. Each removal pair checked by fresh720-column F2 replay and nested frames. Equal first-order effects alone do not prove joint deletion; exact replay tests cross terms. No arbitrary pairs, wider rewrites, physical emission or exponent claim."
+}

@@ -77,3 +77,5 @@ R480 bit frontier: [frame, stage-count and non-root kernel followups](negative-s
 
 New tiny gain and exact remaining limit: [R480 literal fallback repricing, cross-version receipts and fixed-profile ceiling](followups/r480-sharp-charge/README.md).
 Frame-chain search on PR531 (2026-10-12): [κ 0.001526158885117467, PR534, plus 7 follow-up screens](followups/frame-chain-search-pr531-claude-2026-10-12/README.md).
+
+R480 structural continuation: [native fusion compatibility, 454 scalar-instruction removals and no-gain observable rewrites](negative-searches/bit510-structural-followups/README.md), with a fresh standalone replay and independent scalar/interface checks.

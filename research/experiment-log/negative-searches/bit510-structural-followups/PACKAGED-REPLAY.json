@@ -1,0 +1,37 @@
+{
+  "status": "PASS_ALL_FIVE_SCREENS_AND_NATIVE_PACKET",
+  "python": "3.14.8 (main, Sep 30 2026, 17:55:09) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "runs": [
+    {
+      "name": "native-packet",
+      "status": "PASS",
+      "seconds": 0.06915783300064504
+    },
+    {
+      "name": "native-fusion",
+      "status": "PASS_IDENTICAL_MATHEMATICAL_RESULT",
+      "seconds": 6.891304124961607
+    },
+    {
+      "name": "observable-retarget",
+      "status": "PASS_IDENTICAL_MATHEMATICAL_RESULT",
+      "seconds": 1.3771574159618467
+    },
+    {
+      "name": "observable-slice",
+      "status": "PASS_IDENTICAL_MATHEMATICAL_RESULT",
+      "seconds": 1.3645477080717683
+    },
+    {
+      "name": "observable-reframe",
+      "status": "PASS_IDENTICAL_MATHEMATICAL_RESULT",
+      "seconds": 1.3979207499651238
+    },
+    {
+      "name": "observable-pairs",
+      "status": "PASS_IDENTICAL_MATHEMATICAL_RESULT",
+      "seconds": 1.2385972499614581
+    }
+  ],
+  "scope": "Frozen finite search and rational compatibility replay. Excludes the separately recorded3.11 supplier check, emitted physical phases and all-size theorem."
+}

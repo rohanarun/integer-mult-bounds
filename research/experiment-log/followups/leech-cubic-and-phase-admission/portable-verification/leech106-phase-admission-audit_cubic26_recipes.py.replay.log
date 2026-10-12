@@ -1,0 +1,1 @@
+{"status": "PASS_INDEPENDENT_CUBIC26_SERIALIZED_RECIPE_DECODING", "dimension": 26, "sampled_ports": 33, "recipes_independently_decoded": 103, "exact_tableaus_and_global_phases": true, "constructor_or_lower_child_called": false, "hilbert_state_vectors_allocated": 0, "seconds": 0.4236276149749756}

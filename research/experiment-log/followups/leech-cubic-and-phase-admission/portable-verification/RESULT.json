@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "script": "leech-full-shell-cubic/verify.py",
+      "exit": 0,
+      "seconds": 1.178625209,
+      "log": "leech-full-shell-cubic-verify.py.replay.log"
+    },
+    {
+      "script": "leech-full-shell-cubic/verify_polynomial.py",
+      "exit": 0,
+      "seconds": 0.043618667000000055,
+      "log": "leech-full-shell-cubic-verify_polynomial.py.replay.log"
+    },
+    {
+      "script": "leech-cubic-independent-review/verify.py",
+      "exit": 0,
+      "seconds": 1.137289666,
+      "log": "leech-cubic-independent-review-verify.py.replay.log"
+    },
+    {
+      "script": "leech106-phase-admission/audit_serialized_recipes.py",
+      "exit": 0,
+      "seconds": 3.8340944579999996,
+      "log": "leech106-phase-admission-audit_serialized_recipes.py.replay.log"
+    },
+    {
+      "script": "leech106-phase-admission/audit_cubic26_recipes.py",
+      "exit": 0,
+      "seconds": 0.45742641700000064,
+      "log": "leech106-phase-admission-audit_cubic26_recipes.py.replay.log"
+    },
+    {
+      "script": "leech106-cost-screen/verify_certificates.py",
+      "exit": 0,
+      "seconds": 3.4979690839999993,
+      "log": "leech106-cost-screen-verify_certificates.py.replay.log"
+    },
+    {
+      "script": "leech106-label-repair/verify_labels.py",
+      "exit": 0,
+      "seconds": 0.314407082999999,
+      "log": "leech106-label-repair-verify_labels.py.replay.log"
+    },
+    {
+      "script": "leech-cubic-word-screen/verify.py",
+      "exit": 0,
+      "seconds": 0.0942535410000005,
+      "log": "leech-cubic-word-screen-verify.py.replay.log"
+    },
+    {
+      "script": "leech-cubic-word-screen/excursion_control.py",
+      "exit": 0,
+      "seconds": 0.022103333000000447,
+      "log": "leech-cubic-word-screen-excursion_control.py.replay.log"
+    }
+  ]
+}

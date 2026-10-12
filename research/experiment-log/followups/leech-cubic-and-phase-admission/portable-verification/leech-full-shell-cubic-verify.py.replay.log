@@ -1,0 +1,18 @@
+{
+  "status": "PASS_INDEPENDENT_CUBIC_ALGEBRA_LABELS_GATHERS_AND_ALL_PAIR_CAP_ARGUMENT",
+  "ports": 98280,
+  "dyadic_centers": 2600,
+  "exact_sample_factor_pairs": 16384,
+  "global_sphere_identities_checked": 2358720,
+  "global_label_bindings": 98280,
+  "all_pair_cap_proof": "Integral lattice dot t, Cauchy and canonical distinct lines give offdiagonalinteger t in[-3,3]; f(t)vanishes at everyeven t; labels pair1+t mod2. No minimum-norm or shell-symmetry assumption needed.",
+  "gather_rank_certificates": 2600,
+  "copied_rank": 65000,
+  "optimistic_deficit_at_L3": 1560,
+  "controls": [
+    "target_factor_mutation",
+    "original_Gram_even_class_rejection",
+    "even_port_label_rejection"
+  ],
+  "scope": "Scalar/label/gather evidence only; no full dirty-register program, paid profile, global invoice, conditional kappa or practical speedup."
+}

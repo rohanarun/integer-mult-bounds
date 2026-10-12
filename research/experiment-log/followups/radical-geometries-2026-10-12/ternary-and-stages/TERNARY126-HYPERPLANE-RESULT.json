@@ -1,0 +1,23 @@
+{
+  "status": "COMPLETE_EXHAUSTIVE_TERNARY_HYPERPLANE_CENTER_SCREEN",
+  "projective_hyperplanes": 364,
+  "decoder_rank": 36,
+  "modular_prime": 1000003,
+  "independent_exact_integer_minor_checks": 252,
+  "inside_port_histogram": {
+    "45": 238,
+    "36": 126
+  },
+  "rank_mod_prime_histogram": {
+    "36": 252,
+    "31": 112
+  },
+  "exact_direction_count_histogram": {
+    "0": 252,
+    "5": 112
+  },
+  "surviving_hyperplanes": 112,
+  "interpretation": "A full-column-rank restriction outside a hyperplane proves no nonzero rational decoder column-space vector is supported inside it. All proper ternary frames lie inside some enumerated hyperplane. If all fail, a minimum-rank36 outer-product factorization cannot gather every center in a proper ternary frame. This does not exclude overcomplete factorizations with cancellations outside the decoder column space, a changed decoder, or other phase/label representations.",
+  "scope": "Necessary obstruction for minimal scalar decoder factors, not universal theorem against ternary geometry.",
+  "seconds": 7.809240818023682
+}

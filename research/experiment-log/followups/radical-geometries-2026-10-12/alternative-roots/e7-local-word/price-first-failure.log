@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/radical-geometry-alternatives/e7-local-word/price_obstruction.py", line 15, in <module>
+    out={'status':'EXACT_NINE_STAGE_LOCAL_FEE_OBSTRUCTION','fixed_local_profile':H,'copy_rank_charge':cop,'per_replica_deficit':deficit,'linear_fee_coefficient_lower':str(T),'conditional_complex_root_strict_upper':str(upper),'conditional_complex_root_strict_upper_float':float(upper),'rejected_b':str(endpoint),'strict_lower_fee_margin_at_rejected_b':str(margin),'strict_lower_fee_margin_float':float(margin),'scope':'Applies to this explicit E7 word in same9stagecover accounting. Not a bound on E7 geometry or different circuits/covers. No exact feasible global price claimed.'}
+                                                                                                                                                                       ~~~^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.8/Frameworks/Python.framework/Versions/3.14/lib/python3.14/fractions.py", line 459, in __str__
+    return '%s/%s' % (self._numerator, self._denominator)
+                      ^^^^^^^^^^^^^^^
+ValueError: Exceeds the limit (4300 digits) for integer string conversion; use sys.set_int_max_str_digits() to increase the limit

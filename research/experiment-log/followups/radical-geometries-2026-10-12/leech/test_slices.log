@@ -1,0 +1,127 @@
+{
+  "status": "PASS_EXACT_GEOMETRY_SCREEN_NOT_SUPPLIER_ADMISSION",
+  "seconds": 0.016221583005972207,
+  "norm6_slice": {
+    "scaled_norm6_vector": [
+      -5,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "vectors": 552,
+    "lines": 276,
+    "dimension": 23,
+    "scaled_line_norm_squared": 80,
+    "off_diagonal_gram_values": [
+      -16,
+      16
+    ],
+    "gram_identity": "G^2=960 G",
+    "coordinate_frame_identity": "Y^T Y=960 I - 20 cc^T",
+    "coherence": "1/5",
+    "normalized_projector_off_diagonal": "1/60",
+    "direct_orthogonal_decoder_dyadic": false,
+    "modular_coordinate_ranks": {
+      "3": 23,
+      "5": 23,
+      "7": 23,
+      "11": 23,
+      "13": 23,
+      "17": 23
+    },
+    "rejection_scope": "The direct orthogonal projector G/960 is not realizable by a finite dyadic scalar circuit. This does not rule out a different scalar word, encoding or nonorthogonal decoder."
+  },
+  "octad_subsets": {
+    "one_octad": {
+      "lines": 64,
+      "dimension": 8,
+      "coordinate_frame_diagonal": {
+        "64": 8,
+        "0": 16
+      },
+      "dyadic_decoder": true,
+      "integer_decoder_identity": "D^T A=128 I on active coordinates",
+      "coherence": "1/2",
+      "nonzero_offdiagonal_pairs": 1792,
+      "line_incidence_nonzeros": 512,
+      "scope": "Exact sparse encoder/decoder pair only. No frame labels, arbitrary-dirt identity, paid profile or global hosting."
+    },
+    "two_octads_intersection_0": {
+      "lines": 128,
+      "dimension": 16,
+      "coordinate_frame_diagonal": {
+        "64": 16,
+        "0": 8
+      },
+      "dyadic_decoder": true,
+      "integer_decoder_identity": "D^T A=128 I on active coordinates",
+      "coherence": "1/2",
+      "nonzero_offdiagonal_pairs": 3584,
+      "line_incidence_nonzeros": 1024,
+      "scope": "Exact sparse encoder/decoder pair only. No frame labels, arbitrary-dirt identity, paid profile or global hosting."
+    },
+    "three_disjoint_octads": {
+      "lines": 192,
+      "dimension": 24,
+      "coordinate_frame_diagonal": {
+        "64": 24
+      },
+      "dyadic_decoder": true,
+      "integer_decoder_identity": "D^T A=128 I on active coordinates",
+      "coherence": "1/2",
+      "nonzero_offdiagonal_pairs": 5376,
+      "line_incidence_nonzeros": 1536,
+      "scope": "Exact sparse encoder/decoder pair only. No frame labels, arbitrary-dirt identity, paid profile or global hosting."
+    },
+    "two_octads_intersection_2": {
+      "lines": 128,
+      "dimension": 14,
+      "coordinate_frame_diagonal": {
+        "128": 2,
+        "64": 12,
+        "0": 10
+      },
+      "dyadic_decoder": true,
+      "integer_decoder_identity": "D^T A=128 I on active coordinates",
+      "coherence": "1/2",
+      "nonzero_offdiagonal_pairs": 7680,
+      "line_incidence_nonzeros": 1024,
+      "scope": "Exact sparse encoder/decoder pair only. No frame labels, arbitrary-dirt identity, paid profile or global hosting."
+    },
+    "two_octads_intersection_4": {
+      "lines": 128,
+      "dimension": 12,
+      "coordinate_frame_diagonal": {
+        "128": 4,
+        "64": 8,
+        "0": 12
+      },
+      "dyadic_decoder": true,
+      "integer_decoder_identity": "D^T A=128 I on active coordinates",
+      "coherence": "1/2",
+      "nonzero_offdiagonal_pairs": 8704,
+      "line_incidence_nonzeros": 1024,
+      "scope": "Exact sparse encoder/decoder pair only. No frame labels, arbitrary-dirt identity, paid profile or global hosting."
+    }
+  }
+}

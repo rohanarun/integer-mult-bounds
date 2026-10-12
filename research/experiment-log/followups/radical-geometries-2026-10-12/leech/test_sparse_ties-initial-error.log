@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/radical-geometry-leech/test_sparse_ties.py", line 39, in <module>
+    E=(T!=0)|(T.T!=0);np.fill_diagonal(E,False);cl=clique(E)
+                                                   ~~~~~~^^^
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/radical-geometry-leech/test_sparse_ties.py", line 29, in clique
+    b=bits&-bits;x=b.bit_length()-1;bits-=b;cand.append(x)
+                   ^^^^^^^^^^^^
+AttributeError: 'numpy.int64' object has no attribute 'bit_length'

@@ -1,0 +1,37 @@
+{
+  "status": "PASS_EXACT_CORRECTION_SUPPORT_SCREEN_NOT_FULL_WORD",
+  "low_rank_projector": "Q=A B, Q^2=Q; denominator at most8",
+  "active_decoder_columns": 26,
+  "directed_offdiagonal_correction_nonzeros": 5594,
+  "required_orthogonality_edges": 5572,
+  "exact_maximum_required_orthogonal_clique": 10,
+  "clique_port_indices": [
+    15,
+    23,
+    16,
+    22,
+    12,
+    14,
+    26,
+    30,
+    3,
+    17
+  ],
+  "label_dimension_lower_bound": 10,
+  "label_dimension_explicit_upper_bound": 35,
+  "label_construction": "26 separate active axes and9 new axes carrying250 distinct odd suffixes",
+  "scope": "Only necessary orthogonal-cap condition for corrections I-Q. No center gathering hyperplanes, phase or cost admission. A failed low dimension rules out this specific decoder, not all Leech decoders.",
+  "natural_projector_lower_bound": 276,
+  "diagonal_Q8_histogram": {
+    "-24": 1,
+    "-16": 2,
+    "-8": 1,
+    "0": 250,
+    "8": 18,
+    "16": 1,
+    "24": 2,
+    "40": 1
+  },
+  "diagonal_identity_pass": false,
+  "diagonal_failure_scope": "A B is a coordinate reconstruction projector, not a port transfer with diagonal1. It cannot be inserted as the supplier low-rank transfer with only orthogonal-cap offdiagonal correction."
+}

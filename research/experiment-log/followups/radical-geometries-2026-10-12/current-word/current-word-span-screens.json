@@ -1,0 +1,20 @@
+{
+  "status": "COMPLETE_CURRENT_WORD_CONNECTIVITY_AND_QUOTIENT_SUBSTITUTION_SCREEN",
+  "source_head": "66dbc2bffc1bfa8d50b3f9a2ac7ccba8fd9f6f36",
+  "canonical_content_sha256": "5d96dbd7eb01548edbeac7f3b8a9401ac14268f3ecea1de4a61e13953448cc7c",
+  "registers": 728,
+  "components": 1,
+  "component_sizes": [
+    728
+  ],
+  "invertible_elementary_steps": 16890,
+  "full_row_obstruction": "Every add with distinct operands and every nonzero scale is invertible, so independent arbitrary register rows remain independent. A full-row source substitution by other registers cannot exist. Only a restricted observable/dirty quotient can offer a meaningful replacement.",
+  "protected_columns": 436,
+  "helper_source_climbs": 842,
+  "nonempty_pools": 180,
+  "total_pool_size": 260,
+  "linear_combination_candidates": [],
+  "cold_zero_source_candidates": [],
+  "seconds": 0.04256050009280443,
+  "scope": "Connectivity excludes only direct-summand deletion of this word. Quotient screen preserves source and target input columns plus nonzero-frame initial helper columns; ignores only initially cold helper dirt. Candidate equality alone does not prove frame legality after deletion, dirt compensation, mutable-source contract, phase maps, global invoice or improved kappa. No candidate is applied or admitted here."
+}

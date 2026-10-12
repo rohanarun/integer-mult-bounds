@@ -1,0 +1,13 @@
+{
+  "source548_head": "66dbc2bffc1bfa8d50b3f9a2ac7ccba8fd9f6f36",
+  "read_sources": {
+    "personal-findings-publication/research/experiment-log/negative-searches/leech-lattice-screen-claude-2026-10-12/leech.py": "b74e56f34400a9adfbabfda0198085b9177c6677e1fb8b7816fe9d62d5253454",
+    "source548-review/complex-global/vendor531/code/audit_and_transport.py": "a4fc272266785e1fffd44775c6fa6df783c4352de4c3f1d925cf953a23b84e7f",
+    "source548-review/complex-local/static44/gk/gk_word.py": "f027a9273bcf4e0971258c160b7d3b3c196366b32a529cff6e6a0e666b03826b"
+  },
+  "credit": "Golay vector generation reused from earlier Claude Leech census; new tests prepared by Codex in this run.",
+  "primary_sources": [
+    "https://arxiv.org/abs/1809.05739",
+    "https://www.ams.org/journals/jams/2007-20-01/S0894-0347-06-00546-7/S0894-0347-06-00546-7.pdf"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "scope": "Finite discovery identities and literal-lift rejection only; no complete local word, helper count, global admission, or new kappa.",
+  "input_sha256": "83cfc90275b8c090359e0b9cea02d0003df36a94701272359d40b19f26201064",
+  "source_head": "66dbc2bffc1bfa8d50b3f9a2ac7ccba8fd9f6f36",
+  "literal_label_lifts": {
+    "counts": {
+      "2": {
+        "charts": 112,
+        "orthogonal": 112,
+        "bad_gram_entries": 0,
+        "zero_norm_rows": 0
+      },
+      "3": {
+        "charts": 112,
+        "orthogonal": 35,
+        "bad_gram_entries": 693,
+        "zero_norm_rows": 231
+      },
+      "4": {
+        "charts": 112,
+        "orthogonal": 0,
+        "bad_gram_entries": 2408,
+        "zero_norm_rows": 0
+      }
+    },
+    "first_obstruction": {
+      "3": {
+        "port_index": 0,
+        "axis_weights": [
+          3,
+          3,
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "4": {
+        "port_index": 0,
+        "axis_weights": [
+          3,
+          3,
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    "interpretation": "Literal 0/1 chart lift only. A new odd-characteristic reflection construction is tested separately."
+  },
+  "nonuniform_fixed_word_stages": {
+    "port_span_rank": 9,
+    "stages": 9,
+    "ambient": 73,
+    "remaining_dimensions": 0,
+    "admissible_dimension_allocations": [
+      [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ]
+    ],
+    "scope": "In the current shared-axis, disjoint-complement stage construction every invocation contains the whole rank-nine port set; variable h_j>=9 with sum(h_j-1)=72 forces all h_j=9. Does not rule out new overlapping stage geometry or new local words."
+  },
+  "ternary_geometry_trials": [
+    {
+      "dimension": 3,
+      "ports": 3,
+      "norm_shells": {
+        "1": 3
+      },
+      "orthogonal_degree_histogram": {
+        "2": 3
+      },
+      "exact_reflection_pairs_tested": 9,
+      "projective_closure": true,
+      "involution": true,
+      "normalized_real_tight_frame": true,
+      "tight_frame_coefficient": "1",
+      "seconds": 0.0001742839813232422
+    },
+    {
+      "dimension": 4,
+      "ports": 12,
+      "norm_shells": {
+        "1": 4,
+        "4": 8
+      },
+      "orthogonal_degree_histogram": {
+        "3": 12
+      },
+      "exact_reflection_pairs_tested": 144,
+      "projective_closure": true,
+      "involution": true,
+      "normalized_real_tight_frame": true,
+      "tight_frame_coefficient": "3",
+      "seconds": 0.0009906291961669922
+    },
+    {
+      "dimension": 5,
+      "ports": 45,
+      "norm_shells": {
+        "1": 5,
+        "4": 40
+      },
+      "orthogonal_degree_histogram": {
+        "12": 45
+      },
+      "exact_reflection_pairs_tested": 2025,
+      "projective_closure": true,
+      "involution": true,
+      "normalized_real_tight_frame": true,
+      "tight_frame_coefficient": "9",
+      "seconds": 0.01355743408203125
+    },
+    {
+      "dimension": 6,
+      "ports": 126,
+      "norm_shells": {
+        "1": 6,
+        "4": 120
+      },
+      "orthogonal_degree_histogram": {
+        "45": 126
+      },
+      "exact_reflection_pairs_tested": 15876,
+      "projective_closure": true,
+      "involution": true,
+      "normalized_real_tight_frame": true,
+      "tight_frame_coefficient": "21",
+      "seconds": 0.09390616416931152
+    },
+    {
+      "dimension": 7,
+      "ports": 351,
+      "norm_shells": {
+        "1": 7,
+        "4": 280,
+        "7": 64
+      },
+      "orthogonal_degree_histogram": {
+        "126": 351
+      },
+      "exact_reflection_pairs_tested": 123201,
+      "projective_closure": true,
+      "involution": true,
+      "normalized_real_tight_frame": true,
+      "tight_frame_coefficient": "351/7",
+      "seconds": 0.6691348552703857
+    },
+    {
+      "dimension": 8,
+      "ports": 1080,
+      "norm_shells": {
+        "1": 8,
+        "4": 560,
+        "7": 512
+      },
+      "orthogonal_degree_histogram": {
+        "351": 1080
+      },
+      "exact_reflection_pairs_tested": 1166400,
+      "projective_closure": true,
+      "involution": true,
+      "normalized_real_tight_frame": true,
+      "tight_frame_coefficient": "135",
+      "seconds": 6.481852054595947
+    }
+  ],
+  "missing_for_kappa": [
+    "Design the scalar local transform and decoder on these ports with arbitrary dirty helpers.",
+    "Specify monotone ternary frames, phase conventions, residual maps, and exact scalar cleanup.",
+    "Derive a valid odd-characteristic global cover/compiler and child cost recurrence; binary price cannot be reused.",
+    "Count physical registers, paid child ranks, deficit, coefficient/tape invoices and bootstrap/outer inequalities."
+  ]
+}

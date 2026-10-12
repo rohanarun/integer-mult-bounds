@@ -1,0 +1,47 @@
+{
+  "surviving_normal_norms": {
+    "0": 112
+  },
+  "number_directions": 560,
+  "coefficient_span_rank": 35,
+  "independent_direction_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    18,
+    20,
+    21,
+    24,
+    25,
+    26,
+    29,
+    30,
+    31,
+    34,
+    35,
+    36,
+    39,
+    40,
+    60,
+    61,
+    64,
+    84,
+    89
+  ],
+  "direction_coordinate_sum_histogram": {
+    "0": 560
+  }
+}

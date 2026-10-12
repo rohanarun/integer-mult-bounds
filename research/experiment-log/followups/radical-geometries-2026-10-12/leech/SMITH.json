@@ -1,0 +1,29 @@
+{
+  "ambient_chart": "delete last coordinate; c[-1]=-1",
+  "invariant_factors": [
+    1,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+  ],
+  "odd_obstruction": false
+}

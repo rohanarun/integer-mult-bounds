@@ -1,0 +1,154 @@
+[
+  {
+    "name": "A4",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 100,
+    "legal_directed_corrections": 60,
+    "center_ranks": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "A6",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 441,
+    "legal_directed_corrections": 210,
+    "center_ranks": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "A8",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 1296,
+    "legal_directed_corrections": 504,
+    "center_ranks": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "CURRENT112",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 12544,
+    "legal_directed_corrections": 5824,
+    "center_ranks": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "D4",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 144,
+    "legal_directed_corrections": 96,
+    "center_ranks": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "D5",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 400,
+    "legal_directed_corrections": 240,
+    "center_ranks": [
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "D6",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 900,
+    "legal_directed_corrections": 480,
+    "center_ranks": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "D8",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 3136,
+    "legal_directed_corrections": 1344,
+    "center_ranks": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "E6",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 1296,
+    "legal_directed_corrections": 720,
+    "center_ranks": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "negative_controls_rejected": 2
+  },
+  {
+    "name": "E7",
+    "status": "PASS_FINITE_CLEAN_DECODER_ONLY",
+    "coefficient_pairs_checked": 3969,
+    "legal_directed_corrections": 2016,
+    "center_ranks": [
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "negative_controls_rejected": 2
+  }
+]

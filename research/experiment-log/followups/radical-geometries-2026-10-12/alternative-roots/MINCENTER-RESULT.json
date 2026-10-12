@@ -1,0 +1,235 @@
+[
+  {
+    "name": "E6",
+    "ports": 36,
+    "centers": 6,
+    "label_h": 7,
+    "center_ranks": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "copy_cost": 36,
+    "nine_stage_deficit_relaxation": -36,
+    "five_stage_deficit_relaxation": -36,
+    "eleven_stage_deficit_relaxation": -36,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "6": 27
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "E7",
+    "ports": 63,
+    "centers": 7,
+    "label_h": 9,
+    "center_ranks": [
+      7,
+      7,
+      7,
+      7,
+      7,
+      7,
+      7
+    ],
+    "copy_cost": 49,
+    "nine_stage_deficit_relaxation": 63,
+    "five_stage_deficit_relaxation": 7,
+    "eleven_stage_deficit_relaxation": 91,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "7": 28,
+      "8": 7
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "D4",
+    "ports": 12,
+    "centers": 4,
+    "label_h": 7,
+    "center_ranks": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "copy_cost": 16,
+    "nine_stage_deficit_relaxation": -48,
+    "five_stage_deficit_relaxation": -32,
+    "eleven_stage_deficit_relaxation": -56,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "4": 12
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "D5",
+    "ports": 20,
+    "centers": 5,
+    "label_h": 7,
+    "center_ranks": [
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "copy_cost": 25,
+    "nine_stage_deficit_relaxation": -65,
+    "five_stage_deficit_relaxation": -45,
+    "eleven_stage_deficit_relaxation": -75,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "5": 21
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "D6",
+    "ports": 30,
+    "centers": 6,
+    "label_h": 9,
+    "center_ranks": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "copy_cost": 36,
+    "nine_stage_deficit_relaxation": -84,
+    "five_stage_deficit_relaxation": -60,
+    "eleven_stage_deficit_relaxation": -96,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "6": 38
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "D8",
+    "ports": 56,
+    "centers": 8,
+    "label_h": 11,
+    "center_ranks": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "copy_cost": 64,
+    "nine_stage_deficit_relaxation": -128,
+    "five_stage_deficit_relaxation": -96,
+    "eleven_stage_deficit_relaxation": -144,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "8": 136
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "A4",
+    "ports": 10,
+    "centers": 4,
+    "label_h": 5,
+    "center_ranks": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "copy_cost": 16,
+    "nine_stage_deficit_relaxation": -64,
+    "five_stage_deficit_relaxation": -40,
+    "eleven_stage_deficit_relaxation": -76,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "4": 15
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "A6",
+    "ports": 21,
+    "centers": 6,
+    "label_h": 7,
+    "center_ranks": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "copy_cost": 36,
+    "nine_stage_deficit_relaxation": -156,
+    "five_stage_deficit_relaxation": -96,
+    "eleven_stage_deficit_relaxation": -186,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "6": 63
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "A8",
+    "ports": 36,
+    "centers": 8,
+    "label_h": 9,
+    "center_ranks": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "copy_cost": 64,
+    "nine_stage_deficit_relaxation": -288,
+    "five_stage_deficit_relaxation": -176,
+    "eleven_stage_deficit_relaxation": -344,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "8": 255
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  },
+  {
+    "name": "CURRENT112",
+    "ports": 112,
+    "centers": 8,
+    "label_h": 9,
+    "center_ranks": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ],
+    "copy_cost": 64,
+    "nine_stage_deficit_relaxation": 320,
+    "five_stage_deficit_relaxation": 128,
+    "eleven_stage_deficit_relaxation": 416,
+    "dyadic_exact_gram_factorization": true,
+    "center_rank_histogram": {
+      "8": 8
+    },
+    "scope": "Minimum-weight independent basis among enumerated nullspace basis directions only; no full circuit or global admission."
+  }
+]

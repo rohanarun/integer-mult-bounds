@@ -1,0 +1,19 @@
+{
+  "campaign": "radical-geometry-stages",
+  "created_sandbox": "e951bfc2-fc91-4e1b-9eea-12889d80f520",
+  "status": "EXPERIMENTS_COMPLETE",
+  "sources": {
+    "experiments.py": "f18a8f8fabb59cd15540e22369ed9a7bb49aae4d31157525154972b773e76c6c",
+    "INPUT.json": "83cfc90275b8c090359e0b9cea02d0003df36a94701272359d40b19f26201064"
+  },
+  "exit_code": 0,
+  "result_sha256": "7d02882665b88385a307105b47f811740305c84203a09f20a598eddbc849e687",
+  "cleanup": "DELETE_CALL_COMPLETED",
+  "cleanup_recheck": {
+    "exception_class": "TypeError",
+    "status_code": null
+  },
+  "cleanup_http_recheck": {
+    "http_status": 404
+  }
+}

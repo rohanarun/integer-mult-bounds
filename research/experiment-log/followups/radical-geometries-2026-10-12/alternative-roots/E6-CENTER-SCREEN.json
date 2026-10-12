@@ -1,0 +1,394 @@
+{
+  "geometry": "E6",
+  "dimension": 6,
+  "h": 7,
+  "normals_tested": 127,
+  "legal_center_nullity_histogram": {
+    "0": 100,
+    "1": 27
+  },
+  "legal_center_normals": 27,
+  "legal_direction_span_rank": 6,
+  "full_rank_decoder_possible_under_hyperplane_condition": true,
+  "directions": [
+    {
+      "normal": 4,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "-1",
+          "-1",
+          "-1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 11,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "1",
+          "1",
+          "-1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 19,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "1",
+          "-1",
+          "1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 25,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "-1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 26,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 31,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "0",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 32,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 37,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 38,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "-1",
+          "1",
+          "1",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 44,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "1",
+          "-1",
+          "1",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 52,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "1",
+          "1",
+          "-1",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 59,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "-1",
+          "-1",
+          "-1",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 67,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "1",
+          "-1",
+          "-1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 73,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "-1",
+          "1",
+          "-1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 74,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "0",
+          "1",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 79,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "0",
+          "-1",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 81,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "-1",
+          "-1",
+          "1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 82,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "1",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 87,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "-1",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 88,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "1",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 93,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "-1",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 94,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 100,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "1",
+          "1",
+          "1",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 107,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "-1",
+          "-1",
+          "1",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 115,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "-1",
+          "1",
+          "-1",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 121,
+      "nullity": 1,
+      "directions": [
+        [
+          "-1",
+          "1",
+          "-1",
+          "-1",
+          "-1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 122,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    }
+  ],
+  "scope": "Necessary center-collection condition; full span alone is not a legal circuit or factorization proof."
+}

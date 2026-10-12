@@ -1,0 +1,94 @@
+[
+  {
+    "geometry": "E6",
+    "distinct_legal_directions": 27,
+    "attempts": 1,
+    "outcomes": {
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  },
+  {
+    "geometry": "E7",
+    "distinct_legal_directions": 35,
+    "attempts": 1,
+    "outcomes": {
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  },
+  {
+    "geometry": "D4",
+    "distinct_legal_directions": 12,
+    "attempts": 1,
+    "outcomes": {
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  },
+  {
+    "geometry": "D6",
+    "distinct_legal_directions": 38,
+    "attempts": 1,
+    "outcomes": {
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  },
+  {
+    "geometry": "D8",
+    "distinct_legal_directions": 136,
+    "attempts": 1,
+    "outcomes": {
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  },
+  {
+    "geometry": "A4",
+    "distinct_legal_directions": 15,
+    "attempts": 1,
+    "outcomes": {
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  },
+  {
+    "geometry": "A6",
+    "distinct_legal_directions": 63,
+    "attempts": 4,
+    "outcomes": {
+      "dependent": 3,
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  },
+  {
+    "geometry": "A8",
+    "distinct_legal_directions": 255,
+    "attempts": 301,
+    "outcomes": {
+      "dependent": 300,
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  },
+  {
+    "geometry": "CURRENT112",
+    "distinct_legal_directions": 8,
+    "attempts": 1,
+    "outcomes": {
+      "dyadic": 1
+    },
+    "dyadic_basis_found": true,
+    "scope": "Clean Gram factorization and legal collection supports only, not phase/frame/circuit/global admission."
+  }
+]

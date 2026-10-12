@@ -1,0 +1,28 @@
+PASS_ALL126_NATIVE_O_AND_SO_CHARTS
+Traceback (most recent call last):
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/radical-geometry-stages/ternary_charts_decoders.py", line 53, in <module>
+    rank=(A-lam*Id).rank();eigen.append({'eigenvalue':lam,'exact_QQ_rank_A_minus_lambda_I':rank,'eigenspace_dimension':n-rank})
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/verify-sympy314/lib/python3.14/site-packages/sympy/matrices/matrixbase.py", line 3115, in rank
+    return _rank(self, iszerofunc=iszerofunc, simplify=simplify)
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/verify-sympy314/lib/python3.14/site-packages/sympy/matrices/reductions.py", line 242, in _rank
+    _, pivots, _ = _row_reduce(mat, iszerofunc, simpfunc, normalize_last=True,
+                   ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            normalize=False, zero_above=False)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/verify-sympy314/lib/python3.14/site-packages/sympy/matrices/reductions.py", line 127, in _row_reduce
+    mat, pivot_cols, swaps = _row_reduce_list(list(M), M.rows, M.cols, M.one,
+                             ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            iszerofunc, simpfunc, normalize_last=normalize_last,
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            normalize=normalize, zero_above=zero_above)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/verify-sympy314/lib/python3.14/site-packages/sympy/matrices/reductions.py", line 109, in _row_reduce_list
+    cross_cancel(pivot_val, row, val, piv_row)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/verify-sympy314/lib/python3.14/site-packages/sympy/matrices/reductions.py", line 58, in cross_cancel
+    mat[p] = isimp(a*mat[p] - b*mat[p + q])
+                              ~^~~~~~~~~~~
+  File "/Volumes/SP AI 01_16/CodexWorkspaces/imb-retime2/frontier390/verify-sympy314/lib/python3.14/site-packages/sympy/core/numbers.py", line 1932, in __mul__
+    return Integer(self.p*other.p)
+                   ~~~~~~^~~~~~~~
+KeyboardInterrupt

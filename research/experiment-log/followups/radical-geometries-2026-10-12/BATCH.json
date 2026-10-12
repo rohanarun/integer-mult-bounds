@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-10-12T04:31:11.422733+00:00",
+  "new_kappa": null,
+  "baseline_kappa": "0.001590984155135328",
+  "reported_target_kappa": "0.001591045666134196",
+  "reported_target_pr": 550,
+  "reported_target_independently_replayed": false,
+  "categories": [
+    "current-word",
+    "leech",
+    "alternative-roots",
+    "ternary-and-stages"
+  ],
+  "running_experiments": [],
+  "live_sandboxes": []
+}

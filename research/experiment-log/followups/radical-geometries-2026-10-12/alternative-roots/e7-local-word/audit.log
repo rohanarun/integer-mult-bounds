@@ -1,0 +1,40 @@
+{
+  "status": "PASS_EXACT_SCALAR_AND_MONOTONE_FRAMES_ONLY",
+  "R": 1505,
+  "v": 63,
+  "h": 9,
+  "centers": 7,
+  "center_copy_rank_total": 49,
+  "complete_scalar_operations": 14818,
+  "factory_and_gather_operations": 1687,
+  "center_scatter_operations": 264,
+  "side_correction_operations": 2016,
+  "arbitrary_dirt_compensators": 9164,
+  "cleanup_operations": 1687,
+  "clean_source_columns": 63,
+  "arbitrary_columns_each_orientation": 1631,
+  "orientations": 2,
+  "local_profile": {
+    "1": 1972,
+    "2": 1238,
+    "3": 298,
+    "4": 121,
+    "5": 282,
+    "6": 1204,
+    "7": 18,
+    "8": 2
+  },
+  "local_rank_mass": 14602,
+  "negative_controls_rejected": 2,
+  "seconds": 0.25756287504918873,
+  "raw_word_sha256": "06b56b954bb13aab6b13d218c01273be19a3eb596c41183b76f1d8fe299f5e02",
+  "complete_word_sha256": "c3edd328290527dd4b9bb05752569d80b2462b5fb8e70d9c3f59deafa7b2e6fe",
+  "remaining": [
+    "native phase/center-copy realization",
+    "changed-port all-size supplier interface",
+    "global controller and physical owners",
+    "finite invoice",
+    "two exact moment engines and outer assembly"
+  ],
+  "scope": "No smaller-R improvement or kappa; explicit local scalar word only."
+}

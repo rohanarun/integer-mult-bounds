@@ -1,0 +1,14 @@
+{
+  "geometry": "E8",
+  "dimension": 8,
+  "h": 9,
+  "normals_tested": 511,
+  "legal_center_nullity_histogram": {
+    "0": 511
+  },
+  "legal_center_normals": 0,
+  "legal_direction_span_rank": 0,
+  "full_rank_decoder_possible_under_hyperplane_condition": false,
+  "directions": [],
+  "scope": "Necessary center-collection condition; full span alone is not a legal circuit or factorization proof."
+}

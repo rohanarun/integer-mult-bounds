@@ -1,0 +1,16 @@
+{
+  "status": "PASS_INDEPENDENT_INTEGER_WITNESS_CHECKS",
+  "geometry_mutant_rejected": true,
+  "decoder_mutant_rejected": true,
+  "sparse_variants": [
+    {
+      "witness": "SPARSE-FUNCTIONALS-WITNESS.json.gz",
+      "clique_size": 100
+    },
+    {
+      "witness": "SPARSE-TIE-WITNESS.json.gz",
+      "clique_size": 46
+    }
+  ],
+  "scope": "Saved finite Gram, decoder and cap-support identities only. No global admission or kappa."
+}

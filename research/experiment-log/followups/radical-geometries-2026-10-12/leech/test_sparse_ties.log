@@ -1,0 +1,172 @@
+{
+  "status": "COMPLETE_BOUNDED_EQUAL_COST_TIE_SEARCH_NOT_ADMISSION",
+  "seeds": 32,
+  "best_observed_clique_lower_bound": 46,
+  "best_by_clique_then_edges": 54812,
+  "per_port_equal_cost_choice_count_min": 6,
+  "per_port_equal_cost_choice_count_max": 22,
+  "seconds": 5.164200040977448,
+  "runs": [
+    {
+      "seed": 54800,
+      "clique_lower_bound": 50,
+      "undirected_cap_edges": 21661
+    },
+    {
+      "seed": 54801,
+      "clique_lower_bound": 48,
+      "undirected_cap_edges": 21812
+    },
+    {
+      "seed": 54802,
+      "clique_lower_bound": 50,
+      "undirected_cap_edges": 21710
+    },
+    {
+      "seed": 54803,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21707
+    },
+    {
+      "seed": 54804,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21737
+    },
+    {
+      "seed": 54805,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21723
+    },
+    {
+      "seed": 54806,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21734
+    },
+    {
+      "seed": 54807,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21718
+    },
+    {
+      "seed": 54808,
+      "clique_lower_bound": 50,
+      "undirected_cap_edges": 21704
+    },
+    {
+      "seed": 54809,
+      "clique_lower_bound": 48,
+      "undirected_cap_edges": 21750
+    },
+    {
+      "seed": 54810,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21742
+    },
+    {
+      "seed": 54811,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21714
+    },
+    {
+      "seed": 54812,
+      "clique_lower_bound": 46,
+      "undirected_cap_edges": 21777
+    },
+    {
+      "seed": 54813,
+      "clique_lower_bound": 48,
+      "undirected_cap_edges": 21732
+    },
+    {
+      "seed": 54814,
+      "clique_lower_bound": 51,
+      "undirected_cap_edges": 21748
+    },
+    {
+      "seed": 54815,
+      "clique_lower_bound": 51,
+      "undirected_cap_edges": 21716
+    },
+    {
+      "seed": 54816,
+      "clique_lower_bound": 47,
+      "undirected_cap_edges": 21674
+    },
+    {
+      "seed": 54817,
+      "clique_lower_bound": 48,
+      "undirected_cap_edges": 21712
+    },
+    {
+      "seed": 54818,
+      "clique_lower_bound": 52,
+      "undirected_cap_edges": 21731
+    },
+    {
+      "seed": 54819,
+      "clique_lower_bound": 48,
+      "undirected_cap_edges": 21737
+    },
+    {
+      "seed": 54820,
+      "clique_lower_bound": 50,
+      "undirected_cap_edges": 21690
+    },
+    {
+      "seed": 54821,
+      "clique_lower_bound": 50,
+      "undirected_cap_edges": 21733
+    },
+    {
+      "seed": 54822,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21679
+    },
+    {
+      "seed": 54823,
+      "clique_lower_bound": 47,
+      "undirected_cap_edges": 21772
+    },
+    {
+      "seed": 54824,
+      "clique_lower_bound": 50,
+      "undirected_cap_edges": 21783
+    },
+    {
+      "seed": 54825,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21759
+    },
+    {
+      "seed": 54826,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21755
+    },
+    {
+      "seed": 54827,
+      "clique_lower_bound": 49,
+      "undirected_cap_edges": 21749
+    },
+    {
+      "seed": 54828,
+      "clique_lower_bound": 48,
+      "undirected_cap_edges": 21702
+    },
+    {
+      "seed": 54829,
+      "clique_lower_bound": 48,
+      "undirected_cap_edges": 21736
+    },
+    {
+      "seed": 54830,
+      "clique_lower_bound": 51,
+      "undirected_cap_edges": 21714
+    },
+    {
+      "seed": 54831,
+      "clique_lower_bound": 51,
+      "undirected_cap_edges": 21719
+    }
+  ],
+  "scope": "Each constructed transfer has diagonal1, dyadic coefficients and exactly99 nonzero offdiagonal entries per column. Clique size is only a certified LOWER bound. Smaller lower bound does not establish existence of labels at that dimension. No native center gathering or global cost checked."
+}

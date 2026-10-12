@@ -1,0 +1,40 @@
+{
+  "status": "PASS_DIAGONAL_ONE_DYADIC_TRANSFER_REJECTED_AT_NATIVE_LABEL_BUDGET",
+  "coordinate_pivot_transfer": {
+    "shape": [
+      276,
+      276
+    ],
+    "diagonal_one": true,
+    "integer_coefficients": true,
+    "latent_coordinates_used": 3,
+    "B_nonzeros": 276,
+    "A_nonzeros": 6348,
+    "directed_offdiagonal_corrections": 75900,
+    "undirected_cap_constraints": 37950,
+    "forced_binary_label_dimension_minimum": 276,
+    "reason": "Every offdiagonal transfer entry is nonzero, forcing p_i dot p_j=0 for all i!=j. Each source port must have odd self product, so labels are independent."
+  },
+  "symmetry_algebra_filters": {
+    "form": "a I+b G, where G^2=960G and diagonal(G)=80",
+    "rank23_diagonal_one": {
+      "a": "0",
+      "b": "1/80",
+      "dyadic": false
+    },
+    "rank253_diagonal_one": {
+      "a": "12/11",
+      "b": "-1/880",
+      "dyadic": false
+    },
+    "scope": "Exact obstruction only to nontrivial rank-deficient diagonal-one filters in the two-dimensional Gram algebra."
+  },
+  "remaining_escape": "A nonuniform multi-coordinate dyadic decoder could create enough exact offdiagonal zeros; no general impossibility is proved.",
+  "not_done": [
+    "native frame chains and gathering caps",
+    "phase compiler",
+    "paid profile",
+    "hosting",
+    "moment and outer pricing"
+  ]
+}

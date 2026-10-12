@@ -86,3 +86,5 @@ Verified winning composition: [PR541 trace plus sliced R480 frames](followups/r4
 Latest composition and allocation followup: [static44 global admission and R420](followups/static44-global-and-r420/README.md), including PR546 and PR547, complete underlying replays, every observed failure, and the scoped owner-allocation ceiling. Conditional kappa 0.001590711200057236; complex side binds.
 
 Latest checked composition and completed searches: [PR548 complex plus R420; exact exchange obstruction and remaining allocation ceiling](followups/pr548-composition-and-searches/README.md). Conditional kappa0.001590984155135328; six search outcomes retained, no subsequent gain.
+
+Radical geometry batch: [Leech support and label obstructions, constructed E7 losing word, new ternary geometry and current-word retests](followups/radical-geometries-2026-10-12/README.md). No new kappa; exact successes, failures and remaining admission obligations retained. PR550 is the new reported target, awaiting independent replay.

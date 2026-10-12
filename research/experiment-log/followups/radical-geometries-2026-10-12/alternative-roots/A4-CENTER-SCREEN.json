@@ -1,0 +1,196 @@
+{
+  "geometry": "A4",
+  "dimension": 4,
+  "h": 5,
+  "normals_tested": 31,
+  "legal_center_nullity_histogram": {
+    "1": 15,
+    "0": 16
+  },
+  "legal_center_normals": 15,
+  "legal_direction_span_rank": 4,
+  "full_rank_decoder_possible_under_hyperplane_condition": true,
+  "directions": [
+    {
+      "normal": 1,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 2,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "1",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 4,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "1",
+          "1",
+          "0"
+        ]
+      ]
+    },
+    {
+      "normal": 7,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "1",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    {
+      "normal": 8,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 11,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "1",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 13,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "1",
+          "1",
+          "0"
+        ]
+      ]
+    },
+    {
+      "normal": 14,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "1",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    {
+      "normal": 16,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "0",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 19,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 21,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "1",
+          "0"
+        ]
+      ]
+    },
+    {
+      "normal": 22,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    {
+      "normal": 25,
+      "nullity": 1,
+      "directions": [
+        [
+          "0",
+          "0",
+          "1",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 26,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "0",
+          "0",
+          "1"
+        ]
+      ]
+    },
+    {
+      "normal": 28,
+      "nullity": 1,
+      "directions": [
+        [
+          "1",
+          "0",
+          "1",
+          "0"
+        ]
+      ]
+    }
+  ],
+  "scope": "Necessary center-collection condition; full span alone is not a legal circuit or factorization proof."
+}

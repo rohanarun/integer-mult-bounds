@@ -1,0 +1,266 @@
+[
+ {
+  "id": "claude-1012-01",
+  "category": "idea2-puncture",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR523 punctured112 (icekylinx)",
+   "value": "0.001457945761723368",
+   "scope": "complex-bound, PR493 bit cited"
+  },
+  "hypothesis": "Further direct-sum splits exist in the 112-port complex word beyond the 8 coordinate ports removed by PR523.",
+  "command_or_script": "s2_puncture.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "completed_no_gain",
+  "result": {
+   "components": 1,
+   "component_size": 784,
+   "isolated_unit_shears": 0
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Union-find over every add in precondition, compensation, A, cut, B plus decoder pairing source t <-> target t on PR523 evidence/local/CANONICAL-WORD.json.gz.",
+  "evidence": [
+   "s2_puncture.py"
+  ],
+  "do_not_repeat_scope": "Trivial (direct-summand) puncturing of the PR523 112-port word: the whole word is one connected component.",
+  "retry_when": "A different port set or decoder (non-direct-summand restriction) is proposed with its own admission argument.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-02",
+  "category": "idea4-substitution",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR523 punctured112 (icekylinx)",
+   "value": "0.001457945761723368",
+   "scope": "complex-bound, PR493 bit cited"
+  },
+  "hypothesis": "Some helper source operand climbs to a frame only to be read once, while an exact substitute (combination of registers already at that frame with identical row) exists, so the climb can be removed.",
+  "command_or_script": "s4_subst.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "completed_no_gain",
+  "result": {
+   "helper_source_climbs_checked": 801,
+   "with_nonempty_pool": 248,
+   "avg_pool": 1.6,
+   "substitutable_full_row": 0,
+   "substitutable_clean_row": 0
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Exact rational span tests during a sequential replay of A then B on the PR523 112-port canonical word.",
+  "evidence": [
+   "s4_subst.py",
+   "s4b.py"
+  ],
+  "do_not_repeat_scope": "Single-operand substitution of climbing helper sources in the PR523 word (full-row and clean-row variants).",
+  "retry_when": "The factory is rebuilt so that more registers share frames (pools are almost empty: 1.6 registers on average).",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-03",
+  "category": "idea4-ranksector",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR523 punctured112 (icekylinx)",
+   "value": "0.001457945761723368",
+   "scope": "complex-bound, PR493 bit cited"
+  },
+  "hypothesis": "Apply PR522 rank-sector coordinate totals to PR523 (92-pivot) word.",
+  "command_or_script": null,
+  "parameters": {},
+  "seeds": [],
+  "status": "superseded",
+  "result": {
+   "kernel92_still_valid": true,
+   "widths_unchanged": {
+    "7": 18,
+    "8": 154,
+    "9": 388
+   },
+   "local_profile_delta": {
+    "1": -56,
+    "5": -56,
+    "6": 56
+   },
+   "estimated_b": 0.001469226
+  },
+  "failure_kind": "inherited_fixture",
+  "failure_reason": "vendored PR514 audit_async_invoice asserts the old local prefix bits",
+  "verification_scope": "Factory rebuild + frame transfer + kernel92 build passed; the full wrapper stopped at the inherited PR514 invoice fixture (localbits==21/prefix 206 asserted).",
+  "evidence": [],
+  "do_not_repeat_scope": "Same composition is already completed in research/ranksector112-async (kappa 0.001467289440740487); do not repeat.",
+  "retry_when": "Never; use the completed ranksector112 package.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-04",
+  "category": "idea3-codesign",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {},
+  "hypothesis": "The bit supplier surplus (c=1.5654e-3 vs b=1.4601e-3) can be converted into kappa within the current outer assembly.",
+  "command_or_script": "outer.py (inherited)",
+  "parameters": {},
+  "seeds": [],
+  "status": "analysis_only",
+  "result": {
+   "finding": "In outer.assembly the complex saving enters only through the leaf constraint (1-beta)*b > a and sigma in the internal/leaf recurrence; kappa is the bootstrapped a, capped by min(c,(1-beta)b). With b<c the bit surplus has no channel."
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Read of the shared outer.py (PR144/PR23 lineage, 47 constraints).",
+  "evidence": [
+   "outer.py (inherited)"
+  ],
+  "do_not_repeat_scope": "Re-tuning eta/beta/bootstrap depth (48 cases already in outer-followups-48).",
+  "retry_when": "A new leaf model lets part of the leaf work run on the bit supplier (new analytic argument, not a parameter search).",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-05",
+  "category": "idea1-smaller-R",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {},
+  "hypothesis": "A complex word with fewer helpers via grouped packet delivery.",
+  "command_or_script": null,
+  "parameters": {},
+  "seeds": [],
+  "status": "not_executed",
+  "result": {
+   "model_value_per_helper": 1.4e-06,
+   "evidence_of_rigidity": [
+    "0/53 frame-compatible helper reuse pairs resettable",
+    "0/56 packet-triple joint frames perpendicular to consumers (all dim 7)",
+    "own-block and slot copies forced by monotone frames"
+   ],
+   "census_PR433": {
+    "own_block_copies": 112,
+    "factory_helpers": 224,
+    "packet_second_copies": 168,
+    "slot_copies": 56
+   }
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Model and rigidity screens only (this session).",
+  "evidence": [],
+  "do_not_repeat_scope": "Local edits of the inherited Hamming packet word.",
+  "retry_when": "A co-designed geometry (frame chains + delivery groups + decoder) is formulated as CP-SAT; see PR520 for the open allocator and delivery map.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-06",
+  "category": "idea5-stages",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {},
+  "hypothesis": "Non-uniform stage recipes pack residual widths 7/8/9 exactly.",
+  "command_or_script": null,
+  "parameters": {},
+  "seeds": [],
+  "status": "not_executed",
+  "result": {
+   "note": "Hosting is near-saturated in PR523 (only 230 rank-48 + 204 small remainder children); expected gain small."
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "None.",
+  "evidence": [],
+  "do_not_repeat_scope": "",
+  "retry_when": "A new recipe with a checked ten-wire scalar identity exists.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-07",
+  "category": "idea6-labels",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {},
+  "hypothesis": "Z4/F3 label algebra eases frame rigidity.",
+  "command_or_script": null,
+  "parameters": {},
+  "seeds": [],
+  "status": "not_executed",
+  "result": {},
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "None (theory).",
+  "evidence": [],
+  "do_not_repeat_scope": "",
+  "retry_when": "A label lemma analogous to PR425 is written for the new algebra.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-08",
+  "category": "footprint-rule",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR493",
+   "value": "0.001303530097714685",
+   "scope": "complex PR471"
+  },
+  "hypothesis": "PR471 footprint rule (several helpers per family with disjoint 9-coordinate footprints) improves nine-stage kernel79 hosting over the one-owner rule.",
+  "command_or_script": "ip9d.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "completed_gain_superseded",
+  "result": {
+   "kernel79_one_owner_b": "0.001305683989618791 (reproduces PR484)",
+   "kernel79_footprint_b": "0.001310216366506891",
+   "kappa_with_PR493": "0.001308501945841842",
+   "gauge80kernel42_footprint_b": "0.001333854156208409",
+   "pr": "CrocSwap#500"
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Generator + independent audit (17 mutations) + PR484 certification; full wrapper interrupted.",
+  "evidence": [
+   "ip9d.py",
+   "ip9e.py",
+   "ip9f.py"
+  ],
+  "do_not_repeat_scope": "PR523-era words already host almost everything; footprint gain on them is expected to be small.",
+  "retry_when": "A word with many unhosted or banked residuals.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1012-09",
+  "category": "complex-kernel-withdrawn",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {},
+  "hypothesis": "PR466 complex kernel (56 proportional pairs) hosted as width-8 residuals.",
+  "command_or_script": null,
+  "parameters": {},
+  "seeds": [],
+  "status": "withdrawn",
+  "result": {
+   "reason": "spectator (ninth) coordinate unplaced; PR458 objection; superseded by PR471/PR484 admissions"
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Exact 800-column replay passed; admission invalid.",
+  "evidence": [],
+  "do_not_repeat_scope": "Do not host entering complex helpers without spectator placement.",
+  "retry_when": "Never.",
+  "supersedes": null
+ }
+]

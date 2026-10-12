@@ -65,3 +65,6 @@ Stage-dependent composition: [retimed gauge/kernel trade searches, every homogen
 - [Partial-own asynchronous composition](negative-searches/partial-own-async/README.md):new-factory allocation, completed finite composition, and a separately unverified coordinated-gauge followup.
 
 Latest completed findings: [reconciliation, remaining work and input-size explanation](followups/findings-reconciliation-2026-10-12/README.md), [ranksector112 composition](negative-searches/ranksector112-composition/README.md), [48 exact no-gain outer screens](negative-searches/outer-followups-48/README.md), and [preserved source-fixture failure](execution-failures/ranksector112-inherited-fixtures/README.md). Historical100-item classifications remain unchanged.
+
+
+Claude design screens (2026-10-12): [puncturing, substitution, rank-sector, co-design and footprint records](negative-searches/design-screens-claude-2026-10-12/README.md).

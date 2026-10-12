@@ -1,0 +1,37 @@
+{
+  "status": "EXACT_MONOTONE_FRAME_PROMOTIONS",
+  "input_sha256": "d6a40e68c591f5bf602b6566a23d88ac4ed5086b296fa192cf93552255d27cbd",
+  "input_word": "pr531-independent311/reconstructed/coalesced/FULL-WORD.json.gz",
+  "v": 112,
+  "R": 504,
+  "local_profile_before": {
+    "1": 2028,
+    "2": 752,
+    "3": 156,
+    "4": 392,
+    "5": 56,
+    "6": 56,
+    "7": 8
+  },
+  "local_profile_after": {
+    "1": 2028,
+    "2": 752,
+    "3": 156,
+    "4": 392,
+    "5": 56,
+    "6": 56,
+    "7": 8
+  },
+  "local_entropy_before": 21880.46867838187,
+  "local_entropy_after": 21880.46867838187,
+  "local_entropy_saving": 0.0,
+  "moves": 0,
+  "passes": 1,
+  "trace": [],
+  "coupled_attempts": 21828,
+  "coupled_groups": 0,
+  "scalar_operations_unchanged": true,
+  "center_and_target_cut_frames_unchanged": true,
+  "helper_entrance_and_exit_frames_unchanged": true,
+  "limitation": "Local entropy descent only. No global hosting or newly introduced Clifford phase recipe is certified here."
+}

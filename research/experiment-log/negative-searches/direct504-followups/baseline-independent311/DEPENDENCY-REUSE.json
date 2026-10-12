@@ -1,0 +1,27 @@
+{
+  "status": "PASS_BYTE_IDENTICAL_PHASE_BASELINE_TO_GIT_PINNED_PR523",
+  "files": [
+    {
+      "name": "CANONICAL-WORD.json.gz",
+      "sha256": "addf598581d2a20e13d0c18110607515ad90b06125616a2349e53a47bb5b6c80",
+      "matches_pinned_523": true
+    },
+    {
+      "name": "CLIFFORD-RECIPES.json",
+      "sha256": "1f37afd5a9e14b113ba56e0ac8a5200a6b41c695d2cd308dc0fd6ec46a4c73d2",
+      "matches_pinned_523": true
+    },
+    {
+      "name": "CLIFFORD-REVIEW.json",
+      "sha256": "468a5df1937e82a0b8e8c1c2540e18480f354154325353c5596c68e7435c89c2",
+      "matches_pinned_523": true
+    },
+    {
+      "name": "LOCAL-CHECKS.json",
+      "sha256": "ead7163869ecb9fc276f477c0ec0ed85dc74d7901ce04f91213bcf7ee1f20382",
+      "matches_pinned_523": true
+    }
+  ],
+  "source523_head": "a900f98be8ff2c09d3292b5112d4731dbd0c8438",
+  "scope": "Phase baseline artifacts match pinned PR523 whose complete local source replay passed earlier. No new cold predecessor or bit493 operator replay."
+}

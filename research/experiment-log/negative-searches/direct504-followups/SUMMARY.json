@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-10-12T01:59:56.946432+00:00",
+  "baseline_pr": 531,
+  "head": "e07a8a3f9f79c22113398a0c5dbbc7601f489b3e",
+  "conditional_kappa": "0.001517760977820331",
+  "baseline_replay": "PASS Python3.11.15 NumPy2.4.6 changed supplier/phase/global replay; baseline phase bytes independently matched pinned523; separate728column both-orientation audit,7wrappers,13local+5wrapper controls and14source bases pass. Not cold predecessor or unchanged bit operator replay.",
+  "results": {
+    "same_call_owner_swaps": 0,
+    "prefix_coupled_candidates": 1226,
+    "all_word_coupled_candidates": 21828,
+    "accepted_coupled_moves": 0,
+    "seeded_frame_orders": 40,
+    "distinct_seeded_profiles": 1,
+    "closed_components_retired": 6,
+    "optimistic_entropy_screens_promising": 6,
+    "literal_greedy_allocations_exactly_worse": 6
+  },
+  "next": "Repack retired-component widths jointly across calls and bins; current greedy transfer is not an optimality certificate. Alternatively change direct-delivery geometry or gauge selection. Do not repeat identical frame orders or fixed-family two-width swaps.",
+  "new_winner": false
+}

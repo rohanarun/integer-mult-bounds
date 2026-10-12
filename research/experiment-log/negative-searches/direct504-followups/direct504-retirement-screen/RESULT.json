@@ -1,0 +1,253 @@
+{
+  "status": "LOCAL_CONSTRUCTIONS_OPTIMISTIC_SCREEN",
+  "rows": [
+    {
+      "case": 0,
+      "kernel": 0,
+      "retired_pivots": [
+        275,
+        277,
+        323,
+        325,
+        363,
+        365,
+        374,
+        375,
+        376,
+        377,
+        435,
+        437,
+        438,
+        439,
+        443,
+        445,
+        446,
+        447,
+        465,
+        466,
+        467,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479
+      ],
+      "local_profile": {
+        "1": 1994,
+        "2": 718,
+        "3": 190,
+        "4": 360,
+        "5": 88,
+        "6": 56,
+        "7": 8
+      },
+      "optimistic_global_profile": {
+        "1": 143568,
+        "2": 51696,
+        "3": 15671,
+        "4": 25920,
+        "5": 9919,
+        "6": 4032,
+        "7": 1376,
+        "32": 1,
+        "48": 825
+      },
+      "entropy_delta": -7907.993258025497,
+      "scope": "Unrealized optimistic packing screen; no certified global gain"
+    },
+    {
+      "case": 1,
+      "kernel": 1,
+      "retired_pivots": [
+        299,
+        301,
+        347,
+        349,
+        359,
+        361,
+        370,
+        371,
+        372,
+        373,
+        419,
+        421,
+        422,
+        423,
+        427,
+        429,
+        430,
+        431,
+        449,
+        450,
+        451,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463
+      ],
+      "local_profile": {
+        "1": 1994,
+        "2": 718,
+        "3": 190,
+        "4": 360,
+        "5": 88,
+        "6": 56,
+        "7": 8
+      },
+      "optimistic_global_profile": {
+        "1": 143568,
+        "2": 51696,
+        "3": 15671,
+        "4": 25920,
+        "5": 9919,
+        "6": 4032,
+        "7": 1376,
+        "32": 1,
+        "48": 825
+      },
+      "entropy_delta": -7907.993258025497,
+      "scope": "Unrealized optimistic packing screen; no certified global gain"
+    },
+    {
+      "case": 2,
+      "kernel": 2,
+      "retired_pivots": [
+        326,
+        327,
+        338,
+        339
+      ],
+      "local_profile": {
+        "1": 2024,
+        "2": 744,
+        "3": 164,
+        "4": 392,
+        "5": 56,
+        "6": 56,
+        "7": 8
+      },
+      "optimistic_global_profile": {
+        "1": 145728,
+        "2": 53568,
+        "3": 14471,
+        "4": 28224,
+        "5": 7615,
+        "6": 4032,
+        "7": 1376,
+        "32": 1,
+        "48": 825
+      },
+      "entropy_delta": -783.4961436770391,
+      "scope": "Unrealized optimistic packing screen; no certified global gain"
+    },
+    {
+      "case": 3,
+      "kernel": 3,
+      "retired_pivots": [
+        314,
+        315,
+        350,
+        351
+      ],
+      "local_profile": {
+        "1": 2024,
+        "2": 744,
+        "3": 164,
+        "4": 392,
+        "5": 56,
+        "6": 56,
+        "7": 8
+      },
+      "optimistic_global_profile": {
+        "1": 145728,
+        "2": 53568,
+        "3": 14471,
+        "4": 28224,
+        "5": 7615,
+        "6": 4032,
+        "7": 1376,
+        "32": 1,
+        "48": 825
+      },
+      "entropy_delta": -783.4961436770391,
+      "scope": "Unrealized optimistic packing screen; no certified global gain"
+    },
+    {
+      "case": 4,
+      "kernel": 4,
+      "retired_pivots": [
+        316,
+        317,
+        340,
+        341
+      ],
+      "local_profile": {
+        "1": 2024,
+        "2": 744,
+        "3": 164,
+        "4": 392,
+        "5": 56,
+        "6": 56,
+        "7": 8
+      },
+      "optimistic_global_profile": {
+        "1": 145728,
+        "2": 53568,
+        "3": 14471,
+        "4": 28224,
+        "5": 7615,
+        "6": 4032,
+        "7": 1376,
+        "32": 1,
+        "48": 825
+      },
+      "entropy_delta": -783.4961436770391,
+      "scope": "Unrealized optimistic packing screen; no certified global gain"
+    },
+    {
+      "case": 5,
+      "kernel": 5,
+      "retired_pivots": [
+        328,
+        329,
+        352,
+        353
+      ],
+      "local_profile": {
+        "1": 2024,
+        "2": 744,
+        "3": 164,
+        "4": 392,
+        "5": 56,
+        "6": 56,
+        "7": 8
+      },
+      "optimistic_global_profile": {
+        "1": 145728,
+        "2": 53568,
+        "3": 14471,
+        "4": 28224,
+        "5": 7615,
+        "6": 4032,
+        "7": 1376,
+        "32": 1,
+        "48": 825
+      },
+      "entropy_delta": -783.4961436770391,
+      "scope": "Unrealized optimistic packing screen; no certified global gain"
+    }
+  ]
+}

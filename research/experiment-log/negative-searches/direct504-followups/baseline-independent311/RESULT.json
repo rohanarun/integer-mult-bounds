@@ -1,0 +1,55 @@
+{
+  "status": "PASS_FAST_OFFLINE_FINITE_REPLAY",
+  "kappa": "1517760977820331/1000000000000000000",
+  "kappa_decimal": "0.001517760977820331",
+  "complex_lower": "304013615566499291631/200000000000000000000000",
+  "binding_component": "complex",
+  "elapsed_seconds": 12.295603959006257,
+  "predecessor_cold_replay": false,
+  "unchanged_bit_operator_rebuilt": false,
+  "changed_phase_edges_replayed": true,
+  "scalar_factory_rebuilt": true,
+  "steps": [
+    {
+      "name": "rebuild-selected",
+      "seconds": 1.3639498749980703,
+      "log": "rebuild-selected.log"
+    },
+    {
+      "name": "changed-scalar-and-frames",
+      "seconds": 0.6489822920411825,
+      "log": "changed-scalar-and-frames.log"
+    },
+    {
+      "name": "changed-phase-edges",
+      "seconds": 4.504012124962173,
+      "log": "changed-phase-edges.log"
+    },
+    {
+      "name": "new-local-controller-binding",
+      "seconds": 1.2470043749781325,
+      "log": "new-local-controller-binding.log"
+    },
+    {
+      "name": "emit-actual-owners",
+      "seconds": 2.125289166928269,
+      "log": "emit-actual-owners.log"
+    },
+    {
+      "name": "independent-whole-owners",
+      "seconds": 1.4408882909920067,
+      "log": "independent-whole-owners.log"
+    },
+    {
+      "name": "fresh-prefix-and-invoice",
+      "seconds": 0.62032216694206,
+      "log": "fresh-prefix-and-invoice.log"
+    },
+    {
+      "name": "two-moments-and-outer",
+      "seconds": 0.23942333296872675,
+      "log": "two-moments-and-outer.log"
+    }
+  ],
+  "scope": "Fresh changed-word and actual-host finite checks; byte-pinned completed phase/data/bit dependencies reused by default. All-size realization and analytic-transfer interfaces remain conditional."
+}

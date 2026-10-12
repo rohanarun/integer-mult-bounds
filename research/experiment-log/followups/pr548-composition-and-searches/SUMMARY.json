@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-10-12T04:05:19.216055+00:00",
+  "status": "COMPLETE_PR548_COMPOSITION_AND_FOLLOWUP_ARCHIVE",
+  "source_pr": 548,
+  "source_head": "66dbc2bffc1bfa8d50b3f9a2ac7ccba8fd9f6f36",
+  "own_pr": 547,
+  "own_head": "eecca20a24258cb6d9f698b1984a95029bac0a1c",
+  "kappa": "0.001590984155135328",
+  "binding": "complex",
+  "archive_members": 409,
+  "archive_sha256": "d260fc2705b42b9b18442d1e9248610a363352e1507a969a175e11e6446c313e",
+  "byte_compared_every_archive_member": true,
+  "search_outcomes": {
+    "minimum_frames": "741 changes, fee rises by 0.5521435205655365; loses",
+    "anneals": "Seeds 54801 and 54802, 60 seconds each; no gain",
+    "whole_helper_moves": "36288 roles, no gain",
+    "same_call_pairs": "9126432 unordered pairs, no gain",
+    "cross_call_pairs": "36288 roles screened through remainder/width groups, no improving shape",
+    "two_for_one": "44110 co-located helper pairs, no improving shape",
+    "exact_exchange_obstruction": "30 capacity-feasible one-for-one shapes and 8 two-for-one shapes cannot improve for any 0<b<1",
+    "relaxed_complex_ceiling": "0.001615290935375506063577"
+  },
+  "scope": "Conditional finite composition. Arithmetic checks agree in Python3.11 and3.14; complex physical replay in3.14. CI not claimed passed. Search negatives have fixed-word/fixed-map scope. Relaxed ceiling is not feasible or a new kappa; unused PR548 bit not replayed."
+}

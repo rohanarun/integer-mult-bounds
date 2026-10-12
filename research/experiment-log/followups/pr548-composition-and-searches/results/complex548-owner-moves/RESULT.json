@@ -1,0 +1,33 @@
+{
+  "status": "COMPLETE_BOUNDED_SINGLE_WHOLE_HELPER_RELOCATION_SCREEN",
+  "role_visits": 36288,
+  "improving_remainder_shapes": 1,
+  "candidate_families_tested": 1,
+  "moves": [],
+  "profile": {
+    "1": 164448,
+    "2": 33280,
+    "3": 37059,
+    "4": 12096,
+    "5": 4032,
+    "6": 4032,
+    "7": 208,
+    "8": 576,
+    "39": 1,
+    "48": 1660
+  },
+  "baseline_profile": {
+    "1": 164448,
+    "2": 33280,
+    "3": 37059,
+    "4": 12096,
+    "5": 4032,
+    "6": 4032,
+    "7": 208,
+    "8": 576,
+    "39": 1,
+    "48": 1660
+  },
+  "seconds": 0.514258790994063,
+  "scope": "Fixed actual call order, local word, widths, allowed owner windows and one whole helper per physical family per call. Bounded greedy whole-role moves; floating cost only. No two-role exchange, global optimum or new physical admission claim."
+}

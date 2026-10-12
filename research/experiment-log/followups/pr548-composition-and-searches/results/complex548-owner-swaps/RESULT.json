@@ -1,0 +1,33 @@
+{
+  "status": "COMPLETE_BOUNDED_SAME_CALL_PAIR_EXCHANGE_SCREEN",
+  "pair_visits": 9126432,
+  "improving_remainder_shapes": 0,
+  "candidate_families_tested": 0,
+  "moves": [],
+  "profile": {
+    "1": 164448,
+    "2": 33280,
+    "3": 37059,
+    "4": 12096,
+    "5": 4032,
+    "6": 4032,
+    "7": 208,
+    "8": 576,
+    "39": 1,
+    "48": 1660
+  },
+  "baseline_profile": {
+    "1": 164448,
+    "2": 33280,
+    "3": 37059,
+    "4": 12096,
+    "5": 4032,
+    "6": 4032,
+    "7": 208,
+    "8": 576,
+    "39": 1,
+    "48": 1660
+  },
+  "seconds": 2.349155709031038,
+  "scope": "Fixed actual call order, local word, widths, allowed owner windows and one whole helper per physical family per call. At most eight sweeps, best improving same-call pair per call per sweep; floating cost only. No cross-call exchange, global optimum or new physical admission claim."
+}

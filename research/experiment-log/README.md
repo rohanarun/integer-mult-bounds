@@ -84,3 +84,5 @@ R480 bit wider screens (2026-10-12): [all root-closed frame lifts, gate reorder,
 Verified winning composition: [PR541 trace plus sliced R480 frames](followups/r480-trace-frame-composition/README.md), including losing compositions, diagnostic failures and cross-version physical receipts. Conditional kappa 0.001587467473762886; complex supplier now binds.
 
 Latest composition and allocation followup: [static44 global admission and R420](followups/static44-global-and-r420/README.md), including PR546 and PR547, complete underlying replays, every observed failure, and the scoped owner-allocation ceiling. Conditional kappa 0.001590711200057236; complex side binds.
+
+Latest checked composition and completed searches: [PR548 complex plus R420; exact exchange obstruction and remaining allocation ceiling](followups/pr548-composition-and-searches/README.md). Conditional kappa0.001590984155135328; six search outcomes retained, no subsequent gain.

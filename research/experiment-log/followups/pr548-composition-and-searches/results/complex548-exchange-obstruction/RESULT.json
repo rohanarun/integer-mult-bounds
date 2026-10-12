@@ -1,0 +1,583 @@
+{
+  "status": "PASS_EXACT_FIXED_MAP_PAIR_AND_TWO_FOR_ONE_OBSTRUCTION",
+  "source_head": "66dbc2bffc1bfa8d50b3f9a2ac7ccba8fd9f6f36",
+  "roles_sha256": "b5a5339dd37d90a0adf40d90d6aed52aec2f94073a3b27763575eb069f85a903",
+  "parent_sha256": "0f5ea9540872ada4c5f7af49089d4dc92a9cef2f1ed0a64499b2dbff4dc133a6",
+  "role_groups": [
+    {
+      "width": 5,
+      "remainder": 0,
+      "count": 3584
+    },
+    {
+      "width": 5,
+      "remainder": 2,
+      "count": 448
+    },
+    {
+      "width": 8,
+      "remainder": 0,
+      "count": 11232
+    },
+    {
+      "width": 9,
+      "remainder": 0,
+      "count": 10752
+    },
+    {
+      "width": 9,
+      "remainder": 2,
+      "count": 448
+    },
+    {
+      "width": 9,
+      "remainder": 3,
+      "count": 9615
+    },
+    {
+      "width": 9,
+      "remainder": 7,
+      "count": 208
+    },
+    {
+      "width": 9,
+      "remainder": 39,
+      "count": 1
+    }
+  ],
+  "packet_groups": [
+    {
+      "width": 14,
+      "remainder": 0,
+      "count": 10752
+    },
+    {
+      "width": 14,
+      "remainder": 2,
+      "count": 448
+    },
+    {
+      "width": 16,
+      "remainder": 0,
+      "count": 2928
+    },
+    {
+      "width": 18,
+      "remainder": 0,
+      "count": 10752
+    },
+    {
+      "width": 18,
+      "remainder": 3,
+      "count": 19230
+    }
+  ],
+  "pair": {
+    "shape_combinations": 64,
+    "capacity_infeasible_shapes": 34,
+    "feasible_shapes": [
+      {
+        "width_out": 5,
+        "width_in": 5,
+        "before": [
+          0,
+          0
+        ],
+        "after": [
+          0,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 5,
+        "width_in": 5,
+        "before": [
+          0,
+          2
+        ],
+        "after": [
+          0,
+          2
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 5,
+        "width_in": 5,
+        "before": [
+          2,
+          0
+        ],
+        "after": [
+          2,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 5,
+        "width_in": 5,
+        "before": [
+          2,
+          2
+        ],
+        "after": [
+          2,
+          2
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 8,
+        "width_in": 8,
+        "before": [
+          0,
+          0
+        ],
+        "after": [
+          0,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          0,
+          0
+        ],
+        "after": [
+          0,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          0,
+          2
+        ],
+        "after": [
+          0,
+          2
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          0,
+          3
+        ],
+        "after": [
+          0,
+          3
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          0,
+          7
+        ],
+        "after": [
+          0,
+          7
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          0,
+          39
+        ],
+        "after": [
+          0,
+          39
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          2,
+          0
+        ],
+        "after": [
+          2,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          2,
+          2
+        ],
+        "after": [
+          2,
+          2
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          2,
+          3
+        ],
+        "after": [
+          2,
+          3
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          2,
+          7
+        ],
+        "after": [
+          2,
+          7
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          2,
+          39
+        ],
+        "after": [
+          2,
+          39
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          3,
+          0
+        ],
+        "after": [
+          3,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          3,
+          2
+        ],
+        "after": [
+          3,
+          2
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          3,
+          3
+        ],
+        "after": [
+          3,
+          3
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          3,
+          7
+        ],
+        "after": [
+          3,
+          7
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          3,
+          39
+        ],
+        "after": [
+          3,
+          39
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          7,
+          0
+        ],
+        "after": [
+          7,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          7,
+          2
+        ],
+        "after": [
+          7,
+          2
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          7,
+          3
+        ],
+        "after": [
+          7,
+          3
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          7,
+          7
+        ],
+        "after": [
+          7,
+          7
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          7,
+          39
+        ],
+        "after": [
+          7,
+          39
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          39,
+          0
+        ],
+        "after": [
+          39,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          39,
+          2
+        ],
+        "after": [
+          39,
+          2
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          39,
+          3
+        ],
+        "after": [
+          39,
+          3
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          39,
+          7
+        ],
+        "after": [
+          39,
+          7
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 9,
+        "width_in": 9,
+        "before": [
+          39,
+          39
+        ],
+        "after": [
+          39,
+          39
+        ],
+        "smaller_remainder_change": 0
+      }
+    ]
+  },
+  "two_for_one": {
+    "shape_combinations": 40,
+    "capacity_infeasible_shapes": 32,
+    "feasible_shapes": [
+      {
+        "width_out": 14,
+        "width_in": 9,
+        "before": [
+          0,
+          7
+        ],
+        "after": [
+          5,
+          2
+        ],
+        "smaller_remainder_change": 2
+      },
+      {
+        "width_out": 14,
+        "width_in": 9,
+        "before": [
+          0,
+          39
+        ],
+        "after": [
+          5,
+          34
+        ],
+        "smaller_remainder_change": 5
+      },
+      {
+        "width_out": 14,
+        "width_in": 9,
+        "before": [
+          2,
+          7
+        ],
+        "after": [
+          7,
+          2
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 14,
+        "width_in": 9,
+        "before": [
+          2,
+          39
+        ],
+        "after": [
+          7,
+          34
+        ],
+        "smaller_remainder_change": 5
+      },
+      {
+        "width_out": 16,
+        "width_in": 9,
+        "before": [
+          0,
+          7
+        ],
+        "after": [
+          7,
+          0
+        ],
+        "smaller_remainder_change": 0
+      },
+      {
+        "width_out": 16,
+        "width_in": 9,
+        "before": [
+          0,
+          39
+        ],
+        "after": [
+          7,
+          32
+        ],
+        "smaller_remainder_change": 7
+      },
+      {
+        "width_out": 18,
+        "width_in": 9,
+        "before": [
+          0,
+          39
+        ],
+        "after": [
+          9,
+          30
+        ],
+        "smaller_remainder_change": 9
+      },
+      {
+        "width_out": 18,
+        "width_in": 9,
+        "before": [
+          3,
+          39
+        ],
+        "after": [
+          12,
+          30
+        ],
+        "smaller_remainder_change": 9
+      }
+    ]
+  },
+  "argument": "All represented capacity-feasible exchanges preserve the sum of the two affected remainders and weakly increase their minimum. Concavity of r^(1-b) for every 0<b<1 then makes the paid moment nondecreasing. The count of positive remainder children also cannot fall, so the retained positive per-child fallback charge cannot improve. Windows and physical-family conflicts only restrict this relaxed neighborhood further.",
+  "scope": "Fixed current owner map, local profiles, widths and data-idle bins. Exchanging one whole helper for one, or two co-located whole helpers for one, between two bins. Does not cover multi-bin cycles, role splitting, multi-role block exchanges, changed call order, local word, stock or geometry. This is not a global allocation optimum or new kappa."
+}

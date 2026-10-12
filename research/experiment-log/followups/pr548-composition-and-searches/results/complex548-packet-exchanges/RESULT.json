@@ -1,0 +1,33 @@
+{
+  "status": "COMPLETE_BOUNDED_TWO_FOR_ONE_PACKET_EXCHANGE_SCREEN",
+  "role_visits": 44110,
+  "improving_remainder_shapes": 0,
+  "candidate_families_tested": 0,
+  "moves": [],
+  "profile": {
+    "1": 164448,
+    "2": 33280,
+    "3": 37059,
+    "4": 12096,
+    "5": 4032,
+    "6": 4032,
+    "7": 208,
+    "8": 576,
+    "39": 1,
+    "48": 1660
+  },
+  "baseline_profile": {
+    "1": 164448,
+    "2": 33280,
+    "3": 37059,
+    "4": 12096,
+    "5": 4032,
+    "6": 4032,
+    "7": 208,
+    "8": 576,
+    "39": 1,
+    "48": 1660
+  },
+  "seconds": 0.532393041998148,
+  "scope": "Fixed actual call order, local word, widths, allowed owner windows and one whole helper per physical family per call. Up to 32 first-improving exchanges of two whole helpers in one bin for one in another. Check every affected call busy set and allowed window. Floating screen only; no global optimum or physical admission claimed."
+}

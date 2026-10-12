@@ -1,0 +1,11 @@
+{
+  "branch": "codex/r480-sharp-charge535",
+  "commit": "915ca69db7f98c70b97ce96e1fcc96818517584c",
+  "base": "db0e57bc7f36b5ac0fc844ad7ce1396165ee6647",
+  "files": 18,
+  "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/539",
+  "previous_commits": [
+    "204ce24e360d90757cddcc5233a4ef0ffc82c7f6"
+  ],
+  "tree": "fd3a2350f659d6f607ed3bebeb132b7054b1889c"
+}

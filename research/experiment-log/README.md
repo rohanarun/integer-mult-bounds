@@ -76,3 +76,4 @@ Latest: [PR531 independent replay and direct-delivery failed searches](negative-
 R480 bit frontier: [frame, stage-count and non-root kernel followups](negative-searches/bit510-followups/README.md), including all no-gain outcomes and an exact fixed-first-touch kernel obstruction.
 
 New tiny gain and exact remaining limit: [R480 literal fallback repricing, cross-version receipts and fixed-profile ceiling](followups/r480-sharp-charge/README.md).
+Frame-chain search on PR531 (2026-10-12): [κ 0.001526158885117467, PR534, plus 7 follow-up screens](followups/frame-chain-search-pr531-claude-2026-10-12/README.md).

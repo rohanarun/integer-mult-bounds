@@ -1,0 +1,16 @@
+[
+  {
+    "file": "pr558-review.tar.gz",
+    "sha256": "6b4ee5801cca6728f49477f1ed61d3f67d02121eb235c2db1630d828df45307f",
+    "file_count": 250,
+    "bytes": 4526335,
+    "verified_against_source": true
+  },
+  {
+    "file": "native-complex552-publication.tar.gz",
+    "sha256": "da2ad081677e481f35e5c96cadc3959876b648213c31c0700e198390dbadeeeb",
+    "file_count": 40,
+    "bytes": 95704,
+    "verified_against_source": true
+  }
+]

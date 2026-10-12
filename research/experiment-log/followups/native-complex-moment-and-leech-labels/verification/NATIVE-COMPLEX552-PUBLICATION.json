@@ -1,0 +1,12 @@
+{
+  "branch": "codex/native-complex-moment552",
+  "commit": "d858c0b2edcc704ef370b3c96dc51a75439b77b0",
+  "base": "db0e57bc7f36b5ac0fc844ad7ce1396165ee6647",
+  "files": 40,
+  "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/559",
+  "previous_commits": [
+    "000ede8d8354bbf2e1f0f881d0a668dac979d953",
+    "c646d02cb9529962cb1f5f42c96a45ae1ccd981e"
+  ],
+  "tree": "dea587c2f3ce0fdceafa6927dc7e9a262b87b769"
+}

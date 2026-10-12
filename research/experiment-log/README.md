@@ -92,3 +92,5 @@ Radical geometry batch: [Leech support and label obstructions, constructed E7 lo
 PR550 followup: [joint retiming admitted in PR554, exact single-frame obstruction, broader trace failures and smaller Leech subsets](followups/trace550-and-leech-subsets/README.md). Conditional kappa0.001591209947088545, above550 but below concurrent551/552 reported results. Full3.14/3.11 finite checks pass.
 
 Latest completed tests: [PR552 circuit/frame searches, exact smaller-Leech cost obstruction, and independently replayed PR557 ceiling](followups/pr552-wave-cuts-and-leech-cost/README.md). No new kappa; failures and proof-scope limits retained.
+
+Latest completed batch: [native complex moment, full Leech quotient geometry, label compression and commutator failures](followups/native-complex-moment-and-leech-labels/README.md). PR559 reports conditional kappa 0.001592517892053334; Leech witnesses remain unadmitted.

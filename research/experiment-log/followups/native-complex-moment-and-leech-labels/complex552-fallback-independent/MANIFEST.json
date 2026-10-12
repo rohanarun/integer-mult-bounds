@@ -1,0 +1,16 @@
+{
+  "status": "FROZEN_INDEPENDENT_SCOPE_REVIEW",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5702,
+      "sha256": "90b021a6f21b4fcbb12e92a536729193c12c8016dcd8aa9095fbdff4461b0d1e"
+    },
+    {
+      "path": "REVIEW.json",
+      "bytes": 4201,
+      "sha256": "518fd773b1287c9be19563316f55acfa443667946d1f5bc7cc7b884bb9005094"
+    }
+  ],
+  "file_count": 2
+}

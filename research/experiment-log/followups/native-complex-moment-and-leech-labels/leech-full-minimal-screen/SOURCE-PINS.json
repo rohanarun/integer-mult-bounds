@@ -1,0 +1,27 @@
+{
+  "source_generator": {
+    "path": "radical-geometry-leech/leech_vectors.py",
+    "sha256": "685654071c2550ce6d80a868bf6e2a8afd52326deb828df2c2f774c147759abf",
+    "credit": "Golay generator and196560 minimal-vector enumeration reused from earlier Claude-assisted census; this run targets lattice quotient labels and puncturing."
+  },
+  "prior_category": "radical-geometry-leech; prior fullshell census is regression only",
+  "primary_sources": [
+    "https://www.math.rwth-aachen.de/~Gabriele.Nebe/LATTICES/Leech.html",
+    "https://www.math.rwth-aachen.de/~Gabriele.Nebe/papers/Ext72.pdf",
+    "https://arxiv.org/abs/math/0403263"
+  ],
+  "primary_source_copies": [
+    {
+      "path": "Nebe-Ext72.pdf",
+      "url": "https://www.math.rwth-aachen.de/~Gabriele.Nebe/papers/Ext72.pdf",
+      "sha256": "88223f9b918037adccc5a9d5264f6117d5c9d9e5232b0b9ec319d5b1e1098ab5",
+      "bytes": 154381
+    },
+    {
+      "path": "Nebe-Sloane-Leech.html",
+      "url": "https://www.math.rwth-aachen.de/~Gabriele.Nebe/LATTICES/Leech.html",
+      "sha256": "0d5967713c09e2fda1ba06fc183ca376eccc73b9e4612e88d36c5fe70d13479c",
+      "bytes": 29446
+    }
+  ]
+}

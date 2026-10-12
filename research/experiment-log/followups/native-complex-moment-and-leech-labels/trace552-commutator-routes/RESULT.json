@@ -1,0 +1,18 @@
+{
+  "status": "BOUNDED_CONTIGUOUS_COMMUTATOR_SCREEN_COMPLETE",
+  "source_pr552_head": "33c33af0b7697155be1ea708e08cbd3f0707d94c",
+  "source_sha256": "a30810b755cf80e1128c0b932728bd51ca8e0bb31225fc415675afb42a766c8f",
+  "stats": {
+    "gates_screened": 384,
+    "helper_intervals_screened": 192964,
+    "compatible_helper_intervals": 271,
+    "warm_helpers_selected": 268,
+    "nested_frame_assignments": 13028,
+    "helper_orientations": 536,
+    "partial_large_quotient_intervals": 22
+  },
+  "nominations": [],
+  "rejected_nominations": [],
+  "seconds": 7.398488875012845,
+  "scope": "Top384 endpoint-fee gates, up to12 warm compatible existing helpers each, two commutator orientations, fixed contiguous location. Nested frame intervals complete through quotient dimension3; larger intervals use existing frame catalog and endpoints only. Coefficients use u=1,v=k, with general signed dyadic identity controls. Full profile checked only positive nominations; all require independent physical/exact price admission."
+}

@@ -1,0 +1,60 @@
+{
+  "status": "PASS_INDEPENDENT_LABEL_COMPRESSION_AND_SCOPED_OBSTRUCTIONS",
+  "old_fixed_gram_rank": 26,
+  "old_fixed_gram_dimension_lower_bound": 26,
+  "new_gram_rank": 12,
+  "new_distinct_label_dimension": 16,
+  "new_label_span_rank": 14,
+  "new_color_class_sizes": [
+    3,
+    3,
+    2,
+    2,
+    2,
+    3,
+    4,
+    3,
+    3,
+    3,
+    3,
+    2
+  ],
+  "minimum_ambient_dimension_for_new_fixed_gram_and_distinct_ports": 16,
+  "new_actual_center_ranks": [
+    14,
+    7,
+    4,
+    4,
+    12,
+    6
+  ],
+  "new_copied_rank": 47,
+  "new_fixed_gram_minimum_copied_rank": 47,
+  "all_admissible_gram_completions_fixed_decoder_copy_lower_bound": 45,
+  "all_positive_stage_counts_deficit_upper": "-12*L-33",
+  "center_normals": [
+    20480,
+    1,
+    16419,
+    49283,
+    19228,
+    1
+  ],
+  "partition_clique_obstruction": "Five nonglobal centers partition33ports into orthogonal cliques, charging33already. Global center contains a12clique, charging at least12more.",
+  "oddness_control_rejected": true,
+  "forced_edge_duplicate_control_rejected": true,
+  "scope": "Same33port scalar factorization and ordinary dot-product correction caps. Changing scalar decoder or copied-center interface is outside this obstruction.",
+  "recentered_transfer_preserved": true,
+  "recentered_change_of_basis_and_inverse_integral": true,
+  "recentered_center_ranks": [
+    4,
+    4,
+    6,
+    7,
+    12
+  ],
+  "recentered_copied_rank": 33,
+  "all_gather_rowspace_recombinations_copy_lower_bound": 33,
+  "recentered_deficit_upper_all_positive_L": "-33",
+  "recentered_scope": "All centers drawn from this retained transfer rowspace; outside-rowspace gathers and other scalar transfers remain open."
+}

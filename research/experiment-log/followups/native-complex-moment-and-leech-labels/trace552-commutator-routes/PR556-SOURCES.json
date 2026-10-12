@@ -1,0 +1,20 @@
+{
+  "head": "24321d9347828751adabd86de4a4a7807207afac",
+  "files": [
+    {
+      "path": "research/projection-cut-toolkit/evidence/TRACE-SCREENS.json",
+      "git_blob": "78bc294de1705ca1ca9bd4cea22d947690b3889c",
+      "sha256": "7a9ab2d309dc462dd2f38dc8e3cb5b869bd3b0f75df02dd3f250edece45e130e"
+    },
+    {
+      "path": "research/projection-cut-toolkit/notes/RESPONSE.md",
+      "git_blob": "766150f9c495ad3ae9f259a77c3fe64ca5f512c4",
+      "sha256": "ccdac5852c7b334abd29e4a9e3e0616cdd415fd3320194ddb81205c96e918205"
+    },
+    {
+      "path": "research/projection-cut-toolkit/evidence/ROOT-SCREENS.json",
+      "git_blob": "dca9e9547ccc697705177a1d1d5af6e21b6309ab",
+      "sha256": "e8bd5ddcf78f2fadc83ba7942144ab83859bdc0aaea688b1d760327657a39440"
+    }
+  ]
+}

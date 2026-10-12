@@ -1,0 +1,100 @@
+{
+  "status": "PASS_EXACT_DYADIC_RECENTERING_AND_ALL_RECOMBINATIONS_LOWER_BOUND",
+  "original_center_coordinates": [
+    0,
+    1,
+    2,
+    3,
+    7,
+    9
+  ],
+  "exact_gather_relation": "B0+B1+B2+B3+B4+B5=0",
+  "catalog_projective_directions": 364,
+  "catalog_gather_rank_histogram": {
+    "6": 3,
+    "14": 288,
+    "12": 9,
+    "10": 12,
+    "4": 6,
+    "11": 24,
+    "7": 9,
+    "13": 12,
+    "0": 1
+  },
+  "selected_change_of_basis": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "determinant": "-1",
+  "inverse_is_dyadic": true,
+  "original_nonzero_centers": 6,
+  "new_nonzero_centers": 5,
+  "scalar_transfer_rank": 5,
+  "new_center_ranks": [
+    4,
+    4,
+    6,
+    7,
+    12
+  ],
+  "new_copied_rank": 33,
+  "label_dimension_unchanged": 16,
+  "partition_clique_sizes": [
+    7,
+    4,
+    4,
+    12,
+    6
+  ],
+  "global_recombination_copy_lower_bound": 33,
+  "proof": "Each nonzero linear combination of five disjoint gather rows contains the entire support clique of every group with nonzero coefficient. For any five independent combinations, an invertible5x5 coefficient matrix has a determinant permutation with nonzero entries; the corresponding five gathered frames therefore charge at least the five group sizes in some order. Sum>=33. Any spanning overcomplete collection contains an independent five-row subset and cannot cost less. This bound applies to all coefficients, not only the364catalog directions.",
+  "nine_stage_deficit": -33,
+  "all_positive_stage_count_deficit_upper": "-33",
+  "scope": "Every gather collection lying in this fixed decoder rowspace, under ordinary separately copied-center accounting. All minimal-rank5center factorizations of the same scalar transfer lie in that rowspace. New scalar transfers, auxiliary gather directions outside the rowspace, or center-copy elimination are not ruled out."
+}

@@ -1,0 +1,73 @@
+{
+  "status": "PASS_INDEPENDENT_PUNCTURED_SCALAR_LATTICE_LABEL_AND_GATHER_WITNESSES",
+  "basis_scaled_det": "68719476736",
+  "basis_lattice_Gram_det": "1",
+  "records": [
+    {
+      "seed": 55024,
+      "ports": 116,
+      "exact_scalar_rank": 24,
+      "diagonal_one": true,
+      "scalar_alphabet": [
+        "-1/4",
+        "0",
+        "1/4",
+        "1"
+      ],
+      "label_recomputed_from_Lambda_basis": true,
+      "all_correction_caps": true,
+      "coordinate_centers_have_common_proper_hyperplane": false,
+      "gather_scatter_nonzero_coefficients": 4000,
+      "directed_offdiagonal_corrections": 7414,
+      "scope": "Coefficient incidence counts only, not framed operation counts or paid-rank profile."
+    },
+    {
+      "seed": 55025,
+      "ports": 106,
+      "exact_scalar_rank": 24,
+      "diagonal_one": true,
+      "scalar_alphabet": [
+        "-1/4",
+        "0",
+        "1/4",
+        "1"
+      ],
+      "label_recomputed_from_Lambda_basis": true,
+      "all_correction_caps": true,
+      "coordinate_centers_have_common_proper_hyperplane": true,
+      "gather_scatter_nonzero_coefficients": 1684,
+      "directed_offdiagonal_corrections": 6162,
+      "scope": "Coefficient incidence counts only, not framed operation counts or paid-rank profile."
+    },
+    {
+      "seed": 55026,
+      "ports": 106,
+      "exact_scalar_rank": 24,
+      "diagonal_one": true,
+      "scalar_alphabet": [
+        "-1/4",
+        "0",
+        "1/4",
+        "1"
+      ],
+      "label_recomputed_from_Lambda_basis": true,
+      "all_correction_caps": true,
+      "coordinate_centers_have_common_proper_hyperplane": true,
+      "gather_scatter_nonzero_coefficients": 1684,
+      "directed_offdiagonal_corrections": 6132,
+      "scope": "Coefficient incidence counts only, not framed operation counts or paid-rank profile."
+    }
+  ],
+  "full_shell_incidence_calculations": {
+    "full_shell_natural_decoder_offdiagonal_corrections": 5081469120,
+    "full_shell_natural_decoder_forbidden_correction_caps": 452088000,
+    "full_shell_directed_per_port_incidence": 51704,
+    "caveat": "Specific natural rank24 Gram decoder only. Not a lower bound for all Leech-derived encoders/decoders."
+  },
+  "negative_controls": [
+    "even_label_rejected",
+    "nonunit_diagonal_rejected"
+  ],
+  "witness_sha256": "3e656174577c40c0b6933e7095473796fe8daea6130cd42c1112ca853ca26210",
+  "scope": "Finite algebra/label/cap checks only; no dirty-helper chronology, phase compiler, native adapter, physical allocation, moment root or kappa."
+}

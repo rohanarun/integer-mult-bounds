@@ -1,0 +1,178 @@
+{
+  "status": "PASS_EXACT_LABEL_INDEPENDENT_CENTER_RANK_LOWER_BOUND",
+  "ports": 33,
+  "center_bounds": [
+    {
+      "center_coordinate": 0,
+      "support_ports": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "forced_orthogonal_clique": [
+        7,
+        9,
+        3,
+        10,
+        13,
+        15,
+        19,
+        20,
+        24,
+        27,
+        30,
+        31
+      ],
+      "copied_rank_lower_bound": 12,
+      "distinct_colors_on_support": 12
+    },
+    {
+      "center_coordinate": 1,
+      "support_ports": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        8,
+        12
+      ],
+      "forced_orthogonal_clique": [
+        0,
+        1,
+        2,
+        8,
+        4,
+        12,
+        6
+      ],
+      "copied_rank_lower_bound": 7,
+      "distinct_colors_on_support": 7
+    },
+    {
+      "center_coordinate": 2,
+      "support_ports": [
+        14,
+        16,
+        18,
+        22
+      ],
+      "forced_orthogonal_clique": [
+        16,
+        18,
+        14,
+        22
+      ],
+      "copied_rank_lower_bound": 4,
+      "distinct_colors_on_support": 4
+    },
+    {
+      "center_coordinate": 3,
+      "support_ports": [
+        23,
+        26,
+        29,
+        32
+      ],
+      "forced_orthogonal_clique": [
+        32,
+        26,
+        29,
+        23
+      ],
+      "copied_rank_lower_bound": 4,
+      "distinct_colors_on_support": 4
+    },
+    {
+      "center_coordinate": 7,
+      "support_ports": [
+        3,
+        7,
+        9,
+        10,
+        13,
+        15,
+        19,
+        20,
+        24,
+        27,
+        30,
+        31
+      ],
+      "forced_orthogonal_clique": [
+        3,
+        7,
+        9,
+        10,
+        13,
+        15,
+        19,
+        20,
+        24,
+        27,
+        30,
+        31
+      ],
+      "copied_rank_lower_bound": 12,
+      "distinct_colors_on_support": 12
+    },
+    {
+      "center_coordinate": 9,
+      "support_ports": [
+        5,
+        11,
+        17,
+        21,
+        25,
+        28
+      ],
+      "forced_orthogonal_clique": [
+        5,
+        11,
+        17,
+        25,
+        28,
+        21
+      ],
+      "copied_rank_lower_bound": 6,
+      "distinct_colors_on_support": 6
+    }
+  ],
+  "total_copied_rank_lower_bound": 45,
+  "deficit_upper_polynomial": {
+    "coefficient_of_L": -12,
+    "constant": -33
+  },
+  "rules_out_positive_deficit_for_all_positive_L": true,
+  "scope": "Every ordinary-dot-product odd-label realization preserving all required correction caps, with this fixed decoder and separately copied centers. Free Gram entries, ambient dimension, label distinctness encoding and proper cap choices do not weaken the clique witnesses. Does not rule out changing scalar decoder/factorization or eliminating copied centers."
+}

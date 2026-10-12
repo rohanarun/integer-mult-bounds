@@ -1,0 +1,14 @@
+[
+  {
+    "path": "notes/general-clifford-frames.tex",
+    "commit": "12a4934d15006e8c10f9b2264f13f8f341be802b",
+    "blob": "0367eeb005298601f28a673861d6f71bf1d0ebbb",
+    "sha256": "c9bb9655b594583c6b4bab8cb485233f1d1e588f83858cf1e4c3530cee8fed54"
+  },
+  {
+    "path": "notes/three-stage-cover-assembly.tex",
+    "commit": "12a4934d15006e8c10f9b2264f13f8f341be802b",
+    "blob": "983ffb6ac8fb9117360cd0797c00c05dfa071c9d",
+    "sha256": "ccf34a6d37c4af14bebeab15be50ab204eb1caebe546385520050ec30089441d"
+  }
+]

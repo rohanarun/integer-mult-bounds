@@ -1,0 +1,9 @@
+{
+  "sha256": {
+    "radical-geometry-leech-next/SLICE-GRAM-WITNESSES.json.gz": "44c6a26c7d78b5f3cc6f43142ebca8372bec9aab32938b1052d9ab19b1abf278",
+    "radical-geometry-leech-next/GRAM-COMPLETION-WITNESSES.json.gz": "406102ebbd24382bb68596e235efeb0fe5d6722e70d4bc6dfb80d2f496496645",
+    "radical-geometry-leech-next/SOURCE-LINES.json.gz": "91a0ca705dbb2b95b64ae54b42e21fa95e5aebf9f61a88ad813e85bf9697f81a",
+    "radical-geometry-alternatives/e7-local-word/price_obstruction.py": "ff58cc1b81a4484c8d18a302b0e8dc088abbde84a92a679f7d43ce376461180b"
+  },
+  "scope": "Frozen33port scalar geometry, oldGram witness, and copied-center cover accounting."
+}

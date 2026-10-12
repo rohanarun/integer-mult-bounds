@@ -1,0 +1,1128 @@
+{
+  "status": "PASS_CONSTRUCTIVE_NEW_GRAM_LABEL_REALIZATIONS",
+  "ports": 33,
+  "forced_orthogonality_edges": 264,
+  "exact_maximum_clique": 12,
+  "clique_ports": [
+    7,
+    9,
+    3,
+    10,
+    13,
+    15,
+    19,
+    20,
+    24,
+    27,
+    30,
+    31
+  ],
+  "best": {
+    "seed": 0,
+    "colors": 12,
+    "tag_bits_each_copy": 2,
+    "dimension": 16,
+    "label_span_rank": 14,
+    "center_ranks": [
+      14,
+      7,
+      4,
+      4,
+      12,
+      6
+    ],
+    "copy_charge": 47,
+    "all_gathers_proper": true
+  },
+  "trials": [
+    {
+      "seed": 0,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 1,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 2,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 3,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 4,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 5,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 6,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 7,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 8,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 9,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 10,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 11,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 12,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 13,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 14,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 15,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 16,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 17,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 18,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 19,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 20,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 21,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 22,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 23,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 24,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 25,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 26,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 27,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 28,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 29,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 30,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 31,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 32,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 33,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 34,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 35,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 36,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 37,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 38,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 39,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 40,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 41,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 42,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 43,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 44,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 45,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 46,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 47,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 48,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 49,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 50,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 51,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 52,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 53,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 54,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 55,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 56,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 57,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 58,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 59,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 60,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 61,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 62,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    },
+    {
+      "seed": 63,
+      "colors": 12,
+      "tag_bits_each_copy": 2,
+      "dimension": 16,
+      "label_span_rank": 14,
+      "center_ranks": [
+        14,
+        7,
+        4,
+        4,
+        12,
+        6
+      ],
+      "copy_charge": 47,
+      "all_gathers_proper": true
+    }
+  ],
+  "scope": "Changing unconstrained Gram entries only. Same ordinary F2 dot product, source labels/target caps, dyadic scalar transfer. No global pricing."
+}

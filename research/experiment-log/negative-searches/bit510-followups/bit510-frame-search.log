@@ -1,0 +1,3 @@
+CATALOGUE 672 profile {1: 1200, 2: 1440, 4: 180, 6: 120} seconds 1.006981249898672
+SWEEP 0 moves 0
+{'status': 'COMPLETE_FIXED_CATALOGUE_SINGLE_NODE_FRAME_SEARCH', 'trials': 99, 'moves': [], 'baseline_chain_profile': {1: 1200, 2: 1440, 4: 180, 6: 120}, 'new_chain_profile': {1: 1200, 2: 1440, 4: 180, 6: 120}, 'seconds': 1.097306999959983, 'scope': 'Exact rational catalogue closure and nesting. Fixed scalar instructions and entrances; floating moment fee discovery only. No physical emission, phase, or global bound claim.'}

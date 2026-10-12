@@ -72,3 +72,5 @@ Factory perturbation fleet (2026-10-12): [4,812 candidates on 120 sandboxes, no 
 Leech lattice screen (2026-10-12): [Λ₂₄ vs E8 port geometry, no per-port advantage](negative-searches/leech-lattice-screen-claude-2026-10-12/README.md).
 
 Latest: [PR531 independent replay and direct-delivery failed searches](negative-searches/direct504-followups/README.md). No new winner; includes40seeded orders, coupled frame screens and six exact retirement-allocation rejections.
+
+R480 bit frontier: [frame, stage-count and non-root kernel followups](negative-searches/bit510-followups/README.md), including all no-gain outcomes and an exact fixed-first-touch kernel obstruction.

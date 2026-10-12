@@ -1,0 +1,9 @@
+{
+  "status": "PASS_INDEPENDENT_SCALAR_AND_TWO_GF2_RANK_ENGINES",
+  "columns": 720,
+  "helpers": 480,
+  "root_classes": 120,
+  "nonroot_classes": 120,
+  "zero_response_helpers": 0,
+  "scope": "Checks scalar word and ranks of the independently enumerated geometric classes. The enumeration completeness is supplied by the exact plane-intersection screen."
+}

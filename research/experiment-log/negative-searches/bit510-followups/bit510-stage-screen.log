@@ -1,0 +1,14 @@
+{'stages': 5, 'm': 36, 'live': 15360, 'status': 'INFEASIBLE_OR_UNRESOLVED_MODEL', 'error': "AssertionError('The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)')", 'seconds': 1.155072166933678}
+{'stages': 7, 'm': 50, 'live': 23040, 'status': 'INFEASIBLE_OR_UNRESOLVED_MODEL', 'error': "AssertionError('The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)')", 'seconds': 0.0006850420031696558}
+{'stages': 9, 'm': 64, 'live': 30720, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001587447106092548137108', 'beats_bit510': False, 'seconds': 0.06345554208382964}
+{'stages': 11, 'm': 78, 'live': 38400, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001574714084094765872046', 'beats_bit510': False, 'seconds': 0.0862343329936266}
+{'stages': 13, 'm': 92, 'live': 46080, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001545703564899471543334', 'beats_bit510': False, 'seconds': 0.10146795806940645}
+{'stages': 15, 'm': 106, 'live': 53760, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001510247664074732792358', 'beats_bit510': False, 'seconds': 0.12389575003180653}
+{'stages': 17, 'm': 120, 'live': 61440, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001467287438603697747124', 'beats_bit510': False, 'seconds': 0.09425266599282622}
+{'stages': 19, 'm': 134, 'live': 69120, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001421465948371804198685', 'beats_bit510': False, 'seconds': 0.10948908398859203}
+{'stages': 21, 'm': 148, 'live': 76800, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001378154146252386407743', 'beats_bit510': False, 'seconds': 0.11436166695784777}
+{'stages': 23, 'm': 162, 'live': 84480, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.00133733487131059266318', 'beats_bit510': False, 'seconds': 0.12061275006271899}
+{'stages': 25, 'm': 176, 'live': 92160, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001299019408962405168699', 'beats_bit510': False, 'seconds': 0.1336754170479253}
+{'stages': 27, 'm': 190, 'live': 99840, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001263003766848239301079', 'beats_bit510': False, 'seconds': 0.142745416960679}
+{'stages': 29, 'm': 204, 'live': 107520, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001229220561709145634842', 'beats_bit510': False, 'seconds': 0.30033966701012105}
+{'stages': 31, 'm': 218, 'live': 115200, 'status': 'PASS_AGGREGATE_PATTERN_AND_EXACT_PRICE_ONLY', 'lower': '0.001197457074634343333903', 'beats_bit510': False, 'seconds': 0.9479741669492796}

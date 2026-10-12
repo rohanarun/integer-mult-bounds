@@ -1,0 +1,15 @@
+{
+  "status": "PASS_EXACT_RECOVERY_OF_KNOWN_PR550_WORD",
+  "decompressed_word_sha256": "6a02824c7484b9fd768a39d87b9c65dbe5221a877032ed1f74d11afb2acdd7d8",
+  "known_move_positions": [
+    936,
+    1048
+  ],
+  "profile_delta": {
+    "1": 1,
+    "2": -1,
+    "3": -1,
+    "4": 1
+  },
+  "scope": "Regression only; not a new552improvement"
+}

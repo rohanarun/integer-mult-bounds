@@ -1,0 +1,214 @@
+{
+  "status": "COMPLETE_ALL_DISTANCE_TWO_TO_THREE_SCREEN",
+  "source_sha256": "a30810b755cf80e1128c0b932728bd51ca8e0bb31225fc415675afb42a766c8f",
+  "source_pr552_head": "33c33af0b7697155be1ea708e08cbd3f0707d94c",
+  "stats": {
+    "algebraic_pairs": 18150,
+    "commuting_pairs_directions": 4225,
+    "frame_assignments": 10444,
+    "commutation_rejected": 32075,
+    "empty_interval": 2738,
+    "full_profile_rejected": 4
+  },
+  "rejected_positive_nominations": [
+    {
+      "section": "A",
+      "positions": [
+        1823,
+        1982
+      ],
+      "direction": "earlier_right",
+      "frames": [
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ],
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ],
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ]
+      ],
+      "error": "centre frame",
+      "proposed_delta": {
+        "1": -1,
+        "4": -1,
+        "5": 1
+      }
+    },
+    {
+      "section": "A",
+      "positions": [
+        1956,
+        2006
+      ],
+      "direction": "earlier_right",
+      "frames": [
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ],
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ],
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ]
+      ],
+      "error": "centre frame",
+      "proposed_delta": {
+        "1": -1,
+        "4": -1,
+        "5": 1
+      }
+    },
+    {
+      "section": "A",
+      "positions": [
+        1957,
+        2000
+      ],
+      "direction": "earlier_right",
+      "frames": [
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ],
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ],
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ]
+      ],
+      "error": "centre frame",
+      "proposed_delta": {
+        "1": -1,
+        "4": -1,
+        "5": 1
+      }
+    },
+    {
+      "section": "A",
+      "positions": [
+        1958,
+        1994
+      ],
+      "direction": "earlier_right",
+      "frames": [
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ],
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ],
+        [
+          256,
+          128,
+          64,
+          32,
+          16,
+          8,
+          4,
+          2,
+          1
+        ]
+      ],
+      "error": "centre frame",
+      "proposed_delta": {
+        "1": -1,
+        "4": -1,
+        "5": 1
+      }
+    }
+  ],
+  "nominations": [],
+  "seconds": 2.1171513749286532,
+  "scope": "Both exact-commuting placements for all algebraic pairs; distinct nested replacement frames, exhaustive intervals through quotient dimension4. Positive full gk.profile candidates still require independent scalar/physical/price admission."
+}

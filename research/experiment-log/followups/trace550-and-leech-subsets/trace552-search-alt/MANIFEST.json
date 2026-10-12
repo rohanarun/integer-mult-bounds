@@ -1,0 +1,15 @@
+{
+  "CHAIN4-RESULT.json": "438eb5a1c66a0aa5268b44da79cd70127169e1f5da28c18c77deece954156c97",
+  "CONTRACT-RESULT.json": "4441bce1d2f490e0fc88cc0d4e8d9fe2c2695b86c77404093b49ac2dde1fe306",
+  "README.md": "0ee5ca21fbaf8131201f234c083e3511ebf6d7f5471b099e6bf1571796fe2be4",
+  "REGRESSION.json": "15120cdb6d27ae55909ca6055e3a4908aa45a04a50597dadf67abca28f3d01d6",
+  "SOURCE-BINDING.json": "bfed00a780b4dc9a30b9165a42675cef34c5334bf734c498811c6b1bb5f7a2fc",
+  "chain4-run.log": "0881c349ecef07f088e1c77541f2953c91e46fe924a9015caef086200c6d62b4",
+  "contract-run.log": "9cf2eccc493bda2542d8ab9ad5eb6066eca84816630f99c4a29e1bd361f73f4c",
+  "regression548/CHAIN4-RESULT.json": "df5caf5d487e5f9168bc1840c77b3d07bd99bcface209e72eac6a01f06718263",
+  "regression548/chain4-candidate-000.json.gz": "72382a6d6f6f60c09ff2cb157b43b914393b8fddd97b2de368fc13acbd2b4e2c",
+  "regression548/chain4-candidate-001.json.gz": "df59b4969a65395615dac28eff2deecea7b2121ebc640ca71653bacdda89722a",
+  "regression548/run.log": "ebc518b23c2d378da772be0a90fa3d3057e59f4cb38466e1b3b34e531bd8e08b",
+  "search_chain4.py": "da8e741c5f0e3e1da3463366aa533cea916da6c2deab5ff0ff7b2c6fe5e01b7d",
+  "search_contract.py": "3b640facd0b6f8236c7fde8f23dd0523c66bd82c4f6e53e8bc4e25a6f696f2e4"
+}

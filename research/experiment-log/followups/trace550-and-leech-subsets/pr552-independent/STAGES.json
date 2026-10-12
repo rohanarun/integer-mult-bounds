@@ -1,0 +1,17 @@
+[
+  {
+    "name": "complex-reconstruction-and-local-checks",
+    "exit": 0,
+    "seconds": 13.987790917046368
+  },
+  {
+    "name": "complete-owner-physical-and-invoice",
+    "exit": 0,
+    "seconds": 7.874530042055994
+  },
+  {
+    "name": "exact-two-supplier-assembly",
+    "exit": 0,
+    "seconds": 0.24127279093954712
+  }
+]

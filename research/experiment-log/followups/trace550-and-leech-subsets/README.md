@@ -52,3 +52,11 @@ Only completed Python3.11 receipts were added after the initial freeze. Publicat
 ## Stronger551/552 composition tests completed
 
 [Exact source comparison and retained experiments](source551-comparison/README.md) includes137 hashed files plus its manifest. PR550 expansion is paid-neutral on the new wave;120-retime transplant encounters55 overlapping frames. Direct versions fail legality or lose cost; the A-only intersection is neutral, whereas the A-only override loses. All37component tests,48frame mixtures and two60-second anneals found no further gain. Constructors and independent saved-word/profile recounts pass; full551/552 physical admission has not been independently replayed here.
+
+## PR552 independent full-package replay completed
+
+The [new independent result](pr552-independent/RESULT.json) confirms conditional kappa0.001591968902833346 from the exact33c33af0b7697155be1ea708e08cbd3f0707d94c head. Complete reconstruction, changed-edge phase checks with pinned inherited phase certificates, native/owner controls, fresh finite invoice and both-engine outer assembly pass. The unchanged543bit remains a cited dependency in this run. [All105exact source blobs and full replay outputs](pr552-independent/source-and-full-replay.tar.gz) are archived and every archive member was byte-compared. This supersedes the earlier independent-verification-pending snapshot. GitHub CI remains separate.
+
+## Further trace search on the changed552 scalar word
+
+[Bounded rewrite results](trace552-search-alt/README.md):18,150algebraic2-to-3pairs,4,225commuting placements and10,444nested-frame assignments;5,848matching3-to-2triples and378commuting placements/frameassignments. No further gain; four apparent A improvements fail the center-frame check. Input bytes match the independent full552 reconstruction. Positive regression exactly reconstructs the known550 word from548. These tests do not exhaust interior insertion positions or sequences of neutral rewrites.

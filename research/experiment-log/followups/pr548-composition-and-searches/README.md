@@ -32,3 +32,9 @@ Potential untested moves include multi-bin exchanges, larger block repacking, ch
 All inherited all-size compiler, common-label/mutable-source, whole-call hosting, precision/tape and analytic-transfer contracts remain conditional. R420 phase-B source writes retain PR543's explicit H1-H5 interface argument. No unconditional theorem, complete Lean proof or measured speedup is claimed. Historical100-item classifications and40 unexecuted proposals are unchanged.
 
 Prepared for Rohan Arun with OpenAI Codex assistance. PR543, PR548, PR544, PR534 and all upstream authors/notices retain credit; the archived frame-chain search retains its Claude assistance disclosure.
+
+## Stronger completed obstruction: all two-bin blocks
+
+A subsequent [exact enumeration](results/complex548-two-bin-obstruction/RESULT.json) closes every exchange of arbitrary whole-helper subsets between two distinct bins, including empty subsets (ordinary relocations). It enumerates all subsets of every actual bin and records all reachable exchanged-width/remainder groups. Every feasible distinct-bin shape has nondecreasing minimum remainder, giving the same concavity/fallback argument for every 0<b<1. The only apparently improving shapes require two bins each with remainder39; the actual map has just one, so that move is impossible. [Verifier](scripts/certify_complex548_two_bin_obstruction.py), [run log](results/complex548-two-bin-obstruction/run.log).
+
+This strengthens the earlier pair/packet result. Larger blocks within just two bins cannot strictly improve this pinned map either. Three-or-more-bin moves, neutral or worsening intermediate rearrangements, and changed local words remain outside the certificate. These three supplemental files were added after the evidence tar was built; the root archive manifest binds them separately.

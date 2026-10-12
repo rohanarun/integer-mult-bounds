@@ -18,7 +18,8 @@
     "cross_call_pairs": "36288 roles screened through remainder/width groups, no improving shape",
     "two_for_one": "44110 co-located helper pairs, no improving shape",
     "exact_exchange_obstruction": "30 capacity-feasible one-for-one shapes and 8 two-for-one shapes cannot improve for any 0<b<1",
-    "relaxed_complex_ceiling": "0.001615290935375506063577"
+    "relaxed_complex_ceiling": "0.001615290935375506063577",
+    "all_two_bin_subset_exchanges": "Exact obstruction for every two-bin whole-helper subset exchange, including empty subsets; no strict improvement for any 0<b<1 at this fixed map."
   },
   "scope": "Conditional finite composition. Arithmetic checks agree in Python3.11 and3.14; complex physical replay in3.14. CI not claimed passed. Search negatives have fixed-word/fixed-map scope. Relaxed ceiling is not feasible or a new kappa; unused PR548 bit not replayed."
 }

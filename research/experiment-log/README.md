@@ -96,3 +96,4 @@ Latest completed tests: [PR552 circuit/frame searches, exact smaller-Leech cost 
 Latest completed batch: [native complex moment, full Leech quotient geometry, label compression and commutator failures](followups/native-complex-moment-and-leech-labels/README.md). PR559 reports conditional kappa 0.001592517892053334; Leech witnesses remain unadmitted.
 
 Latest Leech continuation: [exact phase admission, new 98,280-port cubic decoder, and scoped cost exclusions](followups/leech-cubic-and-phase-admission/README.md). No new kappa; reproducible positive and negative results retained.
+Barnes-Wall geometry screen (2026-10-12): [BW16/RM(1,4) vs E8 and the block-climb prize on PR579](negative-searches/barnes-wall-geometry-screen-claude-2026-10-12/README.md).

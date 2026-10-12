@@ -1,0 +1,38 @@
+[
+ {
+  "id": "claude-1012-leech-01",
+  "category": "new-port-geometry-leech",
+  "date_utc": "2026-10-12",
+  "source_commit": null,
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "E8 / extended-Hamming [8,4,4] port geometry used by the PR433-lineage complex supplier",
+   "value": null,
+   "scope": "structural screen only; no kappa value computed"
+  },
+  "hypothesis": "Replacing the E8 / F2^9 frame geometry with the Leech lattice (Golay [24,12,8]) gives a port frame with lower side-correction load per line and therefore a cheaper complex word.",
+  "command_or_script": "leech.py; compare.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "analysis_only",
+  "result": {
+   "leech_minimal_vectors": 196560,
+   "leech_lines": 98280,
+   "leech_per_line_ip_classes_over_8": {"0": 46575, "+-1": 47104, "+-2": 4600},
+   "leech_frame_tight": true,
+   "coherence": {"E8": 0.5, "Leech": 0.5},
+   "welch_bound": {"E8": 0.343, "Leech": 0.204},
+   "nonzero_neighbour_fraction": {"E8": 0.4706, "Leech": 0.5261},
+   "label_dim_with_parity": {"E8": 9, "Leech": 25},
+   "binary_code_relative_distance": {"ext_Hamming": 0.5, "Golay": 0.3333},
+   "type2_classes_mod_2": {"E8/2E8": 120, "Lambda/2Lambda": 98280}
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Explicit construction of all 196,560 Leech minimal vectors from the Golay code (weight enumerator 1,759,2576,759,1 checked), full inner-product census against one line, frame operator checked tight (diag 131040, off-diag 0). E8 census from the 240 roots. No kappa pricing was run.",
+  "evidence": ["leech.py", "compare.py", "LEECH-STATS.json"],
+  "do_not_repeat_scope": "Using Leech as a drop-in replacement frame for the E8 ports: same coherence 1/2, a larger fraction of correlated neighbours (0.526 vs 0.471), label dimension 25 vs 9, and Golay relative distance 1/3 vs 1/2. No per-port structural advantage to price.",
+  "retry_when": "A pricing model is proposed where cost scales with lines-per-dimension (Leech 4095 vs E8 15) or with kissing number rather than with correlated-neighbour load or label dimension, or a Leech-native solver geometry (e.g. 24-dim Golay frames with a matching wrapper/Lemma A argument) is specified.",
+  "supersedes": null
+ }
+]

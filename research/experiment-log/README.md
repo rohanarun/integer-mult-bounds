@@ -69,3 +69,4 @@ Latest completed findings: [reconciliation, remaining work and input-size explan
 
 Claude design screens (2026-10-12): [puncturing, substitution, rank-sector, co-design and footprint records](negative-searches/design-screens-claude-2026-10-12/README.md).
 Factory perturbation fleet (2026-10-12): [4,812 candidates on 120 sandboxes, no gain](negative-searches/factory-perturbation-sweep-claude-2026-10-12/README.md).
+Leech lattice screen (2026-10-12): [Λ₂₄ vs E8 port geometry, no per-port advantage](negative-searches/leech-lattice-screen-claude-2026-10-12/README.md).

@@ -1,0 +1,77 @@
+{
+ "min_vectors": 196560,
+ "lines": 98280,
+ "ip_classes": {
+  "4": 1,
+  "0": 46575,
+  "-2": 2300,
+  "2": 2300,
+  "-1": 23552,
+  "1": 23552
+ },
+ "comparison": {
+  "E8": {
+   "dim": 8,
+   "lines": 120,
+   "ip_classes_vs_roots": {
+    "2": 1,
+    "0": 126,
+    "-2": 1,
+    "1": 56,
+    "-1": 56
+   },
+   "nonzero_neighbour_lines": 56,
+   "zero_lines": 63,
+   "coherence": 0.5,
+   "welch_bound": 0.3429971702850177,
+   "lines_per_dim": 15,
+   "quotient_2": "E8/2E8: 1+120+135=256",
+   "nonzero_fraction": 0.47058823529411764
+  },
+  "Leech": {
+   "dim": 24,
+   "lines": 98280,
+   "nonzero_neighbour_lines": 51704,
+   "zero_lines": 46575,
+   "coherence": 0.5,
+   "welch_bound": 0.2041002584908478,
+   "lines_per_dim": 4095.0,
+   "quotient_2": "Lambda/2Lambda: 1+98280+8386560+8292375=2^24; distinct minimal lines never congruent mod 2Lambda since |v-w|^2=64-2ip<128",
+   "nonzero_fraction": 0.526094079101334,
+   "ip_classes_vs_lines": {
+    "0": 46575,
+    "+-1": 47104,
+    "+-2": 4600,
+    "self": 1
+   }
+  },
+  "Golay_vs_Hamming": {
+   "extended_Hamming": [
+    8,
+    4,
+    4
+   ],
+   "Golay": [
+    24,
+    12,
+    8
+   ],
+   "rel_distance": [
+    0.5,
+    0.3333333333333333
+   ],
+   "codewords": [
+    16,
+    4096
+   ]
+  },
+  "label_dim_with_parity": {
+   "E8": 9,
+   "Leech": 25,
+   "h_analogue": [
+    0.8888888888888888,
+    0.96
+   ]
+  }
+ }
+}

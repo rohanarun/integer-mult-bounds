@@ -1,0 +1,11 @@
+{
+  "branch": "codex/static44-r480-composition",
+  "commit": "77833ffa1110c6645f5d0866ebf41510ee3d27a3",
+  "base": "db0e57bc7f36b5ac0fc844ad7ce1396165ee6647",
+  "files": 20,
+  "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/546",
+  "previous_commits": [
+    "6872faf8d555914bb349ea267b5fca5ed0eb90ad"
+  ],
+  "tree": "eba3d4e2c4d6b432e25ca019c78f41b9aceb3996"
+}

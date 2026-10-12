@@ -1,0 +1,7 @@
+Collecting scipy
+  Downloading scipy-1.18.1-cp314-cp314-macosx_14_0_arm64.whl.metadata (62 kB)
+Requirement already satisfied: numpy<2.8,>=2.0.0 in ./verify-sympy314/lib/python3.14/site-packages (from scipy) (2.5.4)
+Downloading scipy-1.18.1-cp314-cp314-macosx_14_0_arm64.whl (20.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 20.5/20.5 MB 27.2 MB/s  0:00:00
+Installing collected packages: scipy
+Successfully installed scipy-1.18.1

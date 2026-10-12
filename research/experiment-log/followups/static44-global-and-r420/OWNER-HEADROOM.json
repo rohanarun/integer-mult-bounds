@@ -1,0 +1,27 @@
+{
+  "status": "PASS_RELAXED_FIXED_WORD_OWNER_CEILING_NOT_FEASIBILITY",
+  "source_head": "4858bb38da10cd8a1cd25ef85e7c14f4e2b529dd",
+  "idle_mass": 87840,
+  "maximum_idle_rank": 48,
+  "ideal_idle_count": 1830,
+  "actual_idle_profile": {
+    "2": 448,
+    "3": 1923,
+    "7": 208,
+    "39": 1,
+    "48": 1660
+  },
+  "relaxed_global_profile": {
+    "1": 158688,
+    "2": 52416,
+    "3": 13248,
+    "4": 20160,
+    "5": 4032,
+    "6": 4032,
+    "8": 576,
+    "48": 1830
+  },
+  "complex_saving_strict_upper": "161500954473851344343/100000000000000000000000",
+  "scope": "Fixed 72-call static44 local profiles, fixed live stock, deficit and original data idle children of rank<=48. Arbitrarily concentrate residual mass into rank48 children and omit fallback charges. This is an optimistic ceiling, not a schedulable owner map or improved kappa.",
+  "complex_saving_strict_upper_decimal": "0.00161500954473851344343"
+}

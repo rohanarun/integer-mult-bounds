@@ -1,0 +1,122 @@
+[
+ {
+  "id": "claude-1013-pr799-01",
+  "category": "reorder-frames",
+  "date_utc": "2026-10-13",
+  "source_commit": "80e6463",
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR799 (jeremykothe2)",
+   "value": "0.001661634653669567",
+   "scope": "complex-bound"
+  },
+  "hypothesis": "Commuting reorder plus frame lifts improves PR799.",
+  "command_or_script": "sa3.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "bounded_no_gain",
+  "result": {
+   "fee": 34.1130232381306
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Frame model reproduces PR799 local profile exactly; candidate words checked with PR645 independent audit_local where produced.",
+  "evidence": [
+   "sa3.py"
+  ],
+  "do_not_repeat_scope": "Target-gate reorder and frame lifts on X4.",
+  "retry_when": "Cleanup-aware reorder with regenerated refactored cleanup.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1013-pr799-02",
+  "category": "low-ends",
+  "date_utc": "2026-10-13",
+  "source_commit": "80e6463",
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR799 (jeremykothe2)",
+   "value": "0.001661634653669567",
+   "scope": "complex-bound"
+  },
+  "hypothesis": "More helpers can end below FULL.",
+  "command_or_script": "lowend.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "bounded_infeasible",
+  "result": {
+   "candidates_below_9": 0,
+   "helpers": 378
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Frame model reproduces PR799 local profile exactly; candidate words checked with PR645 independent audit_local where produced.",
+  "evidence": [
+   "lowend.py"
+  ],
+  "do_not_repeat_scope": "Low ends on X4 via tail moves.",
+  "retry_when": "A new cleanup factorisation.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1013-pr799-03",
+  "category": "cold-start-promotion",
+  "date_utc": "2026-10-13",
+  "source_commit": "80e6463",
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR799 (jeremykothe2)",
+   "value": "0.001661634653669567",
+   "scope": "complex-bound"
+  },
+  "hypothesis": "Cold helpers can enter at a line.",
+  "command_or_script": "zcost.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "bounded_infeasible",
+  "result": {
+   "blocked": 72
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Frame model reproduces PR799 local profile exactly; candidate words checked with PR645 independent audit_local where produced.",
+  "evidence": [
+   "zcost.py"
+  ],
+  "do_not_repeat_scope": "Cold-helper start promotion on X4.",
+  "retry_when": "Premix redesign that avoids target-pinned partners.",
+  "supersedes": null
+ },
+ {
+  "id": "claude-1013-pr799-04",
+  "category": "centre-rank",
+  "date_utc": "2026-10-13",
+  "source_commit": "80e6463",
+  "source_word_sha256": null,
+  "baseline": {
+   "name": "PR799 (jeremykothe2)",
+   "value": "0.001661634653669567",
+   "scope": "complex-bound"
+  },
+  "hypothesis": "Centre totals can live in rank-7 frames, raising the deficit.",
+  "command_or_script": "centres.py",
+  "parameters": {},
+  "seeds": [],
+  "status": "analysis_only",
+  "result": {
+   "one_centre_rank7": "+2.8% b",
+   "all_rank7": "+22% b",
+   "directions_scanned": 664,
+   "min_rank_noncoordinate": 9
+  },
+  "failure_kind": null,
+  "failure_reason": null,
+  "verification_scope": "Frame model reproduces PR799 local profile exactly; candidate words checked with PR645 independent audit_local where produced.",
+  "evidence": [
+   "centres.py"
+  ],
+  "do_not_repeat_scope": "Linear decoding totals on the 112 E8 ports.",
+  "retry_when": "A new port labelling or geometry with low-rank decoder supports.",
+  "supersedes": null
+ }
+]

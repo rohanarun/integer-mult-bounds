@@ -98,3 +98,4 @@ Latest completed batch: [native complex moment, full Leech quotient geometry, la
 Latest Leech continuation: [exact phase admission, new 98,280-port cubic decoder, and scoped cost exclusions](followups/leech-cubic-and-phase-admission/README.md). No new kappa; reproducible positive and negative results retained.
 Barnes-Wall geometry screen (2026-10-12): [BW16/RM(1,4) vs E8 and the block-climb prize on PR579](negative-searches/barnes-wall-geometry-screen-claude-2026-10-12/README.md).
 Two-call joint geometry and shared quartet sums (2026-10-12): [interface blocker; PR575 already shares nearly every partial sum](negative-searches/shared-quartet-sums-pr575-claude-2026-10-12/README.md).
+PR799 levers and centre rank (2026-10-13): [reorder, low ends and cold promotions exhausted; one rank-7 centre would be worth +2.8% b](negative-searches/pr799-levers-and-centre-rank-claude-2026-10-13/README.md).

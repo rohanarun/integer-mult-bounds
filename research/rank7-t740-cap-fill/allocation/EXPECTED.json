@@ -1,0 +1,15 @@
+{
+ "calls": 6660,
+ "payload_convention": "SHA-256 of json.dumps(obj, sort_keys=True, separators=(\",\", \":\")) + \"\\n\" (uncompressed), as lift.canonical",
+ "payload_sha256": {
+  "DISPATCH.json": "90edc935320dd6264e98dc735d868df3c95f5901c70d7d96171001fcb295cce0",
+  "FILL.json.gz": "b56bfed2c542e63f4139e8e3ebb9fe0c979a3bab1ba6a934e2113f40f5c7e0f0",
+  "ORDER.json": "927226d702bf3cada076f4c459da9063c0df7e7154a62955cf75c40cf30215b9",
+  "PROFILE.json": "96409a22344fd6cc64c4126901f0e3c51d084ea0d34a815092327a0ec75156fc"
+ },
+ "physical": 663549,
+ "relocations": 332,
+ "replicas": 740,
+ "roles": 2717280,
+ "touched_bins": 263
+}

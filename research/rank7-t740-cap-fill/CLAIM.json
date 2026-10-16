@@ -1,0 +1,72 @@
+{
+ "allocation": {
+  "payload_sha256": {
+   "DISPATCH.json": "90edc935320dd6264e98dc735d868df3c95f5901c70d7d96171001fcb295cce0",
+   "FILL.json.gz": "b56bfed2c542e63f4139e8e3ebb9fe0c979a3bab1ba6a934e2113f40f5c7e0f0",
+   "ORDER.json": "927226d702bf3cada076f4c459da9063c0df7e7154a62955cf75c40cf30215b9",
+   "PROFILE.json": "96409a22344fd6cc64c4126901f0e3c51d084ea0d34a815092327a0ec75156fc"
+  },
+  "relocations": 332,
+  "source": "PR2979 allocation/ (T74 ORDER/DISPATCH/FILL), ten lockstep copies (PR2969 convention)",
+  "touched_bins": 263
+ },
+ "baseline_head": "be191346391661f4d35fc0d1508d0a6029572576",
+ "baseline_kappa": "17290339826465135177169999999999999999999998999999999999999999999999/10000000000000000000000000000000000000000000000000000000000000000000000",
+ "baseline_pr": 2979,
+ "baseline_status": "CONDITIONAL_CANDIDATE_COMPLETE_FINITE_RELEASE",
+ "calls": 6660,
+ "complex_lower": "432258941218879045361/250000000000000000000000",
+ "fixed_inventory_cap": {
+  "cap_lower": "432258941218879045361/250000000000000000000000",
+  "cap_upper": "17290357648755161814441/10000000000000000000000000",
+  "realized": "attained: the literal idle histogram is exactly 740 x the optimal basic idle profile (verify.py)"
+ },
+ "gain_over_pr2979": "1782229002663727/1000000000000000000000000",
+ "gain_over_pr2979_decimal": "1.782229002663727E-9",
+ "headline_convention": "floor of the exact root lower end at 24 digits, minus 10^-46 and 10^-70, as PR2979/PR2969 (tools/audit_allocation_moment.py)",
+ "helpers": 408,
+ "idle": {
+  "1": 173160,
+  "3": 49617,
+  "48": 281903,
+  "5": 17205
+ },
+ "kappa": "17290357648755161814439999999999999999999998999999999999999999999999/10000000000000000000000000000000000000000000000000000000000000000000000",
+ "kappa_decimal": "0.0017290357648755161814439999999999999999999998999999999999999999999999",
+ "live_families": 663040,
+ "local_profile": {
+  "1": 2445,
+  "2": 706,
+  "3": 232,
+  "4": 108,
+  "5": 18,
+  "8": 8
+ },
+ "meaning": "Moment nomination for PR2979's unchanged words with a literal T740 allocation that attains their fixed-capacity packing cap; PR2979's complete T74 admission covers the words, the T740 allocation's complete admission/outer release is separate.",
+ "physical_families": 663549,
+ "profile": {
+  "1": 16456860,
+  "2": 4701960,
+  "3": 1594737,
+  "4": 719280,
+  "48": 281903,
+  "5": 137085,
+  "8": 53280
+ },
+ "replicas": 740,
+ "roles": 2717280,
+ "root_lower": "432258941218879045361/250000000000000000000000",
+ "root_upper": "17290357648755161814441/10000000000000000000000000",
+ "scope": "Packing only: no word, gate, frame, scalar or cleanup changes. Inherited all-size/compiler/theorem hypotheses remain. No selected-frontier change and no independent human review is claimed.",
+ "status": "FINITE_OWNER_AND_MOMENT_CANDIDATE_OUTER_PENDING",
+ "width_inventory": {
+  "4": 26,
+  "5": 2,
+  "6": 16,
+  "7": 52,
+  "8": 99,
+  "9": 213
+ },
+ "words": "PR2979 data/WORD-base.json.gz and data/WORD-extra.json.gz, unchanged",
+ "zero_buffers": 91
+}
